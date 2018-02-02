@@ -9,5 +9,4 @@
 <filetoinclude>moine.txt</filetoinclude>
 <filetoinclude>vampire.txt</filetoinclude>
 <filetoinclude>paladin.txt</filetoinclude>
-<filetoinclude>jeton.txt</filetoinclude>
 </listofcarddatafiles>
