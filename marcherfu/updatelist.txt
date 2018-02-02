@@ -1,4 +1,4 @@
-marcherfu	02-02-18
+marcherfu 02-02-18
 plugins/marcherfu/plugininfo.txt	https://github.com/Marcherfu/PluginMarcherfu/tree/master/marcherfu/plugininfo.txt	162641
 plugins/marcherfu/pluginpreferences.txt	https://github.com/Marcherfu/PluginMarcherfu/tree/master/marcherfu/pluginpreferences.txt	234637
 plugins/marcherfu/formats.txt	https://github.com/Marcherfu/PluginMarcherfu/tree/master/marcherfu/formats.txt	65961
