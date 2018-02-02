@@ -1,0 +1,23 @@
+Name	Set	ImageFile	Type	Sous-Type	Cout	Attaque	PVs	Texte
+Flammeche	mage		Sort	Feu	1			Inflige 2 points de degats a la cible.
+Etudiant en Magie	mage		Creature		2	2	2	Tant que cette creature est en jeu, vos sorts infligent 1 points de degats supplementaires.
+Racines d'Yggdrasil	mage		Artefact	Yggdrasil	2			
+Feuillage d'Yggdrasil	mage		Artefact	Yggdrasil	2			
+Tronc d'Yggdrasil	mage		Artefact	Yggdrasil	2			
+Seve d'Yggdrasil	mage		Artefact	Yggdrasil	2			
+Fruit d'Yggdrasil	mage		Artefact	Yggdrasil	2			
+Yggdrasil, l'Arbre Monde	mage		Sort	Yggdrasil	0			Si vous avez 5 Artefacts differents ayant comme sous-type Yggdrasil en jeu sacrifiez-les, le joueur adverse passe son prochain tour et tout vos sorts infligent 3 points de degats supplementaires.
+Choc Mental	mage		Sort		3			Prennez le controle de la creature ciblee pour le tour en cours et vous pouvez attaquer avec.
+Professeur des Arcanes	mage		Creature		5	3	5	Rajoutez les deux sorts de votre choix depuis votre defausse a votre main.
+Boule de Feu	mage		Sort	Feu	3			Inflige 5 points de degats a la cible.
+Chercheur de Midgard	mage		Creature		1	1	1	Cherchez dans votre deck une carte ayant le sous-type "Yggdrasil", montrez-la a votre adversaire et mettez-la dans votre main, melangez ensuite votre deck.
+Transformation en Oie	mage		Sort		4			Transformez la carte ciblee en Jeton Oie 0/1. Flash. (Peux etre jouee depuis votre main a n'importe quel moment tant que son cout est paye)
+Pyromancien	mage		Creature	Feu	1	1	1	Cherchez dans votre deck un sort ayant le sous-type "Feu", montrez-le a votre adversaire et mettez-le dans votre main, melangez ensuite votre deck.
+Cryomancien	mage		Creature	Glace	1	1	1	Cherchez dans votre deck un sort ayant le sous-type "Glace", montrez-le a votre adversaire et mettez-le dans votre main, melangez ensuite votre deck.
+Coulee de Lave	mage		Sort	Feu	3			Inflige 3 points de degat a toutes les creatures adverses et leurs proprietaires.
+Piege de Givre	mage		Sort	Piege et Glace	3			Au moment ou une creature adverse attaque une cible, vous pouvez decider d'annuler son attaque et de la geler. (Une creature gelee ne peux pas attaquer sur le prochain tour de jeu de son proprietaire)
+Stalagmite	mage		Sort	Glace	2			Inflige 3 points de degats a la cible et la gele si c'est une creature. (Une creature gelee ne peux pas attaquer sur le prochain tour de jeu de son proprietaire)
+Golem de Givre	mage		Creature	Glace	20	20	20	Coute 1 de moins a jouer pour chaque carte en jeu et chaque carte avec le sous-type "Glace" dans votre main.
+Recherche Arcanique	mage		Sort		8			Piochez deux cartes. Coute 1 de moins a jouer pour chaque carte en jeu.
+Invocation Enflammee	mage		Sort	Feu	15			Invoquez autant de Jetons 0/1 Engeance de Flamme avec "Tant que cette creature est en jeu, vos sorts infligent 1 points de degats supplementaires." que de point de degat des sorts bonus. Coute 1 de moins a jouer pour chaque carte dans votre main.
+Invocation Givree	mage		Sort	Glace	15			Invoquez autant de Jetons 0/1 Engeance de Givre avec "Tant que cette creature est en jeu, reduisez les dommages recus de 1." que de cartes dans votre main. Coute 1 de moins a jouer pour chaque carte dans votre main.
