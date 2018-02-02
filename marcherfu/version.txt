@@ -1,0 +1,8 @@
+<version>
+
+<lastupdateYYMMDD>180202</lastupdateYYMMDD>
+<versionurl>https://github.com/Marcherfu/PluginMarcherfu/tree/master/marcherfu/version.txt</versionurl>
+<updateurl>https://github.com/Marcherfu/PluginMarcherfu/tree/master/marcherfu/updatelist.txt</updateurl>
+<message>Rajout de 113 nouvelles cartes !</message>
+
+</version>
