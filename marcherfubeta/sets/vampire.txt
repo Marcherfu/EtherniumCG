@@ -10,15 +10,14 @@ Demon des Abysses	vampire		Creature		8	X	1	L'attaque de cette creature est egal 
 Transformation en Chauve-Souris	vampire		Sort		3			La creature cible deviens jusqu'a la fin du tour un Jeton Chauve-Souris 1/1 avec Drain. (La moitie des degats (arrondi a l'inferieur) que cette creature inflige, qu'elle soit attaquante ou bloqueuse, vous sont rendus en PVs.)
 Lame de Sang	vampire		Sort		3			La creature cible gagne +2/+0.
 Dracula, Roi des Chauves-Souris	vampire		Creature		6	6	3	Invoquez 2 jetons Chauve-Souris 1/1 avec Drain. (La moitie des degats (arrondi a l'inferieur) que cette creature inflige, qu'elle soit attaquante ou bloqueuse, vous sont rendus en PVs.) Si vous avez moins de 10PVs, invoquez en 5 au lieu de 2.
-
 Apprenti Vampire	vampire		Creature		4	2	2	Succion 2 : Gagne +2/+0 pour le tour en cours. (Payez 2 PVs pour activer cet effet.)
 Alucard	vampire		Creature		6	6	6	Succion 4 : Donnez la Celerite (Peux attaquer des le tour ou cette carte est jouee) a la creature de votre choix. (Payez 4 PVs pour activer cet effet.)
-3	vampire		T	ST	C	A	P	T
-4	vampire		T	ST	C	A	P	T
-5	vampire		T	ST	C	A	P	T
-6	vampire		T	ST	C	A	P	T
-7	vampire		T	ST	C	A	P	T
-8	vampire		T	ST	C	A	P	T
-9	vampire		T	ST	C	A	P	T
-10	vampire		T	ST	C	A	P	T
-11	vampire		T	ST	C	A	P	T
+Temple Sanglant	vampire		Artefact		4			A chaque fois que vous utilisez une capacitee de succion, infligez 1 Point de Degat a la cible de votre choix.
+Nosferatu	vampire		Creature		5	3	3	Succion 3 : le joueur cible pioche une carte. (Payez 3 PVs pour activer cet effet.)
+Traitrise	vampire		Sort		3			Sacrifiez une creature alliee : rendez 3PVs a la cible de votre choix.
+Abraham Van Helsing, Chasseur de Vampires	vampire		Creature		7	3	3	Gagne +0/+1 pour chaque carte neutre en jeu, gagne +1/+0 pour chaque carte vampire en jeu. Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)
+Calice Ensanglante	vampire		Artefact		8			A chaque fois que vous utilisez une capacitee de succion, vous regagnez autant de vie que de PVs depenses et vous pouvez ensuite decider de les redepenser pour infliger X points de degats a toutes les creatures adverses et leurs proprietaires, X etant le cout de la capacitee de succion.
+Sentinelle Vampire	vampire		Creature		1	1	1	A chaque fois que vous utilisez une capacitee de succion, rendez 1PV a la cible de votre choix.
+Behemoth	vampire		Creature		9	7	5	Succion 5 : inflige 5 points de degats a la cible. (Payez 5 PVs pour activer cet effet.) Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)
+Vengeance	vampire		Sort		6			Detruisez la carte de votre choix, si vous avez moins de 10PVs, cette carte coute 3 de moins a jouer et vous pouvez la remettre dans votre main au lieu de la mettre dans votre defausse.
+Carmilla	vampire		Creature		3	1	3	A chaque fois qu'une creature, qu'un sort ou qu'un artefact est joue, infligez 1 point de degats au joueur cible.
