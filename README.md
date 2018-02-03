@@ -10,8 +10,6 @@ Le nombre maximum de cartes en main en dehors de votre tour est de 9 cartes en m
 Votre main doit toujours rester dans le même ordre, il existe des cartes visant un emplacement précis dans votre main et c'est pour celà que vous devez la laisser toujours dans le même ordre et ne surtout pas la trier.  
 Les Créatures récupèrent tout leurs PVs a chaque fin de tour.  
 Sinon à part ça c'est un jeu de carte banal, le texte l'emporte sur les règles etc.  
-Lien de téléchargement de Lackey :  
-http://lackeyccg.com/downloads.html
 
 ### Format de Jeu :
 Nombres de joueurs : de 2 à autant que vous le souhaitez.  
