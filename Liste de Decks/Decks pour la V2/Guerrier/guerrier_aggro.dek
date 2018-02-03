@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Porte-Etendard</name><set>guerrier</set></card>
+		<card><name id="">Porte-Etendard</name><set>guerrier</set></card>
+		<card><name id="">Porte-Etendard</name><set>guerrier</set></card>
+		<card><name id="">Porte-Etendard</name><set>guerrier</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Escrimeur</name><set>guerrier</set></card>
+		<card><name id="">Escrimeur</name><set>guerrier</set></card>
+		<card><name id="">Escrimeur</name><set>guerrier</set></card>
+		<card><name id="">Escrimeur</name><set>guerrier</set></card>
+		<card><name id="">Lancier</name><set>guerrier</set></card>
+		<card><name id="">Lancier</name><set>guerrier</set></card>
+		<card><name id="">Lancier</name><set>guerrier</set></card>
+		<card><name id="">Lancier</name><set>guerrier</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Caradoc</name><set>guerrier</set></card>
+		<card><name id="">Caradoc</name><set>guerrier</set></card>
+		<card><name id="">Caradoc</name><set>guerrier</set></card>
+		<card><name id="">Caradoc</name><set>guerrier</set></card>
+		<card><name id="">Keu</name><set>guerrier</set></card>
+		<card><name id="">Keu</name><set>guerrier</set></card>
+		<card><name id="">Keu</name><set>guerrier</set></card>
+		<card><name id="">Keu</name><set>guerrier</set></card>
+		<card><name id="">Trou</name><set>guerrier</set></card>
+		<card><name id="">Trou</name><set>guerrier</set></card>
+		<card><name id="">Trou</name><set>guerrier</set></card>
+		<card><name id="">Trou</name><set>guerrier</set></card>
+		<card><name id="">Appat</name><set>guerrier</set></card>
+		<card><name id="">Appat</name><set>guerrier</set></card>
+		<card><name id="">Appat</name><set>guerrier</set></card>
+		<card><name id="">Appat</name><set>guerrier</set></card>
+		<card><name id="">Brigandin</name><set>guerrier</set></card>
+		<card><name id="">Brigandin</name><set>guerrier</set></card>
+		<card><name id="">Brigandin</name><set>guerrier</set></card>
+		<card><name id="">Brigandin</name><set>guerrier</set></card>
+		<card><name id="">Vengeance Masquee</name><set>guerrier</set></card>
+		<card><name id="">Vengeance Masquee</name><set>guerrier</set></card>
+		<card><name id="">Vengeance Masquee</name><set>guerrier</set></card>
+		<card><name id="">Vengeance Masquee</name><set>guerrier</set></card>
+		<card><name id="">Gauvain</name><set>guerrier</set></card>
+		<card><name id="">Gauvain</name><set>guerrier</set></card>
+		<card><name id="">Gauvain</name><set>guerrier</set></card>
+		<card><name id="">Gauvain</name><set>guerrier</set></card>
+		<card><name id="">Plan B</name><set>guerrier</set></card>
+		<card><name id="">Plan B</name><set>guerrier</set></card>
+		<card><name id="">Plan B</name><set>guerrier</set></card>
+		<card><name id="">Plan B</name><set>guerrier</set></card>
+		<card><name id="">Bohort</name><set>guerrier</set></card>
+		<card><name id="">Bohort</name><set>guerrier</set></card>
+		<card><name id="">Bohort</name><set>guerrier</set></card>
+		<card><name id="">Bohort</name><set>guerrier</set></card>
+		<card><name id="">Danse des Lames</name><set>guerrier</set></card>
+		<card><name id="">Danse des Lames</name><set>guerrier</set></card>
+		<card><name id="">Danse des Lames</name><set>guerrier</set></card>
+		<card><name id="">Danse des Lames</name><set>guerrier</set></card>
+	</superzone>
+</deck>

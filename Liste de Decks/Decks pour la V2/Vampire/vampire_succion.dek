@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Sentinelle Vampire</name><set>vampire</set></card>
+		<card><name id="">Sentinelle Vampire</name><set>vampire</set></card>
+		<card><name id="">Sentinelle Vampire</name><set>vampire</set></card>
+		<card><name id="">Sentinelle Vampire</name><set>vampire</set></card>
+		<card><name id="">Noble Vampire</name><set>vampire</set></card>
+		<card><name id="">Noble Vampire</name><set>vampire</set></card>
+		<card><name id="">Noble Vampire</name><set>vampire</set></card>
+		<card><name id="">Noble Vampire</name><set>vampire</set></card>
+		<card><name id="">Gobelin Suceur de Sang</name><set>neutre</set></card>
+		<card><name id="">Gobelin Suceur de Sang</name><set>neutre</set></card>
+		<card><name id="">Gobelin Suceur de Sang</name><set>neutre</set></card>
+		<card><name id="">Gobelin Suceur de Sang</name><set>neutre</set></card>
+		<card><name id="">Apprenti Vampire</name><set>vampire</set></card>
+		<card><name id="">Apprenti Vampire</name><set>vampire</set></card>
+		<card><name id="">Apprenti Vampire</name><set>vampire</set></card>
+		<card><name id="">Apprenti Vampire</name><set>vampire</set></card>
+		<card><name id="">Temple Sanglant</name><set>vampire</set></card>
+		<card><name id="">Temple Sanglant</name><set>vampire</set></card>
+		<card><name id="">Temple Sanglant</name><set>vampire</set></card>
+		<card><name id="">Temple Sanglant</name><set>vampire</set></card>
+		<card><name id="">Nosferatu</name><set>vampire</set></card>
+		<card><name id="">Nosferatu</name><set>vampire</set></card>
+		<card><name id="">Nosferatu</name><set>vampire</set></card>
+		<card><name id="">Nosferatu</name><set>vampire</set></card>
+		<card><name id="">Alucard</name><set>vampire</set></card>
+		<card><name id="">Alucard</name><set>vampire</set></card>
+		<card><name id="">Alucard</name><set>vampire</set></card>
+		<card><name id="">Alucard</name><set>vampire</set></card>
+		<card><name id="">Calice Ensanglante</name><set>vampire</set></card>
+		<card><name id="">Calice Ensanglante</name><set>vampire</set></card>
+		<card><name id="">Calice Ensanglante</name><set>vampire</set></card>
+		<card><name id="">Calice Ensanglante</name><set>vampire</set></card>
+		<card><name id="">Behemoth</name><set>vampire</set></card>
+		<card><name id="">Behemoth</name><set>vampire</set></card>
+		<card><name id="">Behemoth</name><set>vampire</set></card>
+		<card><name id="">Behemoth</name><set>vampire</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Pacte de Sang</name><set>vampire</set></card>
+		<card><name id="">Pacte de Sang</name><set>vampire</set></card>
+		<card><name id="">Pacte de Sang</name><set>vampire</set></card>
+		<card><name id="">Pacte de Sang</name><set>vampire</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+	</superzone>
+</deck>

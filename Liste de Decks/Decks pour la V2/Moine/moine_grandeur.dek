@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Protecteur du Temple</name><set>moine</set></card>
+		<card><name id="">Protecteur du Temple</name><set>moine</set></card>
+		<card><name id="">Protecteur du Temple</name><set>moine</set></card>
+		<card><name id="">Protecteur du Temple</name><set>moine</set></card>
+		<card><name id="">Moine Purificateur</name><set>moine</set></card>
+		<card><name id="">Moine Purificateur</name><set>moine</set></card>
+		<card><name id="">Moine Purificateur</name><set>moine</set></card>
+		<card><name id="">Moine Purificateur</name><set>moine</set></card>
+		<card><name id="">Maitre d&apos;Arme</name><set>moine</set></card>
+		<card><name id="">Maitre d&apos;Arme</name><set>moine</set></card>
+		<card><name id="">Maitre d&apos;Arme</name><set>moine</set></card>
+		<card><name id="">Maitre d&apos;Arme</name><set>moine</set></card>
+		<card><name id="">Apprenti Shaolin</name><set>moine</set></card>
+		<card><name id="">Apprenti Shaolin</name><set>moine</set></card>
+		<card><name id="">Apprenti Shaolin</name><set>moine</set></card>
+		<card><name id="">Apprenti Shaolin</name><set>moine</set></card>
+		<card><name id="">Guerrier Shaolin</name><set>moine</set></card>
+		<card><name id="">Guerrier Shaolin</name><set>moine</set></card>
+		<card><name id="">Guerrier Shaolin</name><set>moine</set></card>
+		<card><name id="">Guerrier Shaolin</name><set>moine</set></card>
+		<card><name id="">Temple Shaolin</name><set>moine</set></card>
+		<card><name id="">Temple Shaolin</name><set>moine</set></card>
+		<card><name id="">Temple Shaolin</name><set>moine</set></card>
+		<card><name id="">Temple Shaolin</name><set>moine</set></card>
+		<card><name id="">Maitre Shaolin</name><set>moine</set></card>
+		<card><name id="">Maitre Shaolin</name><set>moine</set></card>
+		<card><name id="">Maitre Shaolin</name><set>moine</set></card>
+		<card><name id="">Maitre Shaolin</name><set>moine</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Concentration</name><set>moine</set></card>
+		<card><name id="">Concentration</name><set>moine</set></card>
+		<card><name id="">Concentration</name><set>moine</set></card>
+		<card><name id="">Concentration</name><set>moine</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Mirroir Reflecteur</name><set>moine</set></card>
+		<card><name id="">Mirroir Reflecteur</name><set>moine</set></card>
+		<card><name id="">Mirroir Reflecteur</name><set>moine</set></card>
+		<card><name id="">Mirroir Reflecteur</name><set>moine</set></card>
+		<card><name id="">Recherche Spirituelle</name><set>moine</set></card>
+		<card><name id="">Recherche Spirituelle</name><set>moine</set></card>
+		<card><name id="">Recherche Spirituelle</name><set>moine</set></card>
+		<card><name id="">Recherche Spirituelle</name><set>moine</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Defense du Temple</name><set>moine</set></card>
+		<card><name id="">Defense du Temple</name><set>moine</set></card>
+		<card><name id="">Defense du Temple</name><set>moine</set></card>
+		<card><name id="">Defense du Temple</name><set>moine</set></card>
+		<card><name id="">Meditation</name><set>moine</set></card>
+		<card><name id="">Meditation</name><set>moine</set></card>
+		<card><name id="">Meditation</name><set>moine</set></card>
+		<card><name id="">Meditation</name><set>moine</set></card>
+	</superzone>
+</deck>

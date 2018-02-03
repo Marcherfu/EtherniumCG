@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Symbiose</name><set>archer</set></card>
+		<card><name id="">Symbiose</name><set>archer</set></card>
+		<card><name id="">Symbiose</name><set>archer</set></card>
+		<card><name id="">Symbiose</name><set>archer</set></card>
+		<card><name id="">Louveteau</name><set>archer</set></card>
+		<card><name id="">Louveteau</name><set>archer</set></card>
+		<card><name id="">Louveteau</name><set>archer</set></card>
+		<card><name id="">Louveteau</name><set>archer</set></card>
+		<card><name id="">Invocation Bestiale</name><set>archer</set></card>
+		<card><name id="">Invocation Bestiale</name><set>archer</set></card>
+		<card><name id="">Invocation Bestiale</name><set>archer</set></card>
+		<card><name id="">Invocation Bestiale</name><set>archer</set></card>
+		<card><name id="">Fier Traqueur</name><set>archer</set></card>
+		<card><name id="">Fier Traqueur</name><set>archer</set></card>
+		<card><name id="">Fier Traqueur</name><set>archer</set></card>
+		<card><name id="">Fier Traqueur</name><set>archer</set></card>
+		<card><name id="">Louve Sentinelle</name><set>archer</set></card>
+		<card><name id="">Louve Sentinelle</name><set>archer</set></card>
+		<card><name id="">Louve Sentinelle</name><set>archer</set></card>
+		<card><name id="">Louve Sentinelle</name><set>archer</set></card>
+		<card><name id="">Voies de la Nature</name><set>archer</set></card>
+		<card><name id="">Voies de la Nature</name><set>archer</set></card>
+		<card><name id="">Voies de la Nature</name><set>archer</set></card>
+		<card><name id="">Voies de la Nature</name><set>archer</set></card>
+		<card><name id="">Chef de Meute</name><set>archer</set></card>
+		<card><name id="">Chef de Meute</name><set>archer</set></card>
+		<card><name id="">Chef de Meute</name><set>archer</set></card>
+		<card><name id="">Chef de Meute</name><set>archer</set></card>
+		<card><name id="">Tir Percant</name><set>archer</set></card>
+		<card><name id="">Tir Percant</name><set>archer</set></card>
+		<card><name id="">Tir Percant</name><set>archer</set></card>
+		<card><name id="">Tir Percant</name><set>archer</set></card>
+		<card><name id="">Gardien Elfique</name><set>archer</set></card>
+		<card><name id="">Gardien Elfique</name><set>archer</set></card>
+		<card><name id="">Gardien Elfique</name><set>archer</set></card>
+		<card><name id="">Gardien Elfique</name><set>archer</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Lac aux Fees</name><set>archer</set></card>
+		<card><name id="">Lac aux Fees</name><set>archer</set></card>
+		<card><name id="">Lac aux Fees</name><set>archer</set></card>
+		<card><name id="">Lac aux Fees</name><set>archer</set></card>
+		<card><name id="">Tir de Barrage</name><set>archer</set></card>
+		<card><name id="">Tir de Barrage</name><set>archer</set></card>
+		<card><name id="">Tir de Barrage</name><set>archer</set></card>
+		<card><name id="">Tir de Barrage</name><set>archer</set></card>
+		<card><name id="">Rappel de la Nature</name><set>archer</set></card>
+		<card><name id="">Rappel de la Nature</name><set>archer</set></card>
+		<card><name id="">Rappel de la Nature</name><set>archer</set></card>
+		<card><name id="">Rappel de la Nature</name><set>archer</set></card>
+	</superzone>
+</deck>

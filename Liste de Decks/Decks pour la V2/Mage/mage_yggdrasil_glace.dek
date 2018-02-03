@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Cryomancien</name><set>mage</set></card>
+		<card><name id="">Cryomancien</name><set>mage</set></card>
+		<card><name id="">Cryomancien</name><set>mage</set></card>
+		<card><name id="">Cryomancien</name><set>mage</set></card>
+		<card><name id="">Invocation Givree</name><set>mage</set></card>
+		<card><name id="">Invocation Givree</name><set>mage</set></card>
+		<card><name id="">Invocation Givree</name><set>mage</set></card>
+		<card><name id="">Invocation Givree</name><set>mage</set></card>
+		<card><name id="">Stalagmite</name><set>mage</set></card>
+		<card><name id="">Stalagmite</name><set>mage</set></card>
+		<card><name id="">Stalagmite</name><set>mage</set></card>
+		<card><name id="">Stalagmite</name><set>mage</set></card>
+		<card><name id="">Golem de Givre</name><set>mage</set></card>
+		<card><name id="">Golem de Givre</name><set>mage</set></card>
+		<card><name id="">Golem de Givre</name><set>mage</set></card>
+		<card><name id="">Golem de Givre</name><set>mage</set></card>
+		<card><name id="">Piege de Givre</name><set>mage</set></card>
+		<card><name id="">Piege de Givre</name><set>mage</set></card>
+		<card><name id="">Piege de Givre</name><set>mage</set></card>
+		<card><name id="">Piege de Givre</name><set>mage</set></card>
+		<card><name id="">Yggdrasil, l&apos;Arbre Monde</name><set>mage</set></card>
+		<card><name id="">Yggdrasil, l&apos;Arbre Monde</name><set>mage</set></card>
+		<card><name id="">Yggdrasil, l&apos;Arbre Monde</name><set>mage</set></card>
+		<card><name id="">Yggdrasil, l&apos;Arbre Monde</name><set>mage</set></card>
+		<card><name id="">Feuillage d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Feuillage d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Feuillage d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Feuillage d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Fruit d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Fruit d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Fruit d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Fruit d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Racines d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Racines d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Racines d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Racines d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Seve d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Seve d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Seve d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Seve d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Tronc d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Tronc d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Tronc d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Tronc d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Chercheur de Midgard</name><set>mage</set></card>
+		<card><name id="">Chercheur de Midgard</name><set>mage</set></card>
+		<card><name id="">Chercheur de Midgard</name><set>mage</set></card>
+		<card><name id="">Chercheur de Midgard</name><set>mage</set></card>
+		<card><name id="">Choc Mental</name><set>mage</set></card>
+		<card><name id="">Choc Mental</name><set>mage</set></card>
+		<card><name id="">Choc Mental</name><set>mage</set></card>
+		<card><name id="">Choc Mental</name><set>mage</set></card>
+		<card><name id="">Recherche Arcanique</name><set>mage</set></card>
+		<card><name id="">Recherche Arcanique</name><set>mage</set></card>
+		<card><name id="">Recherche Arcanique</name><set>mage</set></card>
+		<card><name id="">Recherche Arcanique</name><set>mage</set></card>
+		<card><name id="">Transformation en Oie</name><set>mage</set></card>
+		<card><name id="">Transformation en Oie</name><set>mage</set></card>
+		<card><name id="">Transformation en Oie</name><set>mage</set></card>
+		<card><name id="">Transformation en Oie</name><set>mage</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chevalier</name><set>paladin</set></card>
+		<card><name id="">Chevalier</name><set>paladin</set></card>
+		<card><name id="">Chevalier</name><set>paladin</set></card>
+		<card><name id="">Chevalier</name><set>paladin</set></card>
+		<card><name id="">Armure de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Armure de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Armure de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Armure de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Croise</name><set>paladin</set></card>
+		<card><name id="">Croise</name><set>paladin</set></card>
+		<card><name id="">Croise</name><set>paladin</set></card>
+		<card><name id="">Croise</name><set>paladin</set></card>
+		<card><name id="">Cadet Impatient</name><set>paladin</set></card>
+		<card><name id="">Cadet Impatient</name><set>paladin</set></card>
+		<card><name id="">Cadet Impatient</name><set>paladin</set></card>
+		<card><name id="">Cadet Impatient</name><set>paladin</set></card>
+		<card><name id="">Roi Arthur</name><set>paladin</set></card>
+		<card><name id="">Roi Arthur</name><set>paladin</set></card>
+		<card><name id="">Roi Arthur</name><set>paladin</set></card>
+		<card><name id="">Roi Arthur</name><set>paladin</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Brigadier des Plaines</name><set>paladin</set></card>
+		<card><name id="">Brigadier des Plaines</name><set>paladin</set></card>
+		<card><name id="">Brigadier des Plaines</name><set>paladin</set></card>
+		<card><name id="">Brigadier des Plaines</name><set>paladin</set></card>
+		<card><name id="">Escrimeur Perce-Vent</name><set>paladin</set></card>
+		<card><name id="">Escrimeur Perce-Vent</name><set>paladin</set></card>
+		<card><name id="">Escrimeur Perce-Vent</name><set>paladin</set></card>
+		<card><name id="">Escrimeur Perce-Vent</name><set>paladin</set></card>
+		<card><name id="">Bouclier Protecteur</name><set>paladin</set></card>
+		<card><name id="">Bouclier Protecteur</name><set>paladin</set></card>
+		<card><name id="">Bouclier Protecteur</name><set>paladin</set></card>
+		<card><name id="">Bouclier Protecteur</name><set>paladin</set></card>
+		<card><name id="">Stratege Gobelin</name><set>neutre</set></card>
+		<card><name id="">Stratege Gobelin</name><set>neutre</set></card>
+		<card><name id="">Stratege Gobelin</name><set>neutre</set></card>
+		<card><name id="">Stratege Gobelin</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Inversion</name><set>paladin</set></card>
+		<card><name id="">Inversion</name><set>paladin</set></card>
+		<card><name id="">Inversion</name><set>paladin</set></card>
+		<card><name id="">Inversion</name><set>paladin</set></card>
+	</superzone>
+</deck>

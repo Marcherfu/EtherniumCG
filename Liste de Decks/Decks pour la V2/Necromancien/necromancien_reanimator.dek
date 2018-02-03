@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Fossoyeur</name><set>necromancien</set></card>
+		<card><name id="">Fossoyeur</name><set>necromancien</set></card>
+		<card><name id="">Fossoyeur</name><set>necromancien</set></card>
+		<card><name id="">Fossoyeur</name><set>necromancien</set></card>
+		<card><name id="">Putrefaction</name><set>necromancien</set></card>
+		<card><name id="">Putrefaction</name><set>necromancien</set></card>
+		<card><name id="">Putrefaction</name><set>necromancien</set></card>
+		<card><name id="">Putrefaction</name><set>necromancien</set></card>
+		<card><name id="">Recherche des taboos</name><set>necromancien</set></card>
+		<card><name id="">Recherche des taboos</name><set>necromancien</set></card>
+		<card><name id="">Recherche des taboos</name><set>necromancien</set></card>
+		<card><name id="">Recherche des taboos</name><set>necromancien</set></card>
+		<card><name id="">Rite Sacrificiel</name><set>necromancien</set></card>
+		<card><name id="">Rite Sacrificiel</name><set>necromancien</set></card>
+		<card><name id="">Rite Sacrificiel</name><set>necromancien</set></card>
+		<card><name id="">Rite Sacrificiel</name><set>necromancien</set></card>
+		<card><name id="">Voyage en Outre-Tombe</name><set>necromancien</set></card>
+		<card><name id="">Voyage en Outre-Tombe</name><set>necromancien</set></card>
+		<card><name id="">Voyage en Outre-Tombe</name><set>necromancien</set></card>
+		<card><name id="">Voyage en Outre-Tombe</name><set>necromancien</set></card>
+		<card><name id="">Corbeau Charognard</name><set>necromancien</set></card>
+		<card><name id="">Corbeau Charognard</name><set>necromancien</set></card>
+		<card><name id="">Corbeau Charognard</name><set>necromancien</set></card>
+		<card><name id="">Corbeau Charognard</name><set>necromancien</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Nourriture Contaminee</name><set>necromancien</set></card>
+		<card><name id="">Nourriture Contaminee</name><set>necromancien</set></card>
+		<card><name id="">Nourriture Contaminee</name><set>necromancien</set></card>
+		<card><name id="">Nourriture Contaminee</name><set>necromancien</set></card>
+		<card><name id="">Abomination</name><set>necromancien</set></card>
+		<card><name id="">Abomination</name><set>necromancien</set></card>
+		<card><name id="">Abomination</name><set>necromancien</set></card>
+		<card><name id="">Abomination</name><set>necromancien</set></card>
+		<card><name id="">Embuscade Gobeline</name><set>neutre</set></card>
+		<card><name id="">Embuscade Gobeline</name><set>neutre</set></card>
+		<card><name id="">Embuscade Gobeline</name><set>neutre</set></card>
+		<card><name id="">Embuscade Gobeline</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Zombie Changeforme</name><set>necromancien</set></card>
+		<card><name id="">Zombie Changeforme</name><set>necromancien</set></card>
+		<card><name id="">Zombie Changeforme</name><set>necromancien</set></card>
+		<card><name id="">Zombie Changeforme</name><set>necromancien</set></card>
+	</superzone>
+</deck>
