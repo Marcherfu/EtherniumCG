@@ -7,4 +7,4 @@ Github du Plugin LackeyCCG que je fais.
 **Changelog Bêta :**
 -Changement de la mécanique des Pièges : ils sont désormais à placer dans la zone Piège en payant leur coût pendant votre tour et à activer à n'importe quel moment.
 -Changement de mécanique sur les Jetons : ils sont désormais comptés dans la défausse.
--Rajout de 82 nouvelles cartes sur les 113 prévues. (Il reste encore les 11 cartes de Prêtre et de Paladin à faire en plus des 9 cartes de Vampire.)
+-Rajout de 91 nouvelles cartes sur les 113 prévues. (Il reste encore les 11 cartes de Prêtre et de Paladin à faire en plus des 9 cartes de Vampire.)
