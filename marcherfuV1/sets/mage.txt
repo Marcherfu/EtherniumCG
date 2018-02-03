@@ -1,0 +1,12 @@
+Name	Set	ImageFile	Type	Sous-Type	Cout	Attaque	PVs	Texte
+Flammeche	mage		Sort		1			Inflige 1 point de degat a la cible.
+Etudiant en Magie	mage		Creature		2	2	2	Tant que cette creature est en jeu, vos sorts infligent 1 points de degats supplementaires.
+Racines d'Yggdrasil	mage		Artefact	Yggdrasil	2			
+Feuillage d'Yggdrasil	mage		Artefact	Yggdrasil	2			
+Tronc d'Yggdrasil	mage		Artefact	Yggdrasil	2			
+Seve d'Yggdrasil	mage		Artefact	Yggdrasil	2			
+Fruit d'Yggdrasil	mage		Artefact	Yggdrasil	2			
+Yggdrasil, l'Arbre Monde	mage		Sort	Yggdrasil	0			Si vous avez 5 Artefacts differents ayant comme sous-type Yggdrasil en jeu sacrifiez-les, le joueur adverse passe son prochain tour et tout vos sorts infligent 2 points de degats supplementaires.
+Choc Mental	mage		Sort		3			Prennez le controle de la creature ciblee pour le tour en cours et vous pouvez attaquer avec.
+Professeur des Arcanes	mage		Creature		5	3	5	Rajoutez les deux sorts de votre choix depuis votre defausse a votre main.
+Boule de Feu	mage		Sort		3			Inflige 4 points de degats a la cible.

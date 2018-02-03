@@ -1,0 +1,13 @@
+Name	Set	ImageFile	Type	Sous-Type	Cout	Attaque	PVs	Texte
+Zombie	necromancien		Creature	Zombie	1	1	1	Quand cette creature est mise dans la defausse depuis le jeu, remettez-la en jeu dans 2 tours.
+Fauche-Vie	necromancien		Creature	Zombie	2	1	3	A chaque fois que cette creature attaque, invoquez un jeton 1/1 ayant le sous-type Zombie et defaussez la carte du dessus du deck adverse.
+Rite Sacrificiel	necromancien		Sort		3			Reinvoque depuis le cimetiere une creature ayant le sous-type Zombie au choix.
+Corbeau Charognard	necromancien		Creature	Zombie	4	3	1	Sacrifiez une creature alliee ayant le sous-type Zombie : donnez a la creature allie de votre choix la Celerite. (Peux attaquer des le tour ou cette carte est jouee)
+Vers l'au-dela	necromancien		Artefact		5			Au debut de chacun de vos tours, invoquez un jeton 1/1 ayant le sous-type Zombie. Si vous avez 20 cartes ou plus dans votre defausse, infligez a la fin de chacun de vos tours 3 points de degats a toutes les creatures adverses et au joueur adverse.
+Chevaucheur de Cerberes	necromancien		Creature	Zombie	6	3	4	Quand une creature ayant le sous-type Zombie meurt, le joueur adverse defausse la carte du dessus de son deck.
+Satan	necromancien		Creature		7	7	7	Si vous avez un artefact "Jugement Dernier" dans votre deck, piochez des cartes jusqu'a l'obtenir puis defaussez votre deck et mettez votre main dans votre deck. Melangez ensuite votre deck.
+Zombie Changeforme	necromancien		Creature	Zombie	8	1	1	Gagne +X/+X, X etant le nombre de creatures ayant le sous-type zombies en jeu.
+Immortel Cracheur de Feu	necromancien		Creature	Zombie	9	5	5	Tant que cette creature est en vie et a la fin du tour de votre adversaire, defausse la carte de sa main la plus a gauche et celle la plus a droite.
+Jugement Dernier	necromancien		Artefact		10			Si a la fin de votre tour vous n'avez aucune carte dans votre deck, infligez X points de degats au joueur adverse, X etant le nombre de cartes dans votre defausse.
+Horde de Zombie	necromancien		Creature	Zombie	4	0	4	Provocation (Si vous voulez attaquer le joueur adverse ou une creature sans provocation, vous devez en premier lieu vaincre cette creature) Cette creature ne peux recevoir que 3 points de degats a la fois. A chaque fois que cette creature recois des degats, invoquez un jeton 1/1 ayant le sous-type Zombie et defaussez la carte du dessus du deck adverse.
+Jeton Zombie	necromancien		Token	Zombie	1	1	1	

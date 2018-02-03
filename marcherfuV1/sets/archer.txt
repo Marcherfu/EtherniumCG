@@ -1,0 +1,13 @@
+Name	Set	ImageFile	Type	Sous-Type	Cout	Attaque	PVs	Texte
+Tir Percant	archer		Sort		1			Inflige 2 points de degats a une creature.
+Louveteau	archer		Creature	Bete	2	X	1	L'attaque de cette creature est egal au nombre de creatures ayant le sous-type Bete arrivees en jeu durant ce tour. Celerite. (Peux attaquer des le tour ou cette carte est jouee)
+Invocation Elfique	archer		Sort		3			Invoque 2 Jetons Loup 1/2 avec la Celerite. (Peux attaquer des le tour ou cette carte est jouee) Coute 1 de moins a jouer pour chaque creature ayant le sous-type Bete en jeu.
+Louve Sentinelle	archer		Creature	Bete	4	1	2	Invoque 1 Jeton Loup 1/2 avec la Celerite. Celerite. (Peux attaquer des le tour ou cette carte est jouee) Coute 1 de moins a jouer pour chaque creature ayant le sous-type Bete en jeu.
+Barrage Elfique	archer		Sort		5			Inflige X points de degats a deux creatures adverses au choix. X etant le nombre de cartes en main.
+Voies de la Nature	archer		Sort		6			Renvoie en main deux creatures alliees ayant le sous-type Betes au choix. Coute 1 de moins a jouer pour chaque creature ayant le sous-type Bete en jeu.
+Chef de Meute	archer		Creature	Bete	7	3	1	Invoque 2 Jetons Loup 1/2 avec la Celerite. Celerite. (Peux attaquer des le tour ou cette carte est jouee) Coute 1 de moins a jouer pour chaque creature ayant le sous-type Bete en jeu.
+L'Enfant qui criait au loup	archer		Creature	Bete	8	1	8	A chaque fois que cette creature attaque, inflige X points de degats a toutes les creatures adverses, X etant le nombre de creatures ayant le sous-type Bete en jeu. Celerite. (Peux attaquer des le tour ou cette carte est jouee)
+Ganesh, Roi des Betes	archer		Creature	Bete	9	0	X	Les PVs de cette creature sont egaux aux nombres de Betes en jeu. Provocation. (Si vous voulez attaquer le joueur adverse ou une creature sans provocation, vous devez en premier lieu vaincre cette creature)
+Rappel Elfique	archer		Sort		15			Renvoie en main toutes les creatures alliees ayant le sous-type Bete en jeu et reduit leur cout a 0. Coute 1 de moins a jouer pour chaque creature ayant le sous-type Bete en jeu, ne peux couter que 6 Points de Mana au maximum.
+Traqueur de Proies	archer		Creature	Bete	3	2	3	Celerite. (Peux attaquer des le tour ou cette carte est jouee)
+Jeton Loup	archer		Token	Bete	1	1	2	Ne peux pas etre renvoye en main. Celerite. (Peux attaquer des le tour ou cette carte est jouee)
