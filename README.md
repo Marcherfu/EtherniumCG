@@ -26,7 +26,7 @@ Création du jeu et de ses 113 cartes.
 ### Changelog Bêta
 Changement de la mécanique des Pièges : ils sont désormais à placer dans la zone Piège en payant leur coût pendant votre tour et à activer à n'importe quel moment.  
 Changement de mécanique sur les Jetons : ils sont désormais comptés dans la défausse.  
-Rajout de 91 nouvelles cartes sur les 113 prévues. (Il reste encore les 11 cartes de Prêtre et de Paladin à faire)
+Rajout de 103 nouvelles cartes sur les 114 nouvelles prévues. (Il reste encore les 11 cartes de Prêtre à faire)
 
 ### Contact
 Vous pouvez me contacter sur le discord du jeu qui est le suivant : https://discord.gg/zSWDxgk. J'y organiserais de temps à autre des matchs de rating pour créer avec le temps une sorte de ladder ainsi que des tournois en Bo3 3 Decks/1 Ban.
