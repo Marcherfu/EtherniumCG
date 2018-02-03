@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfu</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Bague du Voleur de Sorts</name><set>voleur</set></card>
+		<card><name id="">Bague du Voleur de Sorts</name><set>voleur</set></card>
+		<card><name id="">Bague du Voleur de Sorts</name><set>voleur</set></card>
+		<card><name id="">Bague du Voleur de Sorts</name><set>voleur</set></card>
+		<card><name id="">Rat de Laboratoire</name><set>voleur</set></card>
+		<card><name id="">Rat de Laboratoire</name><set>voleur</set></card>
+		<card><name id="">Rat de Laboratoire</name><set>voleur</set></card>
+		<card><name id="">Rat de Laboratoire</name><set>voleur</set></card>
+		<card><name id="">Charmeur de Serpents</name><set>voleur</set></card>
+		<card><name id="">Charmeur de Serpents</name><set>voleur</set></card>
+		<card><name id="">Charmeur de Serpents</name><set>voleur</set></card>
+		<card><name id="">Charmeur de Serpents</name><set>voleur</set></card>
+		<card><name id="">Medusa, Reine des Serpents</name><set>voleur</set></card>
+		<card><name id="">Medusa, Reine des Serpents</name><set>voleur</set></card>
+		<card><name id="">Medusa, Reine des Serpents</name><set>voleur</set></card>
+		<card><name id="">Medusa, Reine des Serpents</name><set>voleur</set></card>
+		<card><name id="">Serpent Millenaire</name><set>voleur</set></card>
+		<card><name id="">Serpent Millenaire</name><set>voleur</set></card>
+		<card><name id="">Serpent Millenaire</name><set>voleur</set></card>
+		<card><name id="">Serpent Millenaire</name><set>voleur</set></card>
+		<card><name id="">Piege a Serpent</name><set>voleur</set></card>
+		<card><name id="">Piege a Serpent</name><set>voleur</set></card>
+		<card><name id="">Piege a Serpent</name><set>voleur</set></card>
+		<card><name id="">Piege a Serpent</name><set>voleur</set></card>
+		<card><name id="">Pioche Mortelle</name><set>voleur</set></card>
+		<card><name id="">Pioche Mortelle</name><set>voleur</set></card>
+		<card><name id="">Pioche Mortelle</name><set>voleur</set></card>
+		<card><name id="">Pioche Mortelle</name><set>voleur</set></card>
+		<card><name id="">Pudding a l&apos;Arsenic</name><set>voleur</set></card>
+		<card><name id="">Pudding a l&apos;Arsenic</name><set>voleur</set></card>
+		<card><name id="">Pudding a l&apos;Arsenic</name><set>voleur</set></card>
+		<card><name id="">Pudding a l&apos;Arsenic</name><set>voleur</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Empoisonneur Cinglant</name><set>voleur</set></card>
+		<card><name id="">Empoisonneur Cinglant</name><set>voleur</set></card>
+		<card><name id="">Empoisonneur Cinglant</name><set>voleur</set></card>
+		<card><name id="">Empoisonneur Cinglant</name><set>voleur</set></card>
+	</superzone>
+</deck>

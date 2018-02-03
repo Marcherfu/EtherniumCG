@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfu</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Feuillage d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Feuillage d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Feuillage d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Feuillage d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Fruit d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Fruit d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Fruit d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Fruit d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Racines d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Racines d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Racines d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Racines d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Seve d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Seve d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Seve d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Seve d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Tronc d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Tronc d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Tronc d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Tronc d&apos;Yggdrasil</name><set>mage</set></card>
+		<card><name id="">Boule de Feu</name><set>mage</set></card>
+		<card><name id="">Boule de Feu</name><set>mage</set></card>
+		<card><name id="">Boule de Feu</name><set>mage</set></card>
+		<card><name id="">Boule de Feu</name><set>mage</set></card>
+		<card><name id="">Etudiant en Magie</name><set>mage</set></card>
+		<card><name id="">Etudiant en Magie</name><set>mage</set></card>
+		<card><name id="">Etudiant en Magie</name><set>mage</set></card>
+		<card><name id="">Etudiant en Magie</name><set>mage</set></card>
+		<card><name id="">Professeur des Arcanes</name><set>mage</set></card>
+		<card><name id="">Professeur des Arcanes</name><set>mage</set></card>
+		<card><name id="">Professeur des Arcanes</name><set>mage</set></card>
+		<card><name id="">Professeur des Arcanes</name><set>mage</set></card>
+		<card><name id="">Flammeche</name><set>mage</set></card>
+		<card><name id="">Flammeche</name><set>mage</set></card>
+		<card><name id="">Flammeche</name><set>mage</set></card>
+		<card><name id="">Flammeche</name><set>mage</set></card>
+		<card><name id="">Yggdrasil, l&apos;Arbre Monde</name><set>mage</set></card>
+		<card><name id="">Yggdrasil, l&apos;Arbre Monde</name><set>mage</set></card>
+		<card><name id="">Yggdrasil, l&apos;Arbre Monde</name><set>mage</set></card>
+		<card><name id="">Yggdrasil, l&apos;Arbre Monde</name><set>mage</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+	</superzone>
+</deck>

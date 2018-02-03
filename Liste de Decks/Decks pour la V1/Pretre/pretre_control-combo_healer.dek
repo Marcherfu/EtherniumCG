@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfu</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Soin</name><set>pretre</set></card>
+		<card><name id="">Soin</name><set>pretre</set></card>
+		<card><name id="">Soin</name><set>pretre</set></card>
+		<card><name id="">Soin</name><set>pretre</set></card>
+		<card><name id="">Regeneration</name><set>pretre</set></card>
+		<card><name id="">Regeneration</name><set>pretre</set></card>
+		<card><name id="">Regeneration</name><set>pretre</set></card>
+		<card><name id="">Regeneration</name><set>pretre</set></card>
+		<card><name id="">Reconstitution</name><set>pretre</set></card>
+		<card><name id="">Reconstitution</name><set>pretre</set></card>
+		<card><name id="">Reconstitution</name><set>pretre</set></card>
+		<card><name id="">Reconstitution</name><set>pretre</set></card>
+		<card><name id="">Mauvais Oeil</name><set>pretre</set></card>
+		<card><name id="">Mauvais Oeil</name><set>pretre</set></card>
+		<card><name id="">Mauvais Oeil</name><set>pretre</set></card>
+		<card><name id="">Mauvais Oeil</name><set>pretre</set></card>
+		<card><name id="">Eclair de Zeus</name><set>pretre</set></card>
+		<card><name id="">Eclair de Zeus</name><set>pretre</set></card>
+		<card><name id="">Eclair de Zeus</name><set>pretre</set></card>
+		<card><name id="">Eclair de Zeus</name><set>pretre</set></card>
+		<card><name id="">Pretre de la Destruction</name><set>pretre</set></card>
+		<card><name id="">Pretre de la Destruction</name><set>pretre</set></card>
+		<card><name id="">Pretre de la Destruction</name><set>pretre</set></card>
+		<card><name id="">Pretre de la Destruction</name><set>pretre</set></card>
+		<card><name id="">Pretre de la Cour</name><set>pretre</set></card>
+		<card><name id="">Pretre de la Cour</name><set>pretre</set></card>
+		<card><name id="">Pretre de la Cour</name><set>pretre</set></card>
+		<card><name id="">Pretre de la Cour</name><set>pretre</set></card>
+		<card><name id="">Cure Cingle</name><set>pretre</set></card>
+		<card><name id="">Cure Cingle</name><set>pretre</set></card>
+		<card><name id="">Cure Cingle</name><set>pretre</set></card>
+		<card><name id="">Cure Cingle</name><set>pretre</set></card>
+		<card><name id="">Colere de Dieu</name><set>pretre</set></card>
+		<card><name id="">Colere de Dieu</name><set>pretre</set></card>
+		<card><name id="">Colere de Dieu</name><set>pretre</set></card>
+		<card><name id="">Colere de Dieu</name><set>pretre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Temple de la Calamite</name><set>pretre</set></card>
+		<card><name id="">Temple de la Calamite</name><set>pretre</set></card>
+		<card><name id="">Temple de la Calamite</name><set>pretre</set></card>
+		<card><name id="">Temple de la Calamite</name><set>pretre</set></card>
+	</superzone>
+</deck>

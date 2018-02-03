@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfu</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Chef de Meute</name><set>archer</set></card>
+		<card><name id="">Chef de Meute</name><set>archer</set></card>
+		<card><name id="">Chef de Meute</name><set>archer</set></card>
+		<card><name id="">Chef de Meute</name><set>archer</set></card>
+		<card><name id="">Louve Sentinelle</name><set>archer</set></card>
+		<card><name id="">Louve Sentinelle</name><set>archer</set></card>
+		<card><name id="">Louve Sentinelle</name><set>archer</set></card>
+		<card><name id="">Louve Sentinelle</name><set>archer</set></card>
+		<card><name id="">Louveteau</name><set>archer</set></card>
+		<card><name id="">Louveteau</name><set>archer</set></card>
+		<card><name id="">Louveteau</name><set>archer</set></card>
+		<card><name id="">Louveteau</name><set>archer</set></card>
+		<card><name id="">Traqueur de Proies</name><set>archer</set></card>
+		<card><name id="">Traqueur de Proies</name><set>archer</set></card>
+		<card><name id="">Traqueur de Proies</name><set>archer</set></card>
+		<card><name id="">Traqueur de Proies</name><set>archer</set></card>
+		<card><name id="">Invocation Elfique</name><set>archer</set></card>
+		<card><name id="">Invocation Elfique</name><set>archer</set></card>
+		<card><name id="">Invocation Elfique</name><set>archer</set></card>
+		<card><name id="">Invocation Elfique</name><set>archer</set></card>
+		<card><name id="">Rappel Elfique</name><set>archer</set></card>
+		<card><name id="">Rappel Elfique</name><set>archer</set></card>
+		<card><name id="">Rappel Elfique</name><set>archer</set></card>
+		<card><name id="">Rappel Elfique</name><set>archer</set></card>
+		<card><name id="">Tir Percant</name><set>archer</set></card>
+		<card><name id="">Tir Percant</name><set>archer</set></card>
+		<card><name id="">Tir Percant</name><set>archer</set></card>
+		<card><name id="">Tir Percant</name><set>archer</set></card>
+		<card><name id="">Voies de la Nature</name><set>archer</set></card>
+		<card><name id="">Voies de la Nature</name><set>archer</set></card>
+		<card><name id="">Voies de la Nature</name><set>archer</set></card>
+		<card><name id="">Voies de la Nature</name><set>archer</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Barrage Elfique</name><set>archer</set></card>
+		<card><name id="">Barrage Elfique</name><set>archer</set></card>
+		<card><name id="">Barrage Elfique</name><set>archer</set></card>
+		<card><name id="">Barrage Elfique</name><set>archer</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+	</superzone>
+</deck>
