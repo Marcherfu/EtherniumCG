@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">L&apos;Enfant qui criait au loup</name><set>archer</set></card>
+		<card><name id="">L&apos;Enfant qui criait au loup</name><set>archer</set></card>
+		<card><name id="">L&apos;Enfant qui criait au loup</name><set>archer</set></card>
+		<card><name id="">L&apos;Enfant qui criait au loup</name><set>archer</set></card>
+		<card><name id="">Ganesh, Roi des Betes</name><set>archer</set></card>
+		<card><name id="">Ganesh, Roi des Betes</name><set>archer</set></card>
+		<card><name id="">Ganesh, Roi des Betes</name><set>archer</set></card>
+		<card><name id="">Ganesh, Roi des Betes</name><set>archer</set></card>
+		<card><name id="">Sacrifice Elfique</name><set>archer</set></card>
+		<card><name id="">Sacrifice Elfique</name><set>archer</set></card>
+		<card><name id="">Sacrifice Elfique</name><set>archer</set></card>
+		<card><name id="">Sacrifice Elfique</name><set>archer</set></card>
+		<card><name id="">Medecine Gobeline</name><set>neutre</set></card>
+		<card><name id="">Medecine Gobeline</name><set>neutre</set></card>
+		<card><name id="">Medecine Gobeline</name><set>neutre</set></card>
+		<card><name id="">Medecine Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Barrage Elfique</name><set>archer</set></card>
+		<card><name id="">Barrage Elfique</name><set>archer</set></card>
+		<card><name id="">Barrage Elfique</name><set>archer</set></card>
+		<card><name id="">Barrage Elfique</name><set>archer</set></card>
+		<card><name id="">Fabrique d&apos;Artifices Elfes</name><set>archer</set></card>
+		<card><name id="">Fabrique d&apos;Artifices Elfes</name><set>archer</set></card>
+		<card><name id="">Fabrique d&apos;Artifices Elfes</name><set>archer</set></card>
+		<card><name id="">Fabrique d&apos;Artifices Elfes</name><set>archer</set></card>
+		<card><name id="">Tir de Barrage</name><set>archer</set></card>
+		<card><name id="">Tir de Barrage</name><set>archer</set></card>
+		<card><name id="">Tir de Barrage</name><set>archer</set></card>
+		<card><name id="">Tir de Barrage</name><set>archer</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Gardien Elfique</name><set>archer</set></card>
+		<card><name id="">Gardien Elfique</name><set>archer</set></card>
+		<card><name id="">Gardien Elfique</name><set>archer</set></card>
+		<card><name id="">Gardien Elfique</name><set>archer</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Tir Percant</name><set>archer</set></card>
+		<card><name id="">Tir Percant</name><set>archer</set></card>
+		<card><name id="">Tir Percant</name><set>archer</set></card>
+		<card><name id="">Tir Percant</name><set>archer</set></card>
+		<card><name id="">Archeologue Elfe</name><set>archer</set></card>
+		<card><name id="">Archeologue Elfe</name><set>archer</set></card>
+		<card><name id="">Archeologue Elfe</name><set>archer</set></card>
+		<card><name id="">Archeologue Elfe</name><set>archer</set></card>
+	</superzone>
+</deck>
