@@ -55,13 +55,13 @@
 		<card><name id="">Embuscade Gobeline</name><set>neutre</set></card>
 		<card><name id="">Embuscade Gobeline</name><set>neutre</set></card>
 		<card><name id="">Embuscade Gobeline</name><set>neutre</set></card>
-		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
-		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
-		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
-		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
 		<card><name id="">Zombie Changeforme</name><set>necromancien</set></card>
 		<card><name id="">Zombie Changeforme</name><set>necromancien</set></card>
 		<card><name id="">Zombie Changeforme</name><set>necromancien</set></card>
 		<card><name id="">Zombie Changeforme</name><set>necromancien</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
 	</superzone>
 </deck>
