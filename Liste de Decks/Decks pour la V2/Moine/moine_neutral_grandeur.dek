@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Tempete de Sable</name><set>moine</set></card>
+		<card><name id="">Tempete de Sable</name><set>moine</set></card>
+		<card><name id="">Tempete de Sable</name><set>moine</set></card>
+		<card><name id="">Tempete de Sable</name><set>moine</set></card>
+		<card><name id="">Recherche Spirituelle</name><set>moine</set></card>
+		<card><name id="">Recherche Spirituelle</name><set>moine</set></card>
+		<card><name id="">Recherche Spirituelle</name><set>moine</set></card>
+		<card><name id="">Recherche Spirituelle</name><set>moine</set></card>
+		<card><name id="">Concentration</name><set>moine</set></card>
+		<card><name id="">Concentration</name><set>moine</set></card>
+		<card><name id="">Concentration</name><set>moine</set></card>
+		<card><name id="">Concentration</name><set>moine</set></card>
+		<card><name id="">Temple Shaolin</name><set>moine</set></card>
+		<card><name id="">Temple Shaolin</name><set>moine</set></card>
+		<card><name id="">Temple Shaolin</name><set>moine</set></card>
+		<card><name id="">Temple Shaolin</name><set>moine</set></card>
+		<card><name id="">Attaque Gobeline</name><set>neutre</set></card>
+		<card><name id="">Attaque Gobeline</name><set>neutre</set></card>
+		<card><name id="">Attaque Gobeline</name><set>neutre</set></card>
+		<card><name id="">Attaque Gobeline</name><set>neutre</set></card>
+		<card><name id="">Meditation</name><set>moine</set></card>
+		<card><name id="">Meditation</name><set>moine</set></card>
+		<card><name id="">Meditation</name><set>moine</set></card>
+		<card><name id="">Meditation</name><set>moine</set></card>
+		<card><name id="">Embuscade Gobeline</name><set>neutre</set></card>
+		<card><name id="">Embuscade Gobeline</name><set>neutre</set></card>
+		<card><name id="">Embuscade Gobeline</name><set>neutre</set></card>
+		<card><name id="">Embuscade Gobeline</name><set>neutre</set></card>
+		<card><name id="">Stratege Gobelin</name><set>neutre</set></card>
+		<card><name id="">Stratege Gobelin</name><set>neutre</set></card>
+		<card><name id="">Stratege Gobelin</name><set>neutre</set></card>
+		<card><name id="">Stratege Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Comptable du Temple</name><set>moine</set></card>
+		<card><name id="">Comptable du Temple</name><set>moine</set></card>
+		<card><name id="">Comptable du Temple</name><set>moine</set></card>
+		<card><name id="">Prince du Temps</name><set>moine</set></card>
+	</superzone>
+</deck>
