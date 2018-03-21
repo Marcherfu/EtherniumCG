@@ -31,4 +31,4 @@ Nouveau type de marqueur : les Marqueurs Régénération, ils sont l'exact oppos
 Rajout de 114 nouvelles cartes.
 
 ### Contact
-Vous pouvez me contacter sur le discord du jeu qui est le suivant : https://discord.gg/zSWDxgk. J'y organise de temps à autre des matchs de rating pour créer une sorte de ladder ainsi que des tournois en Bo3 3 Decks/1 Ban.
+Vous pouvez me contacter sur le discord du jeu qui est le suivant : https://discord.gg/fT4MBJ9. J'y organise de temps à autre des matchs de rating pour créer une sorte de ladder ainsi que des tournois en Bo3 3 Decks/1 Ban.
