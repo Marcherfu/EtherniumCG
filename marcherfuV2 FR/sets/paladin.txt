@@ -16,7 +16,7 @@ Appel de la Garde Ambree	paladin		Sort		5			Invoquez X Jetons Officier 1/2 ayant
 Caserne de la Garde Ambree	paladin		Artefact		6			Au debut de chacun de vos tours, invoquez deux Jetons Officiers 1/2 ayant le sous-type "Paladin".
 General de la Garde Ambree	paladin		Creature	Paladin	6	1	1	Gagne +1/+1 pour chaque Jeton Officier 1/2 ayant le sous-type "Paladin" en jeu.
 Banniere de Ralliement de la Garde Ambree	paladin		Artefact		4			Donne +1/+0 a tout les Jetons Officier.
-Inversion	paladin		Sort	Piege	4			Au moment ou une creature adverse attaque une creature alliee, invesez l'attaque et les PVs des deux creatures.
+Inversion	paladin		Sort	Piege	4			Au moment ou une creature adverse attaque une creature alliee, inversez l'attaque et les PVs des deux creatures.
 Lieutenant de la Garde Ambree	paladin		Creature	Paladin	5	3	4	Cherchez dans votre deck une carte ayant dans son nom "de la Garde Ambree", montrez-la a votre adversaire et mettez-la dans votre main, melangez ensuite votre deck.
 Chevalier de la Garde Ambree	paladin		Creature	Paladin	6	4	6	Celerite. (Peux attaquer des le tour ou cette carte est jouee)
 Soldat de la Garde Ambree	paladin		Creature	Paladin	1	1	1	Celerite. (Peux attaquer des le tour ou cette carte est jouee)
