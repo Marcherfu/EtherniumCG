@@ -1,0 +1,23 @@
+Name	Set	ImageFile	Type	Sous-Type	Cout	Attaque	PVs	Texte
+Bouclier Protecteur	paladin		Sort		1			Donne +0/+1 a la cible.
+Chevalier	paladin		Creature	Paladin	2	1	2	Provocation. (Si vous voulez attaquer le joueur adverse ou une creature sans provocation, vous devez en premier lieu vaincre cette creature)
+Croise	paladin		Creature	Paladin	3	1	3	Provocation. (Si vous voulez attaquer le joueur adverse ou une creature sans provocation, vous devez en premier lieu vaincre cette creature.)
+Cadet Impatient	paladin		Creature	Paladin	4	2	1	Celerite. (Peux attaquer des le tour ou cette carte est jouee) A chaque fois que cette creature inflige des degats au joueur adverse, toutes vos creatures ayant le sous-type Paladin qui sont en jeu gagnent +0/+1 jusqu'a la fin du tour.
+Roi Arthur	paladin		Creature	Paladin	5	3	5	Toutes les creatures ayant le sous-type Paladin qui sont dans votre main coutent 1 de moins a jouer et toutes les creatures ayant le sous-type Paladin qui sont en jeu et qui arrivent en jeu gagnent +0/+1.
+Conseil de la Table Ronde	paladin		Sort		6			Vous pouvez jouer une carte ayant le sous-type Paladin gratuitement depuis votre main. Elle gagne Charge pour le tour en cours et reviens dans votre main a la fin de votre tour. (Peux attaquer une creature des le tour ou cette carte est jouee)
+Brigadier des Plaines	paladin		Creature	Paladin	7	4	5	A chaque fois qu'une creature ayant le sous-type Paladin meurt, vous recuperez 1PV. Provocation. (Si vous voulez attaquer le joueur adverse ou une creature sans provocation, vous devez en premier lieu vaincre cette creature)
+Escrimeur Perce-Vent	paladin		Creature	Paladin	8	0	X	Les PVs de cette creature sont egaux au nombre de creatures ayant le sous-type Paladin en jeu. Provocation. (Si vous voulez attaquer le joueur adverse ou une creature sans provocation, vous devez en premier lieu vaincre cette creature)
+Priere	paladin		Sort		9			Inflige X points de degats a la cible. X etant le nombre de creature avec le sous-type Paladin en jeu.
+Jeanne d'Arc	paladin		Creature	Paladin	10	3	10	Vos creatures ont +X/-Y pour le tour en cours, X etant leurs PVs et Y leur attaque.
+Chevalier Blanc	paladin		Creature	Paladin	10	1	1	Si au debut de votre tour vous avez 20 creatures avec le sous-type Paladin en jeu et que cette creature est en jeu, vous gagnez la partie.
+Commandant de la Garde Ambree	paladin		Creature	Paladin	3	1	2	Invoquez deux Jetons Officier 1/2 ayant le sous-type "Paladin".
+Chef de la Garde Ambree	paladin		Creature	Paladin	4	2	3	Invoquez trois Jetons Officier 1/2 ayant le sous-type "Paladin".
+Appel de la Garde Ambree	paladin		Sort		5			Invoquez X Jetons Officier 1/2 ayant le sous-type "Paladin", X etant le nombre de creatures ayant le sous-type "Paladin" en jeu.
+Caserne de la Garde Ambree	paladin		Artefact		6			Au debut de chacun de vos tours, invoquez deux Jetons Officiers 1/2 ayant le sous-type "Paladin".
+General de la Garde Ambree	paladin		Creature	Paladin	6	1	1	Gagne +1/+1 pour chaque Jeton Officier 1/2 ayant le sous-type "Paladin" en jeu.
+Banniere de Ralliement de la Garde Ambree	paladin		Artefact		4			Donne +1/+0 a tout les Jetons Officier.
+Inversion	paladin		Sort	Piege	4			Au moment ou une creature adverse attaque une creature alliee, invesez l'attaque et les PVs des deux creatures.
+Lieutenant de la Garde Ambree	paladin		Creature	Paladin	5	3	4	Cherchez dans votre deck une carte ayant dans son nom "de la Garde Ambree", montrez-la a votre adversaire et mettez-la dans votre main, melangez ensuite votre deck.
+Chevalier de la Garde Ambree	paladin		Creature	Paladin	6	4	6	Celerite. (Peux attaquer des le tour ou cette carte est jouee)
+Soldat de la Garde Ambree	paladin		Creature	Paladin	1	1	1	Celerite. (Peux attaquer des le tour ou cette carte est jouee)
+Armure de la Garde Ambree	paladin		Sort		3			Donne +1/+2 a la cible.

@@ -1,0 +1,13 @@
+<listofcarddatafiles>
+<filetoinclude>neutral.txt</filetoinclude>
+<filetoinclude>mage.txt</filetoinclude>
+<filetoinclude>warrior.txt</filetoinclude>
+<filetoinclude>priest.txt</filetoinclude>
+<filetoinclude>marksman.txt</filetoinclude>
+<filetoinclude>thief.txt</filetoinclude>
+<filetoinclude>necromancer.txt</filetoinclude>
+<filetoinclude>monk.txt</filetoinclude>
+<filetoinclude>vampire.txt</filetoinclude>
+<filetoinclude>paladin.txt</filetoinclude>
+<filetoinclude>token.txt</filetoinclude>
+</listofcarddatafiles>

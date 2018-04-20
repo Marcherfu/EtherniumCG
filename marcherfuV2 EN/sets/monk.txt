@@ -1,0 +1,23 @@
+Name	Set	ImageFile	Type	Sub-Type	Cost	Attack	HPs	Text
+Bandit of the Sands	monk		Monster		1	0	2	Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)
+Focusing	monk		Spell		2			Give yourself 1 empty Mana Point.
+Spiritual Research	monk		Spell		3			Draw a card and reduce his cost by 1.
+Al, the Child Stealer	monk		Monster		4	2	2	Take control of the a monster which cost 3 Mana Point or less, you can attack with it.
+Meditation	monk		Spell		5			Draw X cards and give yourself 1 empty Mana Point, X being the number of Max Mana Points you have minus the number of Max Mana Point your enemy have.
+Hourglass of Truth	monk		Artifact		6			While this artifact is in play, whenever an artifact is played you can chose to banish it. If you do so, destroy the Hourglass of Truth.
+Shaolin Master	monk		Monster		7	1	5	The target recover X HPs, X being the attack of the strongest monster in play. Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.) Mightyness 2. (Each time you cast a spell, this monster gain +2/+0 until the end of the turn.)
+Prince of Time	monk		Monster		8	1	1	The game restarts from the beginning, however this card and all iterations of it are banished just before the second start of the game. As long as this card is banished you deal 1 damage to yourself and you draw an extra card at the beginning of each turn. This effect isn't cumulative if you have more than one iteratioin of the Prince of Time banished.
+Verethragna	monk		Monster		9	4	5	The targeted monster recover all his HPs and can attack again for this turn if it already attacked. In exchange, it can't attack the next turn.
+Shadhahvar, the Carnivorous Unicorn	monk		Monster		10	X	X	The Attack and the HPs of this monster are equal to the number of turns played this game. Rush. (Can attack a monster the turn this card is played)
+Mental Sacrifice	monk		Spell	Trap	3			When an ennemy monster attack, you can sacrifice 1 Max Mana Point. If you do so, cancel the attack of this monster and destroy it.
+Shaolin Apprentice	monk		Monster		4	2	3	Mightyness 1. (Each time you cast a spell, this monster gain +1/+0 until the end of the turn.)
+Protector of the Temple	monk		Monster		1	1	2	Mightyness 1. (Each time you cast a spell, this monster gain +1/+0 until the end of the turn.)
+Monk Purifier	monk		Monster		2	1	3	Rush. (Can attack a monster the turn this card is played) Mightyness 1. (Each time you cast a spell, this monster gain +1/+0 until the end of the turn.)
+Reflecting mirror	monk		Spell	Trap	2			When an artifact or a spell is played, you can sacrifice 1 Max Mana Point. If you do so and it was an artifact, it's instantly destroyed without doing any effect ; if it's a spell, he's countered.
+Truce	monk		Spell	Trap	5			Au moment ou une creature adverse attaque une cible, vous pouvez sacrifier 1 Point de Mana maximum. Si vous faites ainsi, aucune creature n'inflige de degats a qui que ce soit pour le tour en cours.
+Weapon Master	monk		Monster		3	1	1	Search in your deck for a spell with the Trap sub-type show it to your enemy and put it into your hand, then shuffle your deck. Mightyness 1. (Each time you cast a spell, this monster gain +1/+0 until the end of the turn.)
+Shaolin Warrior	monk		Monster		5	1	1	Mightyness 2. (Each time you cast a spell, this monster gain +2/+0 until the end of the turn.) Celerity. (Can attack the turn this card is played)
+Shaolin Temple	monk		Artifact		6			While this artifact is in play, all monsters who are in play and who come in play gain "Mightyness X. (Each time you cast a spell, this monster gain +X/+0 until the end of the turn.), X being the number of monsters in play.". Sacrifice this artifact at the end of your turn.
+Defense of the Temple	monk		Spell	Trap	4			When an enemy monster attack an allied monster, chose an enemy attacking monster and an allied attacked monster, if the targeted allied monster isn't neutral, it gain +1/+2 and if the targeted enemy monster is neutral, it gain -2/-1.
+Temple Accountant	monk		Monster		6	3	3	Devotion 1 : Draw a card. (Pay 1 Mana Point and discard 1 card from your hand to activate this effect.)
+Sandstorm	monk		Spell		6			Deal 3 damages to all monsters and 2 more damages to the target of this spell.
