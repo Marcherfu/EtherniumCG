@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2 EN</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Shaman</name><set>neutral</set></card>
+		<card><name id="">Goblin Shaman</name><set>neutral</set></card>
+		<card><name id="">Goblin Shaman</name><set>neutral</set></card>
+		<card><name id="">Goblin Shaman</name><set>neutral</set></card>
+		<card><name id="">Hole</name><set>warrior</set></card>
+		<card><name id="">Hole</name><set>warrior</set></card>
+		<card><name id="">Hole</name><set>warrior</set></card>
+		<card><name id="">Hole</name><set>warrior</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Bait</name><set>warrior</set></card>
+		<card><name id="">Bait</name><set>warrior</set></card>
+		<card><name id="">Bait</name><set>warrior</set></card>
+		<card><name id="">Bait</name><set>warrior</set></card>
+		<card><name id="">Hidden Revenge</name><set>warrior</set></card>
+		<card><name id="">Hidden Revenge</name><set>warrior</set></card>
+		<card><name id="">Hidden Revenge</name><set>warrior</set></card>
+		<card><name id="">Hidden Revenge</name><set>warrior</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">Dance of the Swords</name><set>warrior</set></card>
+		<card><name id="">Dance of the Swords</name><set>warrior</set></card>
+		<card><name id="">Dance of the Swords</name><set>warrior</set></card>
+		<card><name id="">Dance of the Swords</name><set>warrior</set></card>
+		<card><name id="">Goblin Architect</name><set>neutral</set></card>
+		<card><name id="">Goblin Architect</name><set>neutral</set></card>
+		<card><name id="">Goblin Architect</name><set>neutral</set></card>
+		<card><name id="">Goblin Architect</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">Goblin Medicine</name><set>neutral</set></card>
+		<card><name id="">Goblin Medicine</name><set>neutral</set></card>
+		<card><name id="">Goblin Medicine</name><set>neutral</set></card>
+		<card><name id="">Goblin Medicine</name><set>neutral</set></card>
+		<card><name id="">Lancelot</name><set>warrior</set></card>
+		<card><name id="">Lancelot</name><set>warrior</set></card>
+		<card><name id="">Lancelot</name><set>warrior</set></card>
+		<card><name id="">Lancelot</name><set>warrior</set></card>
+	</superzone>
+</deck>

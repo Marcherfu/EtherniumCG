@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2 EN</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Minesweeper Goblin</name><set>neutral</set></card>
+		<card><name id="">Minesweeper Goblin</name><set>neutral</set></card>
+		<card><name id="">Minesweeper Goblin</name><set>neutral</set></card>
+		<card><name id="">Minesweeper Goblin</name><set>neutral</set></card>
+		<card><name id="">Minesweeper</name><set>thief</set></card>
+		<card><name id="">Minesweeper</name><set>thief</set></card>
+		<card><name id="">Minesweeper</name><set>thief</set></card>
+		<card><name id="">Minesweeper</name><set>thief</set></card>
+		<card><name id="">Treasure Stealer</name><set>thief</set></card>
+		<card><name id="">Treasure Stealer</name><set>thief</set></card>
+		<card><name id="">Treasure Stealer</name><set>thief</set></card>
+		<card><name id="">Treasure Stealer</name><set>thief</set></card>
+		<card><name id="">Counterspell</name><set>thief</set></card>
+		<card><name id="">Counterspell</name><set>thief</set></card>
+		<card><name id="">Counterspell</name><set>thief</set></card>
+		<card><name id="">Counterspell</name><set>thief</set></card>
+		<card><name id="">Snake Trap</name><set>thief</set></card>
+		<card><name id="">Snake Trap</name><set>thief</set></card>
+		<card><name id="">Snake Trap</name><set>thief</set></card>
+		<card><name id="">Snake Trap</name><set>thief</set></card>
+		<card><name id="">Counterattack</name><set>thief</set></card>
+		<card><name id="">Counterattack</name><set>thief</set></card>
+		<card><name id="">Counterattack</name><set>thief</set></card>
+		<card><name id="">Counterattack</name><set>thief</set></card>
+		<card><name id="">Magic Mirror</name><set>thief</set></card>
+		<card><name id="">Magic Mirror</name><set>thief</set></card>
+		<card><name id="">Magic Mirror</name><set>thief</set></card>
+		<card><name id="">Magic Mirror</name><set>thief</set></card>
+		<card><name id="">Poisoned Trap</name><set>thief</set></card>
+		<card><name id="">Poisoned Trap</name><set>thief</set></card>
+		<card><name id="">Poisoned Trap</name><set>thief</set></card>
+		<card><name id="">Poisoned Trap</name><set>thief</set></card>
+		<card><name id="">Rat Poison</name><set>thief</set></card>
+		<card><name id="">Rat Poison</name><set>thief</set></card>
+		<card><name id="">Rat Poison</name><set>thief</set></card>
+		<card><name id="">Rat Poison</name><set>thief</set></card>
+		<card><name id="">Goblin Ambush</name><set>neutral</set></card>
+		<card><name id="">Goblin Ambush</name><set>neutral</set></card>
+		<card><name id="">Goblin Ambush</name><set>neutral</set></card>
+		<card><name id="">Goblin Ambush</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+	</superzone>
+</deck>

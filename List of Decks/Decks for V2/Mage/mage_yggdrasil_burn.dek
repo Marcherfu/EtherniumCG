@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2 EN</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Yggdrasil, the World Tree</name><set>mage</set></card>
+		<card><name id="">Yggdrasil, the World Tree</name><set>mage</set></card>
+		<card><name id="">Yggdrasil, the World Tree</name><set>mage</set></card>
+		<card><name id="">Yggdrasil, the World Tree</name><set>mage</set></card>
+		<card><name id="">Midgard Researcher</name><set>mage</set></card>
+		<card><name id="">Midgard Researcher</name><set>mage</set></card>
+		<card><name id="">Midgard Researcher</name><set>mage</set></card>
+		<card><name id="">Midgard Researcher</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Fruits</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Fruits</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Fruits</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Fruits</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Leaves</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Leaves</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Leaves</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Leaves</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Roots</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Roots</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Roots</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Roots</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Sap</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Sap</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Sap</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Sap</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Trunk</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Trunk</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Trunk</name><set>mage</set></card>
+		<card><name id="">Yggdrasil&apos;s Trunk</name><set>mage</set></card>
+		<card><name id="">Arcanic Research</name><set>mage</set></card>
+		<card><name id="">Arcanic Research</name><set>mage</set></card>
+		<card><name id="">Arcanic Research</name><set>mage</set></card>
+		<card><name id="">Arcanic Research</name><set>mage</set></card>
+		<card><name id="">Pyromancer</name><set>mage</set></card>
+		<card><name id="">Pyromancer</name><set>mage</set></card>
+		<card><name id="">Pyromancer</name><set>mage</set></card>
+		<card><name id="">Pyromancer</name><set>mage</set></card>
+		<card><name id="">Spark</name><set>mage</set></card>
+		<card><name id="">Spark</name><set>mage</set></card>
+		<card><name id="">Spark</name><set>mage</set></card>
+		<card><name id="">Spark</name><set>mage</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Stalagmite</name><set>mage</set></card>
+		<card><name id="">Stalagmite</name><set>mage</set></card>
+		<card><name id="">Stalagmite</name><set>mage</set></card>
+		<card><name id="">Stalagmite</name><set>mage</set></card>
+		<card><name id="">Fireball</name><set>mage</set></card>
+		<card><name id="">Fireball</name><set>mage</set></card>
+		<card><name id="">Fireball</name><set>mage</set></card>
+		<card><name id="">Fireball</name><set>mage</set></card>
+		<card><name id="">Lava Flow</name><set>mage</set></card>
+		<card><name id="">Lava Flow</name><set>mage</set></card>
+		<card><name id="">Lava Flow</name><set>mage</set></card>
+		<card><name id="">Lava Flow</name><set>mage</set></card>
+		<card><name id="">Knife Throwing</name><set>neutral</set></card>
+		<card><name id="">Knife Throwing</name><set>neutral</set></card>
+		<card><name id="">Knife Throwing</name><set>neutral</set></card>
+		<card><name id="">Knife Throwing</name><set>neutral</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2 EN</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Alucard</name><set>vampire</set></card>
+		<card><name id="">Alucard</name><set>vampire</set></card>
+		<card><name id="">Alucard</name><set>vampire</set></card>
+		<card><name id="">Alucard</name><set>vampire</set></card>
+		<card><name id="">Nosferatu</name><set>vampire</set></card>
+		<card><name id="">Nosferatu</name><set>vampire</set></card>
+		<card><name id="">Nosferatu</name><set>vampire</set></card>
+		<card><name id="">Nosferatu</name><set>vampire</set></card>
+		<card><name id="">Vampire Apprentice</name><set>vampire</set></card>
+		<card><name id="">Vampire Apprentice</name><set>vampire</set></card>
+		<card><name id="">Vampire Apprentice</name><set>vampire</set></card>
+		<card><name id="">Vampire Apprentice</name><set>vampire</set></card>
+		<card><name id="">Behemoth</name><set>vampire</set></card>
+		<card><name id="">Behemoth</name><set>vampire</set></card>
+		<card><name id="">Behemoth</name><set>vampire</set></card>
+		<card><name id="">Behemoth</name><set>vampire</set></card>
+		<card><name id="">Bloody Chalice</name><set>vampire</set></card>
+		<card><name id="">Bloody Chalice</name><set>vampire</set></card>
+		<card><name id="">Bloody Chalice</name><set>vampire</set></card>
+		<card><name id="">Bloody Chalice</name><set>vampire</set></card>
+		<card><name id="">Bloody Temple</name><set>vampire</set></card>
+		<card><name id="">Bloody Temple</name><set>vampire</set></card>
+		<card><name id="">Bloody Temple</name><set>vampire</set></card>
+		<card><name id="">Bloody Temple</name><set>vampire</set></card>
+		<card><name id="">Noble Vampire</name><set>vampire</set></card>
+		<card><name id="">Noble Vampire</name><set>vampire</set></card>
+		<card><name id="">Noble Vampire</name><set>vampire</set></card>
+		<card><name id="">Noble Vampire</name><set>vampire</set></card>
+		<card><name id="">Vampire Sentinel</name><set>vampire</set></card>
+		<card><name id="">Vampire Sentinel</name><set>vampire</set></card>
+		<card><name id="">Vampire Sentinel</name><set>vampire</set></card>
+		<card><name id="">Vampire Sentinel</name><set>vampire</set></card>
+		<card><name id="">Bloodsucker Goblin</name><set>neutral</set></card>
+		<card><name id="">Bloodsucker Goblin</name><set>neutral</set></card>
+		<card><name id="">Bloodsucker Goblin</name><set>neutral</set></card>
+		<card><name id="">Bloodsucker Goblin</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Carmilla</name><set>vampire</set></card>
+		<card><name id="">Carmilla</name><set>vampire</set></card>
+		<card><name id="">Carmilla</name><set>vampire</set></card>
+		<card><name id="">Carmilla</name><set>vampire</set></card>
+		<card><name id="">Blood Blade</name><set>vampire</set></card>
+		<card><name id="">Blood Blade</name><set>vampire</set></card>
+		<card><name id="">Blood Blade</name><set>vampire</set></card>
+		<card><name id="">Blood Blade</name><set>vampire</set></card>
+		<card><name id="">Blood Pact</name><set>vampire</set></card>
+		<card><name id="">Blood Pact</name><set>vampire</set></card>
+		<card><name id="">Blood Pact</name><set>vampire</set></card>
+		<card><name id="">Blood Pact</name><set>vampire</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+	</superzone>
+</deck>

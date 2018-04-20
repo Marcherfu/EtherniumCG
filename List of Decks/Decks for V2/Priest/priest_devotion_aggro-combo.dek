@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2 EN</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Priest Worshiper</name><set>priest</set></card>
+		<card><name id="">Priest Worshiper</name><set>priest</set></card>
+		<card><name id="">Priest Worshiper</name><set>priest</set></card>
+		<card><name id="">Priest Worshiper</name><set>priest</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Dedication</name><set>priest</set></card>
+		<card><name id="">Dedication</name><set>priest</set></card>
+		<card><name id="">Dedication</name><set>priest</set></card>
+		<card><name id="">Dedication</name><set>priest</set></card>
+		<card><name id="">Worshipful Priestess</name><set>priest</set></card>
+		<card><name id="">Worshipful Priestess</name><set>priest</set></card>
+		<card><name id="">Worshipful Priestess</name><set>priest</set></card>
+		<card><name id="">Worshipful Priestess</name><set>priest</set></card>
+		<card><name id="">Fervant Priestess</name><set>priest</set></card>
+		<card><name id="">Fervant Priestess</name><set>priest</set></card>
+		<card><name id="">Fervant Priestess</name><set>priest</set></card>
+		<card><name id="">Fervant Priestess</name><set>priest</set></card>
+		<card><name id="">Devoted Goblin</name><set>neutral</set></card>
+		<card><name id="">Devoted Goblin</name><set>neutral</set></card>
+		<card><name id="">Devoted Goblin</name><set>neutral</set></card>
+		<card><name id="">Devoted Goblin</name><set>neutral</set></card>
+		<card><name id="">Chalice of Worship</name><set>priest</set></card>
+		<card><name id="">Chalice of Worship</name><set>priest</set></card>
+		<card><name id="">Chalice of Worship</name><set>priest</set></card>
+		<card><name id="">Chalice of Worship</name><set>priest</set></card>
+		<card><name id="">Altar of Fervor</name><set>priest</set></card>
+		<card><name id="">Altar of Fervor</name><set>priest</set></card>
+		<card><name id="">Altar of Fervor</name><set>priest</set></card>
+		<card><name id="">Altar of Fervor</name><set>priest</set></card>
+		<card><name id="">Idolatrous Priest</name><set>priest</set></card>
+		<card><name id="">Idolatrous Priest</name><set>priest</set></card>
+		<card><name id="">Idolatrous Priest</name><set>priest</set></card>
+		<card><name id="">Idolatrous Priest</name><set>priest</set></card>
+		<card><name id="">Temple of Devotion</name><set>priest</set></card>
+		<card><name id="">Temple of Devotion</name><set>priest</set></card>
+		<card><name id="">Temple of Devotion</name><set>priest</set></card>
+		<card><name id="">Temple of Devotion</name><set>priest</set></card>
+		<card><name id="">Devoted Fanatic</name><set>priest</set></card>
+		<card><name id="">Devoted Fanatic</name><set>priest</set></card>
+		<card><name id="">Devoted Fanatic</name><set>priest</set></card>
+		<card><name id="">Devoted Fanatic</name><set>priest</set></card>
+		<card><name id="">Templar</name><set>priest</set></card>
+		<card><name id="">Templar</name><set>priest</set></card>
+		<card><name id="">Templar</name><set>priest</set></card>
+		<card><name id="">Templar</name><set>priest</set></card>
+		<card><name id="">Temple of Calamity</name><set>priest</set></card>
+		<card><name id="">Temple of Calamity</name><set>priest</set></card>
+		<card><name id="">Temple of Calamity</name><set>priest</set></card>
+		<card><name id="">Temple of Calamity</name><set>priest</set></card>
+		<card><name id="">Bad Eye</name><set>priest</set></card>
+		<card><name id="">Bad Eye</name><set>priest</set></card>
+		<card><name id="">Bad Eye</name><set>priest</set></card>
+		<card><name id="">Bad Eye</name><set>priest</set></card>
+	</superzone>
+</deck>
