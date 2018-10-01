@@ -41,7 +41,7 @@ Création du jeu et de ses 113 premières cartes.
   
 Creation of the game and his 113 first cards.  
   
-### Changelog (V2)
+### Changelog V2
 Changement de la mécanique des Pièges : ils sont désormais à placer dans la zone Piège en payant leur coût pendant votre tour et à activer à n'importe quel moment.  
 Changement de mécanique sur les Jetons : ils sont désormais comptés dans la défausse.  
 Changement de mécanique sur les Marqueurs Poison : ils ne permettent plus de gagner de manière instantanée une partie mais ils font que le joueur qui en possède perd autant de PVs au début de son tour que de Marqueurs Poison qu'il possède puis qu'il se retire un Marqueur Poison : c'est un poison après tout.  
