@@ -1,0 +1,140 @@
+Mage :
+	Buffs
+-La Transformation en Oie coûte 2 de moins à jouer.
+-L'Invocation Enflamée et l'Invocation Givrée coûte 6 de moins à jouer et leurs invocations sont des 1/1 et non plus des 0/1. De plus, leur coût est désormais réduit en fonction du nombre de cartes avec leur sous-type dans votre main pour compenser la baisse du coût et l'augmentation des statistiques.
+-L'Invocation Enflamée n'invoque plus autant d'Engances de Flammes que de dégâts des sorts bonus mais autant que de cartes que vous possédez dans votre main.
+-L'Engeance de Givre ne possède plus "Tant que cette creature est en jeu, reduisez les dommages recus de 1." mais "Tant que c'est creature est en jeu, a la fin de votre tour vous pouvez choisir une creature adverse et la geler. Si aucune creature adverse ne peux etre gelee, alors detruisez une creature adverse.".
+-Le Professeur des Arcanes coûte 1 de moins à jouer.
+	Nerfs
+-La Boule de Feu inflige 1 point de dégât en moins.
+-Le Stalagmite inflige 1 point de dégât en moins et coûte 1 de plus à jouer.
+-La Recherche Arcanique coûte 2 de plus à jouer.
+-La Coulée de Lave inflige 1 point de dégât en moins.
+	Explications
+Le deck Yggdrasil Burn (deck Aggro-Combo reposant sur le gain de dégâts et de tour donné par Yggdrasil pour infliger d'énormes quantitées de dégâts) est beaucoup trop au dessus des autres decks et il faut le calmer. Les raisons de sa force sont simples : énormément de pioche et de dégâts, trop rapidement. Je souhaitais minimiser les nerfs sur l'aspect pioche de ce deck, donc la vitesse et la puissance du blast ont été les plus impactés. J'en ai profité pour donner un peu plus d'intérêt aux cartes sous-jouées.(edited)
+
+Vampire :
+	Buffs
+-Le Calice Ensanglante coûte désormais 0. (C'est pas une blague, lisez la partie Nerfs...)
+-Le Demon des Abysses coûte désormais 1 de moins à jouer pour chaque Jeton Chauve-Souris en jeu et gagne "Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)". Il gagne également 5PVs.
+-L'Apprenti Vampire coûte 1 de moins à jouer.
+-Nosferatu coûte 1 de moins à jouer et son effet de Succion coûte désormais que 2PVs et fait piocher deux cartes au lieu d'une.
+	Nerfs
+-Le Calice Ensanglante coute 1 de plus à jouer pour chaque PVs que vous possédez. (Il faut donc avoir moins de 11PVs si vous voulez espérer le jouer ne serais-ce qu'au T10 !)
+-L'effet de la Sentinelle Vampire n'est activable que deux fois par tour par Sentinelle. (Donc un total de 8PVs rendus possible et non plus un regain infini)
+-Le Temple Sanglant coute 1 de plus à jouer.
+-Le Behemoth inflige désormais 4 Points de Dégâts avec sa capacité de Succion au lieu de 5.
+-L'effet de Succion de Nosferatu et du Behemot ne sont désormais utilisables qu'une fois par tour.
+-Carmilla coûte 1 de plus à jouer et perds 1PV.
+-Le Noble Vampire perds 1PV.
+	Explications
+Vampire c'est fort, très fort. Succion c'est fort, très fort. Double Sentinelle Vampire suivit d'Apprenti Vampire au Tour 5 en ayant un Temple Sanglant en jeu permettait de faire un combo de dégâts infini. Et c'est loin d'être le seul combo tournant autour de la Succion qui était fort (Behemoth pour dégâts infinis, Nosferatu pour mill complète du deck adverse et j'en passe !) et tout les decks aggro vampires avaient dans leur listes un combo via Succion histoire de pouvoir battre les decks control, ce qui rendait la victoire contre un deck aggro vampire difficile pour quasiment tout les decks non-aggro. De plus, toujours en restant sur les decks aggro, Carmilla était extrêmement forte pour ce qui est d'infliger des dégâts de gratte en plus du Temple Sanglant en early game. Leurs effets sont intéressants mais je ne veux pas qu'ils soient trop rapides et/ou sans aucune difficultée d'application. La Sentinelle Vampire permettait de faire office de pseudo-Calice en les posant toutes d'un coup sur le terrain et en utilisant en boucle un effet de Succion de 4 ou moins pour achever l'adversaire. Et cerise sur le gâteau, le Noble Vampire permet de protéger toutes ces petites bestioles avec une 2/3 pour 2 qui gagne Provocation si l'on paye 2PVs quand on attaque avec ! Bref un deck bien trop fort, forçant à jouer des decks aggro pour tourner autour : je le remercie de son passage avec certains combos très amusants à jouer mais il faut calmer la chose quand même. Je rassure quand même les amateurs de Vampire Combo : il reste un deck qui peux se jouer et qui peux lethal au tour 6 avec de la chance. Je vous en dis pas plus à vous de trouver le combo !
+
+Prêtre :
+	Buffs
+-Le Calice de l'Adoration coûte désormais 2 de moins à jouer et permet de remettre dans le deck deux cartes au lieu d'une.
+	Nerfs
+-Le Calice de l'Adoration et la Pretresse Devouee ne sont désormais utilisables que 3 fois par tour sur leurs effets déclenchés via l'activation d'une capacité de Dévotion.
+-La Pretresse Fervante inflige 2 points de dégâts de moins avec son effet de Dévotion.
+-L'Autel de la Ferveur coute 1 de plus à jouer.
+	Explications
+La Dévotion en Prêtre possède le même problème que la Succion : il y a moyen de faire des combos infinis un peu trop facilement. C'est donc pour ça que la Dévotion a été touchée. Il n'y a pas grand chose de plus à dire, concrêtement tout ce que j'ai dis sur les Vampires Succion s'appliquent aux Prêtres Dévotion, la seule différence étant que pour la Dévotion il y a des modifications un peu plus rapides à faire pour rendre ça moins fort.
+
+Voleur :
+	Buffs
+-L'Embuscade coûte désormais également 1 de moins à jouer pour chaque carte dans votre main en plus de chaque carte ayant le sous-type "Piege" dans votre zone Piege.
+-Le Malandrin possède désormais Combo 4 (En jouant cette carte vous pouvez jouer un nombre infini de cartes supplementaires sans payer leur cout en mana tant que le cout total en mana de toutes ces cartes ne depasse pas 4.) au lieu de Combo 2.
+-Ali Baba, Roi des Voleurs gagne 2PVs.
+-Le Jongleur Fou gagne 3 d'Attaque et 2PVs.
+-Le Piege Empoisonne applique désormais X Marqueurs Poison, X etant egal au cout originel du sort lance par votre adversaire.
+-La Mort-aux-rats coute désormais 2 de moins à jouer.
+-Medusa, Reine des Serpents invoque désormais 2 Jetons Serpents en fin de tour au lieu d'un seul.
+-La Bague du Voleur de Sorts est désormais un Sort ayant le sous-type "Piege". Son coût est également réduit de 2. Son fonctionnement reste globalement le même, ça deviens juste un Piège.
+-Le Serpent Millenaire coûte désormais 1 de moins a jouer pour chaque Jeton Serpent en jeu et chaque Marqueur Poison sur l'ensemble des joueurs.
+-Le Pudding à l'Arsenic coûte désormais 1 de moins à jouer pour chaque Marqueur Poison présent sur tout les joueurs.
+-Le Derobeur de Tresors coute désormais 1 de moins à jouer.
+	Nerfs
+-Le Derobeur de Tresors est désormais une 1/1 au lieu d'être une 2/2
+-Le Pudding à l'Arsenic coûte désormais 5 de plus à jouer.
+-Le Serpent Millenaire coûte désormais 4 de plus à jouer.
+	Explications
+Les decks Voleurs sont des decks un peu étranges, portés uniquement par un archétype très dépendant de la pioche (Voleur Déminage) Ils jouent des pièges dans leurs decks en ne devant pas s'en servir. J'aime bien l'idée de départ mais je trouve ça dommage que les autres archétypes n'aient pas plus de reconnaissance que ça, donc je renforce les autres archétypes pour qu'à leurs tours ils brillent. J'apprécie énormément l'idée de jouer beaucoup de Pièges et de créer le doûte dans la tête de l'adversaire, le forcer à activer des pièges adverses dans le but de le punir en lui appliquant du poison ou en s'occupant de ses créatures ou de ses sorts ; tout comme j'aime l'idée de la mécanique de Combo, bien qu'elle soit difficile à maîtriser elle offre une grande profondeur au gameplay.
+
+Archer :
+	Buffs
+-L'Archéologue Elfe gagne 1 point d'attaque.
+-La Fabrique d'Artifices invoque désormais deux bombes au lieu d'une.
+-L'Enfant qui criait au loup gagne 4 points d'attaque.
+-Le sort Invocation Bestiale coûte 1 de moins à jouer et gagne le sous-type "Bete".
+-Ganesh, Roi des Betes gagne X points d'attaque, X étant la même valeur que pour ses PVs. Il coûte également 1 de moins à jouer.
+-Le Lac aux Fees peux désormais cibler un autre joueur pour son effet de pioche.
+-Le Sage Elfe rends désormais 1 Point de Mana par Carte avec le sous-type Elfique jouée et non plus par Sort avec le sosu-type Elfique joué.
+-Appel Elfique prends désormais en compte toutes les Cartes pour son effet et non plus que les Sorts.
+	Nerfs
+-Cependant, Appel Elfique ne prends plus que les Cartes avec le sous-type "Elfique" et non plus toutes les cartes.
+-Le Lac aux Fees n'est plus cumulable en ayant plusieurs Lac aux Fees en jeu et l'effet d'un Lac n'est désormais utilisable qu'une fois par tour. (Ce qui veux dire qu'avec 4 Lacs vous pouvez piocher jusqu'à 4 cartes par tour pour 4 et non plus piocher 16 cartes par tour pour 4 !)(edited)
+	Explications
+Le Lac au Fees possédait une faille dans son wording qui rendait la carte beaucoup trop violente : en effet, il était possible de payer 1 pour piocher 4 cartes si on avait 4 Lacs en jeu, permettant donc la constructions de decks avec beaucoup de cartes spécifiques différentes mais qui, du au fait qu'il se vidait très rapidement, restait extrêmement stable.
+J'ai voulu également renforcer les archétypes control de la classe qui sont très faibles comparé au deck Aggro-Combo Beast qui est un bon deck et qui est polyvalent. J'ai rajouté une orientation meule sur la carte Lac aux Fees pour compenser son nerf monstrueux mais également donner une nouvelle façon de finir l'adversaire en Control : jouer avec 6 Points de Mana par tour et temporiser en faisant piocher de 4 votre adversaire à chaque tour, ce qui lui fera cramer des cartes très vite et le mènera à une défaite via la meule. Ou alors, vous pouvez jouer ça en Elfique avec le Sage Elfe en le protégeant un maximum pour utiliser un maximum de mana et finir avec 4 Points de Mana grâce à l'effet de regain du Sage Elfe.
+
+Moine :
+	Buffs
+-Le Sablier de la Verite est désormais un Sort ayant le sous-type "Piege". Son fonctionnement reste globalement le même, ça deviens juste un Piège.
+-Le sort Defense du Temple ne prends plus en compte si l'alliee ou l'ennemi sont neutres ou pas pour octroyer son effet bonus.
+-La Tempete de Sable coûte désormais 1 de moins à jouer.
+	Nerfs
+-Aucun nerf.
+	Explications
+Les decks Moines sont corrects : ils ont, certes, le deck le plus chiant du jeu (Moine Ramp) avec la capacitée de recommencer la partie une seconde fois si ils sont dans le mal mais qu'ils ont pioché leur Prince du Temps et qu'ils ont les 8 de Mana ; cependant ils ne sont pas un grand danger pour tout les archétypes aggro qui sont les contres parfait de l'archétype ramp. L'archétype Aggro Grandeur est intéressant pour son cas. Un archétype aggro qui doit faire attention à ce qu'il fait et à quand il le fait, je trouve ça extrêmement technique et plaisant à jouer ! Je n'ai donc effectué que des buffs minimes à 3 cartes : le Sablier a été changé en Piège car son ancien design était trop étrange, la Défense du Temple même topo de design un peu trop étrange (surtout dans une meta où personne de censé ne joue de deck neutre à part Nécromancien et Guerrier par manque de decks forts) et la Tempête de Sable est un sort correct mais sans plus, arrivant à un tour 6 potentiellement très gênant (Roi des Gobelins dans un archétype midrange, control ou aggro neutral pour ne citer que ça) mais pouvant donc également tomber avant le tour 6 de l'adversaire, forcant donc à jouer un 1-drop au tour 7 à côté de ça ce qui n'est pas la joie. Bref, en somme l'une des classes les plus équilibrées à mon avis, donc peu de changements dessus.
+
+Paladin :
+	Buffs
+-L'effet de victoire instantanée du Chevalier Blanc s'active désormais quand il arrive en jeu et non plus au début de votre prochain tour. Il coute désormais 1 de moins a jouer pour chaque creature avec le sous-type "Paladin" dans votre main, dans votre defausse et en jeu.
+-Le Cadet Impatient effectue désormais un +1/+1 au lieu d'un +0/+1 aux créatures ayant le sous-type "Paladin" en jeu si il arrive à infliger des dégâts au joueur adverse. Il gagne également 1 point d'attaque et 1 PV.
+-L'Escrimeur Perce-Vent possède désormais X d'attaque, X étant égal au nombre de creatures ayant le sous-type "Paladin" en jeu. 
+	Nerfs
+-Le Chevalier Blanc coûte désormais 15 de plus à jouer.
+	Explications
+L'archétype Chevalier Blanc est fun mais trop difficile à mettre en place. La raison ? Il vous faut posséder 20 créatures avec le sous-type "Paladin" en jeu. 20 Créatures à 1 point de dégât suffisent à éliminer un joueur qui ne s'est pas pris de dégâts et qui ne s'est jamais soigné, le concept était donc ridicule. Cerise sur le gâteau, il fallait que cette misérable 1/1 pour 10 survive un tour... On parle d'un Tour 10 ou d'un Tour 11 donc autant dire que c'était impossible qu'il survive à moins d'être contre un très mauvais joueur qui ne le vois pas venir. C'est donc déorénavant réglé. De plus, certaines cartes étaient un peu borderlines en terme d'utiltiées, surtout l'Escrimeur Perce-Vent qui était pensé au début pour aider en protégeant le Chevalier Blanc et les autres paladins dans un archétype control mais qui au final ne sert pas du tout, même en control. Le Cadet Impatient avait un bonus bien trop difficile à utiliser et à rentabiliser, son effet est donc revu pour qu'il rentre dans plus d'archétypes et s'incorpore mieux à un archétype aggro qui le correspond le mieux.
+
+Guerrier :
+	Buffs
+-Excalibur, l'Epee Legendaire coûte désormais 6 de moins à jouer et reste en jeu 2 tours de plus.
+-Le Trou ne requiers plus que la créature que vous souhaitez détruire soit une créature attaquante et coûte désormais 2 de moins à jouer.
+-Appat coûte désormais 2 de moins à jouer.
+-Gauvain ne "meurt" plus si Galahad est en jeu.
+-Caradoc possède désormais "Provocation. (Si vous voulez attaquer le joueur adverse ou une creature sans provocation, vous devez en premier lieu vaincre cette creature)".
+-La Quete du Saint Graal coûte désormais 0 à jouer. (Ce n'est toujours pas une blague, cependant aucun nerf en contrepartie !)
+-Les Jetons "Route vers le Saint Graal" et "Saint Graal" n'ont plus besoin que vous ayez 3 créatures différentes avec le sous-type "Graal" pour activer leurs effets.
+-Roland l'Immortel gagne 2 d'Attaque et 2 PVs.
+-Le Jeton Durandal, Epee Sacree inflige désormais ses dégâts en fonction du cout originel total de toutes les creatures alliees en jeu.
+-La Danse des Lames coûte désormais 1 de moins a jouer pour chaque creature en jeu que vous controlez.
+-Sur la carte "Plan B", X est désormais égal au nombre de creatures adverses en jeu. Il ne peux toujours pas être inférieur à 1.
+	Nerfs
+-Aucun nerfs.
+	Explications
+Être un joueur de Guerrier, c'est difficile : vous avez des cartes très puissantes de manière indépendantes mais aucun liant à tout ça et des conditions de victoires floues ou bien trop lentes. (Bonjour le Graal) Beaucoup de cartes sont donc repensées pour accentuer cet effet de cartes puissantes et indépendantes, d'autres le sont dans le but d'avoir d'autres choses à côté de ces cartes indépendantes. L'archétype Saint Graal est d'ailleurs totalement revu : il peux se placer dès le tour 8 et non plus dès le tour 10 et n'a besoin qu'au déclenchement du sort d'avoir les 3 champions de la Quête du Saint Graal en jeu pour rendre le but de cette quête moins complexe à atteindre. De plus, j'ai retiré cette anti-synergie entre Gauvain et Galahad qui était une référence à la relation entre ces deux personnages dans le mythe original mais qui créait une sorte d'anti-synergie sans réel intérêt si ce n'est limiter le potentiel de gestion d'un deck déjà trop faible. L'archétype Durandal est également bien trop faiblard, forçant à poser une 6/8 pour 10, ce qui est faible comparé aux autres cartes de la classe. De plus, la classe n'est pas réellement spécialisée dans le flood massif du terrain, donc l'épée était très peu rentable.
+
+Nécromancien :
+	Buffs
+-Le Zombie Changeforme gagne l'effet suivant : "Coute 1 de moins a jouer pour chaque creature avec le sous-type "Zombie" en jeu."
+-Le Jugement Dernier coûte 2 de moins à jouer.
+-Satan possède désormais l'effet "Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)" en plus de ses autres effets.
+-Le Fauche-Vie, la Horde de Zombie, l'Abomination et le Chevaucheur de Cerberes défaussent désormais deux cartes au lieu d'une.
+-L'Immortel Cracheur de Feu défausse désormais 4 cartes : les 2 les plus à gauche et les 2 les plus à droite de la main de l'adversaire et non plus 2 avec une à gauche et une à droite.
+-L'Abomination coûte désormais 1 de moins à jouer.
+-Vers l'au-dela coûte 2 de moins à jouer et défausse la carte du dessus du deck de l'adversaire. 
+-Le Fossoyeur coûte désormais 2 de moins à jouer et possède quatre PVs au lieu d'un seul. Il gagne également l'effet suivant : "le cout d'une carte est divise par deux si vous la jouez depuis la defausse".
+-La carte Degenerescence gagne l'effet suivant : "Coute 1 de moins a jouer pour chaque creature avec le sous-type "Zombie" en jeu."
+-Le Voyage en Outre-Tombe n'a plus aucune contrainte de coût sur la carte que vous ramenez en jeu.
+	Nerfs
+-Le Fossoyeur perd son seul point d'attaque.
+-L'Abomination perds 1PV.
+-La carte Degenerescence coûte désormais 5 de plus à jouer.
+	Explications
+Les decks Nécromanciens font parti des plus mauvais decks du jeu, cette classe possède le plus bas winrate - moitiée moins que son frère d'arme le Guerrier qui est avant-dernier - et mérite bien qu'on s'occupe d'elle !
+La réflexion principale sur ces buffs est avant tout la question "Qu'est-ce qui est mauvais chez le Nécromancien ?". Ce à quoi plusieurs réponses sont venues en tête :
+-La meule est trop lente et trop faible malgré le résultat que procure un deck vide.
+-L'Archétype Jugement Dernier force à attendre le Tour 9 pour jouer Satan bien que ce soit une carte coûtant 7, ce qui rends la chose lente mais force aussi à contrôler pendant le T7, le T8 et laisse un tour quasiment à vide au T9.
+-L'Archétype "Reanimator" est trop difficile à mettre en place et n'as aucun gain de vitesse malgré le principe originel de l'archétype.
+J'ai donc donné à un de ces archétypes (la meule) une puissance qui est suffisamment dévastatrice pour qu'on aie à s'y préparer (comme tout les autres decks très forts) et octroyé tout de même des buffs aux archétypes Jugement Dernier et Reanimator pour qu'ils puissent malgré tout être efficaces et créer un effet de surprise.
