@@ -1,0 +1,140 @@
+Mage :
+	Buffs
+-The Goose Transformation now cost 2 less to play.
+-The Blazing Summon and the Icy Summon cost 6 less to play and their summons are now 1/1 instead of 0/1. Also, their cost is now reduced by the number of cards of their sub-type in your hand to compensate the loss of cost and the up of stats.
+-The Blazing Summon dosen't summon anymore Flamme Engeances based on your number of spell bonus damage but is now based on the number of cards you have in hand instead.
+-The Frost Engeances don't have "While this monster is in play, reduce the recieved damages by 1." anymore but have now "While this monster is in play, at the end of your turn you can target an opponent monster and freeze it. If there is no target avaliable for freezing, then destroy an opponent monster instead.".
+-The Arcane Professor cost now 1 less to play.
+	Nerfs
+-The Fireball deals now 1 less damage.
+-The Stalagmite deals now 1 less damage and cost 1 more to play.
+-The Arcanic Research now cost 2 more to play.
+-The Lava Flow deals now 1 less damage.
+	Explanations
+The Yggdrasil Burn Deck (an Aggro-Combo deck based on the gain of spell damage and turn given by Yggdrasil to deal enormous damages) is definitely way better than the other decks and we need to take it a little bit down. The reasons behind his strength are simples : a lot of draw and damages and way too fast. I wanted to minimize the nerfs on the draw part of this deck, so the speed and the power of the blast were the most impacted. I also take the time to give more interest in bad cards.
+
+Vampire :
+	Buffs
+-The Bloody Chalice now cost 0. (It's not a joke, read the Nerfs...)
+-The Demon of the Abyss now cost 1 less to play for each Bat Token in play and gain "Rush. (Can attack a monster the turn this card is played)". He also gain 5HPs.
+-The Vampire Apprentice now cost 1 less to play.
+-Nosferatu now cost 1 less to play and his Bloodsucking effect now cost 2HPs only and makes the targeted player draw 2 cards instead of 1.
+	Nerfs
+-The Bloody Chalice now cost 1 more to play for each HP you have. (So you need to have less than 11HPs if you want to play it at least at turn 10 !)
+-The effect of the Vampire Sentinel is now usable only 2 times per turn per Sentinel. (So there is a total of 8HPs recovered instead of an infinite recover)
+-The Bloody Temple now cost 1 more to play.
+-The Behemoth now deals 4 damages with his Bloodsucking capacity instead of 5.
+-The Bloodsucking effect of Nosferatu and the Behemoth are now usable only one time per turn.
+-Carmilla now cost 1 more to play and have 1 less HP.
+-The Noble Vampire have 1 less HP.
+	Explanations
+Vampire is strong, really strong. Bloodsucking is strong, really strong. Double Sentinel Vampire into Vampire Apprentice at Turn 5 with a Bloody Temple on board was a combo for infinite damages. And it's clearly not the only strong combo based on Bloodsucking (Behemoth for infinite damages, Nosferatu for fully milling your opponent deck etc.) and all the aggro vampire decks had in their list a combo with Bloodsucking to making them beating control decks, which makes the victory versus an aggro vampire deck really hard for nearly every non-aggro deck. More than that, still in the aggro decks, Carmilla was really strong for all the chip damages things coupled with the Bloody Temple in early game. Their effects are interresting but i don't want them to be too fast and/or without any difficulty to apply them. The Vampire Sentinel was a way to have a pseudo-Chalice by putting them all in one turn on the board and using in loop a Bloodsucking capacity which cost 4 or less to kill the opponent. And more than that, the Noble Vampire was here to protect all thoses things with a 2/3 for 2 who gain Taunt if we pay 2HP when we attack with it ! Welp, a deck which was way too strong, forcing the others to play aggro decks and turn around him : i thank him to being a thing with a lot of funny combo to plays but we need to calm it down. Don't cry fellow Vampire Combo players : there is still a combo deck who can lethal at turn 6 with some luck on the draw. I don't tell you more about it it's up to you to search for the combo !
+
+Priest :
+	Buffs
+-The Chalice of Worship now cost 2 less to play and now allow you to put 2 cards in your deck instead of 1.
+	Nerfs
+-The Chalice of Worship and the Devoted Priestess can be activated only 3 times per turn on their activated capacity due to the use of a Devotion capacity.
+-The Fervant Priestess now deals 2 less damages with his Devotion effect.
+-The Altar of Fervor now cost 1 more to play.
+	Explanations
+The Devotion as a Priest have the same problem as the Bloodsucking capacity : there is a way to make infinite combos way too easily. That's why Devotion got nerfed. There is not really anything else to say, to be honest all the things i said on the Bloodsucking Vampires are also applying on Devotion Priests, the only difference is that for Devotions the changes are a little bit faster to do to make it less strong.
+
+Thief :
+	Buffs
+-The Ambush cost now 1 less to play for each card in your hand additionally to the "each card in your Trap zone".
+-The Miscreant now have Combo 4. (When you play this card, you can play an infinite amount of cards without paying their cost while the total mana cost of all thoses cards isn't more than 4.) instead of Combo 2.
+-Ali Baba, King of Thieves gained 2HPs.
+-The Mad Juggler gained 3 Attack and 2HPs.
+-The Poisoned Trap now apply X Poison Counters, X being the original cost of the spell casted by your opponent.
+-The Rat Poison cost now 2 less to play.
+-Medusa, Queen of Snakes summon now 2 Snake Tokens at the end of each turn instead of 1.
+-The Spell Thief Ring is now a Spell with the "Trap" sub-type. His cost is also reduced by 2. The way it works globally remains the same, it's just a Trap now.
+-The Millenium Snake cost now 1 less to play for each Snake Token in play and each Poison Counter on all the players.
+-The Arsenic Pudding now cost 1 less to play for each Poison Counter on all the players.
+-The Treasure Stealer now cost 1 less to play.
+	Nerfs
+-The Treasure Stealer is now a 1/1 instead of a 2/2.
+-The Arsenic Pudding now cost 5 more to play.
+-The Millenium Snake now cost 4 more to play.
+	Explanations
+The Thiefs decks are stranges decks, carried only by an archetype which is really draw dependant. (Minesweeper Thief) They have traps in their decks but soudln't play them. I like the base idea of this but i think it's sad that the others archetypes don't have more renown than that, so i buff the others archetypes to makes them shine this time. I really like the idea of playing a lot of Traps and create a huge doubt in the head of the opponent, forcing him to activate Traps in the goal of punish him by applying some poison or dealing with his monsters or his spells ; like i love the idea of the Combo mechanic, even if it's hard to master it this mechanic offer a big depth to the gameplay.
+
+Marksman :
+	Buffs
+-The Elf Archaeologist gain 1 Attack.
+-The Elf's Firework Factory now summon 2 bombs instead of 1.
+La Fabrique d'Artifices invoque désormais deux bombes au lieu d'une.
+-The Boy who cried Wolf gain 4 Attack.
+-The Bestial Summon spell now cost 1 less and gain the "Beast" sub-type.
+-Ganesh, King of the Beasts, X being the same value as his HPs. He also cost 1 less to play.
+-The Fairy Lake now can target another player for his draw effect.
+-The Elf Sage now recover 1 Mana Point per Card with the Elvish sub-type played and not per Spell with the Elvish sub-type played.
+-Elvish Call now take every card in account for his effect and not only the Spells.
+	Nerfs
+-However, Elvish Call now take only cards with the "Elvish" sub-type and not every cards.
+-The Fairy Lake is no longer stackable by having multiple Fairy Lakes in play and the effect of one Lake is now usable only 1 time per turn. (Which means with 4 Lakes you can draw up to 4 cards per turn for 4 mana instead of 16 cards per turn for 4 !)
+	Explanations
+The Fairy Lake had a huge wording abuse which was making the card overpowered : in fact, it was possible to pay 1 to draw 4 cards if we had 4 Lakes in play, allowing the decks to be constructed with a lot of specific and different cards but which at the end, due to the fact the draw was so fast, was still very stable. I also wanted to buff the control archetypes of the class which are very weaks when you compare them to the Aggro-Combo Beast deck which is a really good deck and which is really polyvalent. I also added a mill option on the Fairy Lake to compensate his huge nerf but also to allow a new way to kill opponents with Control decks : play with 6 Mana points per turn, temporize the game and makes your opponent draw 4 cards per turn, which gonna make him burn cards really fast and gonna drive him to the death by milling. Or you can also play this in an Elvish deck using the Elf Sage and protecting him a lot to use a lot of mana and finish your turns with the 4 Manas due to the recovering effect of the Elf Sage.
+
+Monk :
+	Buffs
+-The Hourglass of Truth is now a Spell with the "Trap" sub-type. The way it works globally remains the same, it's just a Trap now. 
+-The Defense of the Temple spell now don't take in account anymore the fact that the ally or the ennemy are neutral or not to give his effects.
+-The Sandstorm now cost 1 less to play.
+	Nerfs
+-No nerf.
+	Explanations
+The Monks decks are corrects : even if they have the most annoying deck of the game (Ramp Monk) with his capacity of restart the game one time if they have a bad game, they draw their Prince of Time and they have the 8 Mana needed ; however they're not a big danger for every aggro achetype who are the perfect counters of the Ramp archetype. The Aggro Mightyness archetype is interesting for his case. It's an aggro achetype who need to take care of what he's doing and when he do it, and i think it really need a lot of technique and i think it's fun to play ! So i did only minors buffs on 3 cards : the Hourglass became a Trap cause his old design was too strange, same for Defense of the Temple : design too strange. (especially in a meta where nobody with sense plays neutral decks aside of Necromancer and Warrior since they don't have strong decks) And the Sandstorm is a good spell but without really nothing else, coming at a turn 6 who can be potentially really troublesome (King of Goblins in a midrange, control or aggro neutral achetype to quote name only that) but who can also come before the turn 6 of the opponent, forcing yourself to play a 1-drop + this spell at turn 7 which isn't really enjoying. Welp, the conclusion is that it's one of the most balanced classes imo, so only few changes on it.
+
+Paladin :
+	Buffs
+-The instant victory effect of the White Knight is now acivated instantly when he's played instead of the start of your next turn. He also cost 1 less to play for each monster with the "Paladin" sub-type in your hand, in your discard and in play.
+-The Eager Cadet is now giving a +1/+1 instead of a +0/+1 to monsters with the "Paladin" sub-type in play if he deal damages to the ennemy player. He also gain 1 Attack and 1 HP.
+-Wind-Pierce Fencer now have X Attack, X being the number of monsters with the "Paladin" sub-type in play.
+	Nerfs
+-The White Knight now cost 15 more to play.
+	Explanations
+The White Knight archetype is fun but too hard to pull it out. The reason ? You need to have 20 monsters with the "Paladin" sub-type in play. 20 monsters with 1 damage are enough to kill a player who never got hit and never healed himself, the concept was ridiculous. Also, you needed to make this pitiable 1/1 for 10 survive for one turn... We're talking about a Turn 10 or Turn 11 so it's like saying it's impossible that he'll survive unless you're facing a bad player who don't see that coming. So it's now fixed. Also, some cards were a little bit borderlines in terms of utility, especially the Wind-Pierce Fencer who was thought at the start to help by protecting the White Knight and the others paladins in a control archetype but who at the end is useless, even in control. The Eager Cadet had a bonus which was way to hard to use and make profits of it, his effect is then reworked so he can be played in more archetypes and can be integrated in easier ways in aggro archetypes which fits him best.
+
+Warrior :
+	Buffs
+-Excalibur, the Legendary Sword now cost 6 less to play and stay in play 2 more turns.
+-The Hole don't need anymore the fact that the monster you want to destroy is an attacking monster and cost 2 less to play.
+-Bait cost 2 less to play.
+-Gawain don't "die" anymore if Galaad is in play.
+-Karadoc now have "Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)"
+-The Quest of the Holy Grail now cost 0 to play. (This is still not a joke, however no nerf as a counterpart !)
+-The Tokens "Road to the Holy Grail" and "Holy Grail" don't need anymore the requirement of having 3 differents monsters with the "Grail" sub-type in play to activate their effects.
+-Roland the Immortal gain 2 Attack and 2 HPs.
+-The Durandal, Sacred Sword Token now deals damages based on the total of the original cost of all allied monsters in play.
+-The Dance of the Swords now cost 1 less for each monster you control in play.
+-On the "Plan B" card, X is now equal to the number of enemy monsters in play. It still can't be inferior to 1.
+	Nerfs
+-No nerfs.
+	Explanations
+Being a Warrior player is hard : you have very strong and independents cards but no binder in all that coupled with win conditions who are way too stranges or way too slows. (Hello the Grail) So a lot of cards are rethought to accentuate this effect of powerfull and independents cards, some others are rethought in the goal of having other things along with thoses independents cards. The Holy Grail archetype is also totally reworked : it can be started at turn 8 instead of turn 10 now and need only at the start the 3 champions of the Quest of the Holy Grail in play to make the goal of this quest less difficult to reach. Also, i cut'd this anti-synergy between Gawain and Galaad which was a reference to the link between them in the original myth but which was creating a sort of anti-synergy without a real interest except limiting the potential of clean of a deck who was already weak. The Durandal archetype was also way too weak, being forced to play a 6/8 for 10, which was weak compared to all the others cards of the class. Also, the class isn't really specialized in the massive flood of the board, so the Sword was rarely usefull.
+
+Necromancer :
+	Buffs
+-The Zombie Shapeshifter gain the following effect : "Cost 1 less to play for each monster with the "Zombie" sub-type in play."
+-The Last Judgement cost 2 less to play.
+-Satan now have the effect "Rush. (Can attack a monster the turn this card is played)" added to his other effect.
+-The Life Reaper, the Zombie Horde, the Abomination and the Cerberus Rider now discard 2 cards instead of 1.
+-The Immortal Fire Spitter now discard 4 carts : the 2 on the far left and the 2 on the far right of the hand of the opponent instead of 2 cards with 1 at the far left and 1 at the far right.
+-The Abomination cost 1 less to play.
+-To the Other Side cost 2 less to play and now discard the top card on the deck of the opponent.
+-The Gravedigger cost 2 less to play and he also have 4 HPs instead of 1. More than that, he gain the following effect : "The cost of the cards you play from graveyard is divided by 2 (rounded down)"
+-The Degeneration gain the following effect : "Cost 1 less to play for each monster with the "Zombie" sub-type in play."
+-The Trip Beyond the Grave don't have any requirement cost anymore on the card you put back in play.
+	Nerfs
+-The Gravedigger lose his only Attack point.
+-The Abomination lose 1HP.
+-Degeneration cost 5 more to play.
+	Explanations
+The Necromancers decks are part of the worst decks in the game, this class have the lowest winrate - it have half less than his friend the Warrior which is just before him in term of winrates - and this class need help !
+My main reflection on thoses buffs are the question "What is bad on the Necromancers ?". Many answers came to my mind :  
+-The mill is too slow and too weak even if an empty deck means a loss.
+-The Last Judgement archetype force to wait the Turn 9 to play Satan even if it's a card which cost 7, so it makes the thing slow but also force to control during Turn 7&8 and let nearly a blank turn at Turn 9.
+-The "Reanimator" archetype is too hard to pull off and has no gain of speed even if it's the original goal of this archetype.
+So i given to one of thoses archetypes enough power to make it dangerous and make other classes preparing for it (like every other strong decks) and i also given buffs to others archetypes so they can be used and can have a surprise effect.
