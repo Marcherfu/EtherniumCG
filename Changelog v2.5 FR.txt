@@ -11,7 +11,7 @@ Mage :
 -La Recherche Arcanique coûte 2 de plus à jouer.
 -La Coulée de Lave inflige 1 point de dégât en moins.
 	Explications
-Le deck Yggdrasil Burn (deck Aggro-Combo reposant sur le gain de dégâts et de tour donné par Yggdrasil pour infliger d'énormes quantitées de dégâts) est beaucoup trop au dessus des autres decks et il faut le calmer. Les raisons de sa force sont simples : énormément de pioche et de dégâts, trop rapidement. Je souhaitais minimiser les nerfs sur l'aspect pioche de ce deck, donc la vitesse et la puissance du blast ont été les plus impactés. J'en ai profité pour donner un peu plus d'intérêt aux cartes sous-jouées.(edited)
+Le deck Yggdrasil Burn (deck Aggro-Combo reposant sur le gain de dégâts et de tour donné par Yggdrasil pour infliger d'énormes quantitées de dégâts) est beaucoup trop au dessus des autres decks et il faut le calmer. Les raisons de sa force sont simples : énormément de pioche et de dégâts, trop rapidement. Je souhaitais minimiser les nerfs sur l'aspect pioche de ce deck, donc la vitesse et la puissance du blast ont été les plus impactés. J'en ai profité pour donner un peu plus d'intérêt aux cartes sous-jouées.
 
 Vampire :
 	Buffs
@@ -72,7 +72,7 @@ Archer :
 -Appel Elfique prends désormais en compte toutes les Cartes pour son effet et non plus que les Sorts.
 	Nerfs
 -Cependant, Appel Elfique ne prends plus que les Cartes avec le sous-type "Elfique" et non plus toutes les cartes.
--Le Lac aux Fees n'est plus cumulable en ayant plusieurs Lac aux Fees en jeu et l'effet d'un Lac n'est désormais utilisable qu'une fois par tour. (Ce qui veux dire qu'avec 4 Lacs vous pouvez piocher jusqu'à 4 cartes par tour pour 4 et non plus piocher 16 cartes par tour pour 4 !)(edited)
+-Le Lac aux Fees n'est plus cumulable en ayant plusieurs Lac aux Fees en jeu et l'effet d'un Lac n'est désormais utilisable qu'une fois par tour. (Ce qui veux dire qu'avec 4 Lacs vous pouvez piocher jusqu'à 4 cartes par tour pour 4 et non plus piocher 16 cartes par tour pour 4 !)
 	Explications
 Le Lac au Fees possédait une faille dans son wording qui rendait la carte beaucoup trop violente : en effet, il était possible de payer 1 pour piocher 4 cartes si on avait 4 Lacs en jeu, permettant donc la constructions de decks avec beaucoup de cartes spécifiques différentes mais qui, du au fait qu'il se vidait très rapidement, restait extrêmement stable.
 J'ai voulu également renforcer les archétypes control de la classe qui sont très faibles comparé au deck Aggro-Combo Beast qui est un bon deck et qui est polyvalent. J'ai rajouté une orientation meule sur la carte Lac aux Fees pour compenser son nerf monstrueux mais également donner une nouvelle façon de finir l'adversaire en Control : jouer avec 6 Points de Mana par tour et temporiser en faisant piocher de 4 votre adversaire à chaque tour, ce qui lui fera cramer des cartes très vite et le mènera à une défaite via la meule. Ou alors, vous pouvez jouer ça en Elfique avec le Sage Elfe en le protégeant un maximum pour utiliser un maximum de mana et finir avec 4 Points de Mana grâce à l'effet de regain du Sage Elfe.
