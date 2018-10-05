@@ -59,6 +59,13 @@ Rajout de la version Anglaise ! Toutes les versions Françaises du plugin doiven
   
 English version added ! Every French versions of the plugin need to be renamed to "marcherfu V2 FR". The FR and the EN versions aren't compatible sadly.  
   
+### Changelog de la Prochaine Update | Changelog of the Future Update (v2.5, not avaliable)
+Environ 50 nouvelles cartes rajoutées.  
+Équilibrage en profondeur expliqué ici : https://raw.githubusercontent.com/Marcherfu/PluginMarcherfu/master/Changelog%20v2.5%20FR.txt  
+  
+Around 50 new cards added.  
+In depth balance changes explained here : https://raw.githubusercontent.com/Marcherfu/PluginMarcherfu/master/Changelog%20v2.5%20EN.txt  
+  
 ### Contact
 Vous pouvez me contacter sur le discord du jeu qui est le suivant : https://discord.gg/fT4MBJ9. J'y organise de temps à autre des matchs de rating pour créer une sorte de ladder ainsi que des tournois en Bo3 3 Decks/1 Ban.  
   
