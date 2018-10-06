@@ -1,0 +1,13 @@
+<listofcarddatafiles>
+<filetoinclude>neutre.txt</filetoinclude>
+<filetoinclude>mage.txt</filetoinclude>
+<filetoinclude>guerrier.txt</filetoinclude>
+<filetoinclude>pretre.txt</filetoinclude>
+<filetoinclude>archer.txt</filetoinclude>
+<filetoinclude>voleur.txt</filetoinclude>
+<filetoinclude>necromancien.txt</filetoinclude>
+<filetoinclude>moine.txt</filetoinclude>
+<filetoinclude>vampire.txt</filetoinclude>
+<filetoinclude>paladin.txt</filetoinclude>
+<filetoinclude>jeton.txt</filetoinclude>
+</listofcarddatafiles>
