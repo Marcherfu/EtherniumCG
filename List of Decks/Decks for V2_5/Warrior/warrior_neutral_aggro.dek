@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2_5 EN</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Assassin</name><set>warrior</set></card>
+		<card><name id="">Assassin</name><set>warrior</set></card>
+		<card><name id="">Assassin</name><set>warrior</set></card>
+		<card><name id="">Assassin</name><set>warrior</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Executioner</name><set>warrior</set></card>
+		<card><name id="">Executioner</name><set>warrior</set></card>
+		<card><name id="">Executioner</name><set>warrior</set></card>
+		<card><name id="">Executioner</name><set>warrior</set></card>
+		<card><name id="">Brigandin</name><set>warrior</set></card>
+		<card><name id="">Brigandin</name><set>warrior</set></card>
+		<card><name id="">Brigandin</name><set>warrior</set></card>
+		<card><name id="">Brigandin</name><set>warrior</set></card>
+		<card><name id="">Gawain</name><set>warrior</set></card>
+		<card><name id="">Gawain</name><set>warrior</set></card>
+		<card><name id="">Gawain</name><set>warrior</set></card>
+		<card><name id="">Gawain</name><set>warrior</set></card>
+		<card><name id="">Bors</name><set>warrior</set></card>
+		<card><name id="">Bors</name><set>warrior</set></card>
+		<card><name id="">Bors</name><set>warrior</set></card>
+		<card><name id="">Bors</name><set>warrior</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">Swan Knight</name><set>warrior</set></card>
+		<card><name id="">Swan Knight</name><set>warrior</set></card>
+		<card><name id="">Swan Knight</name><set>warrior</set></card>
+		<card><name id="">Swan Knight</name><set>warrior</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">Goblin Architect</name><set>neutral</set></card>
+		<card><name id="">Goblin Architect</name><set>neutral</set></card>
+		<card><name id="">Goblin Architect</name><set>neutral</set></card>
+		<card><name id="">Goblin Architect</name><set>neutral</set></card>
+		<card><name id="">Kay</name><set>warrior</set></card>
+		<card><name id="">Kay</name><set>warrior</set></card>
+		<card><name id="">Kay</name><set>warrior</set></card>
+		<card><name id="">Kay</name><set>warrior</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2_5 EN</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Geomancer</name><set>mage</set></card>
+		<card><name id="">Geomancer</name><set>mage</set></card>
+		<card><name id="">Geomancer</name><set>mage</set></card>
+		<card><name id="">Geomancer</name><set>mage</set></card>
+		<card><name id="">Earth Summon</name><set>mage</set></card>
+		<card><name id="">Earth Summon</name><set>mage</set></card>
+		<card><name id="">Earth Summon</name><set>mage</set></card>
+		<card><name id="">Earth Summon</name><set>mage</set></card>
+		<card><name id="">Clay Wall</name><set>mage</set></card>
+		<card><name id="">Clay Wall</name><set>mage</set></card>
+		<card><name id="">Clay Wall</name><set>mage</set></card>
+		<card><name id="">Arcanic Research</name><set>mage</set></card>
+		<card><name id="">Arcanic Research</name><set>mage</set></card>
+		<card><name id="">Arcanic Research</name><set>mage</set></card>
+		<card><name id="">Arcanic Research</name><set>mage</set></card>
+		<card><name id="">Clay Golem Summon</name><set>mage</set></card>
+		<card><name id="">Clay Golem Summon</name><set>mage</set></card>
+		<card><name id="">Clay Golem Summon</name><set>mage</set></card>
+		<card><name id="">Clay Golem Summon</name><set>mage</set></card>
+		<card><name id="">Frost Trap</name><set>mage</set></card>
+		<card><name id="">Frost Trap</name><set>mage</set></card>
+		<card><name id="">Frost Trap</name><set>mage</set></card>
+		<card><name id="">Frost Trap</name><set>mage</set></card>
+		<card><name id="">Earthquake</name><set>mage</set></card>
+		<card><name id="">Earthquake</name><set>mage</set></card>
+		<card><name id="">Earthquake</name><set>mage</set></card>
+		<card><name id="">Earthquake</name><set>mage</set></card>
+		<card><name id="">Icy Summon</name><set>mage</set></card>
+		<card><name id="">Icy Summon</name><set>mage</set></card>
+		<card><name id="">Icy Summon</name><set>mage</set></card>
+		<card><name id="">Icy Summon</name><set>mage</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goose Transformation</name><set>mage</set></card>
+		<card><name id="">Goose Transformation</name><set>mage</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Mental Shock</name><set>mage</set></card>
+		<card><name id="">Mental Shock</name><set>mage</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">Lava Flow</name><set>mage</set></card>
+		<card><name id="">Lava Flow</name><set>mage</set></card>
+	</superzone>
+</deck>

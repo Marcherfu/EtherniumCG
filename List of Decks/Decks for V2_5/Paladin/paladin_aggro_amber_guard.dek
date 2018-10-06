@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2_5 EN</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Amber Guard&apos;s Recruit</name><set>paladin</set></card>
+		<card><name id="">Amber Guard&apos;s Recruit</name><set>paladin</set></card>
+		<card><name id="">Amber Guard&apos;s Recruit</name><set>paladin</set></card>
+		<card><name id="">Amber Guard&apos;s Recruit</name><set>paladin</set></card>
+		<card><name id="">Soldier of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Soldier of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Soldier of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Soldier of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Commander of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Commander of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Commander of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Commander of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Ambush of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Ambush of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Ambush of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Ambush of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Amber Guard Rally Banner</name><set>paladin</set></card>
+		<card><name id="">Amber Guard Rally Banner</name><set>paladin</set></card>
+		<card><name id="">Amber Guard Rally Banner</name><set>paladin</set></card>
+		<card><name id="">Amber Guard Rally Banner</name><set>paladin</set></card>
+		<card><name id="">Understaffed</name><set>paladin</set></card>
+		<card><name id="">Understaffed</name><set>paladin</set></card>
+		<card><name id="">Understaffed</name><set>paladin</set></card>
+		<card><name id="">Understaffed</name><set>paladin</set></card>
+		<card><name id="">Eager Cadet</name><set>paladin</set></card>
+		<card><name id="">Eager Cadet</name><set>paladin</set></card>
+		<card><name id="">Eager Cadet</name><set>paladin</set></card>
+		<card><name id="">Eager Cadet</name><set>paladin</set></card>
+		<card><name id="">Chief of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Chief of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Chief of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Chief of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Call of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Call of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Call of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Call of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Lieutenant of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Lieutenant of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Lieutenant of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Lieutenant of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Barrack of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Barrack of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Barrack of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Barrack of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Knight of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Knight of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Knight of the Amber Guard</name><set>paladin</set></card>
+		<card><name id="">Knight of the Amber Guard</name><set>paladin</set></card>
+	</superzone>
+</deck>
