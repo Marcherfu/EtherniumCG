@@ -15,6 +15,8 @@
 <canned>!Jeton Durandal, Epee Sacree!/spawn Jeton Durandal, Epee Sacree</canned>
 <canned>!Jeton Engeance de Flamme!/spawn Jeton Engeance de Flamme</canned>
 <canned>!Jeton Engeance de Givre!/spawn Jeton Engeance de Givre</canned>
+<canned>!Jeton Engeance de Roche!/spawn Jeton Engeance de Roche</canned>
+<canned>!Jeton Golem d'Argile!/spawn Jeton Golem d'Argile</canned>
 <canned>!Jeton Zombie!/spawn Jeton Zombie</canned>
 <canned>!Jeton Gobelin!/spawn Jeton Gobelin</canned>
 <canned>!Jeton Chauve-Souris!/spawn Jeton Chauve-Souris</canned>
@@ -24,8 +26,6 @@
 <canned>!Jeton Saint Graal!/spawn Jeton Saint Graal</canned>
 <canned>!Jeton Officier!/spawn Jeton Officier</canned>
 <canned>!Changer l'Inclinaison!/tilt 0</canned>
-<canned>A venir.</canned>
-<canned>A venir.</canned>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>times.ttf</fontkind0pos1>
 <fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
@@ -55,7 +55,7 @@
 <bindingcanned6>CTRL+7</bindingcanned6>
 <bindingcanned7>CTRL+8</bindingcanned7>
 <bindingcanned8>CTRL+9</bindingcanned8>
-<recentformat>8</recentformat>
+<recentformat>1</recentformat>
 <scalefactor>0.690000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
