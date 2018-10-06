@@ -54,17 +54,17 @@ Change on the Poison Counters mechanics : they no longer allow to instantly win 
 New type of Counter : the Recover Counters, they're the exact opposite of the Poison Counters, allowing to heal.  
 114 new cards added.  
   
-### Changelog Actuel | Actual Changelog (V2 bis)
+### Changelog V2 Bis
 Rajout de la version Anglaise ! Toutes les versions Françaises du plugin doivent être renommées "marcherfuV2 FR". La version FR et la version EN ne sont malheureusement pas compatibles.  
   
 English version added ! Every French versions of the plugin need to be renamed to "marcherfu V2 FR". The FR and the EN versions aren't compatible sadly.  
   
-### Changelog de la Prochaine Update | Changelog of the Future Update (v2.5, not avaliable)
-Environ 50 nouvelles cartes rajoutées.  
+### Changelog Actuel | Actual Changelog (V2.5)
+52 nouvelles cartes rajoutées.  
 Équilibrage en profondeur expliqué ici :  
 https://raw.githubusercontent.com/Marcherfu/PluginMarcherfu/master/Changelog%20v2.5%20FR.txt  
   
-Around 50 new cards added.  
+52 new cards added.  
 In depth balance changes explained here :  
 https://raw.githubusercontent.com/Marcherfu/PluginMarcherfu/master/Changelog%20v2.5%20EN.txt  
   
