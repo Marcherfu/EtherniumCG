@@ -24,5 +24,5 @@ Temple of Devotion	priest		Artifact		5			Devotion 5 : Destroy targeted artifact.
 Devoted Doctor	priest		Monster		1	1	1	Search in your deck for a card who heal, give HPs or give Recovery Counters, show it to your enemy and put it into your hand, then shuffle your deck.
 Disease	priest		Spell		5			Put 3 cards of your hand at the top of your deck then shuffle your deck, deal yourself 3 damages, then draw 4 cards.
 Unhealthy Draw	priest		Spell		4			Choose one : Draw 3 cards and deal yourself 2 damages or deal 3 damages to the player of your choice and he draw 2 cards.
-God of Devortion	priest		Monster		35	10	10	Banish X enemy cards in play of your choice, X being the number of HPs you have. Can't be injured, destroyed or transformed. Cost 1 less to play for each HP you have.
+God of Devotion	priest		Monster		35	10	10	Banish X enemy cards in play of your choice, X being the number of HPs you have. Can't be injured, destroyed or transformed. Cost 1 less to play for each HP you have.
 Banishment	priest		Spell		3			Banish the monster of your choice with 2HPs or less.
