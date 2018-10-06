@@ -1,0 +1,28 @@
+Name	Set	ImageFile	Type	Sub-Type	Cost	Attack	HPs	Text
+Protecting Shield	paladin		Spell		1			Give +0/+1 to the target.
+Knight	paladin		Monster	Paladin	2	1	2	Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)
+Crusader	paladin		Monster	Paladin	3	1	3	Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)
+Eager Cadet	paladin		Monster	Paladin	4	3	2	Celerity. (Can attack the turn this card is played) Each time this monster deal damage to the enemy player, all your monsters with the "Paladin" sub-type who are in play gain +1/+1 until end of turn.
+King Arthur	paladin		Monster	Paladin	5	3	5	All your monsters with the "Paladin" sub-type in your hand cost 1 less to play and all monsters with the "Paladin" sub-type in play and which come in play gain +0/+1.
+Council of the Round Table	paladin		Spell		6			You can play a card with the "Paladin" sub-type for free from your hand. It gain Rush (Can attack a monster the turn this card is played) for this turn and come back in your hand at the end of your turn.
+Plains Brigadier	paladin		Monster	Paladin	7	4	5	While this card is in play, each time a monster with the "Paladin" sub-type dies you recover 1HP. Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)
+Wind-Pierce Fencer	paladin		Monster	Paladin	8	X	X	X is equal to the number of monsters with the "Paladin" sub-type in play. Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)
+Prayer	paladin		Sort		9			Deal X damages to the target, X being the number of monsters with the "Paladin" sub-type in play.
+Jeanne d'Arc	paladin		Monster	Paladin	10	3	10	All allied monsters gain +X/-Y for this turn, X being their base HPs and Y being their base Attack.
+White Knight	paladin		Monster	Paladin	25	1	1	You win the game. Cost 1 less to play for each monster with the "Paladin" sub-type in your hand, in your discard and in play.
+Commander of the Amber Guard	paladin		Monster	Paladin	3	1	2	Summon 2 1/2 Officer Tokens with the "Paladin" sub-type.
+Chief of the Amber Guard	paladin		Monster	Paladin	4	2	3	Summon 3 1/2 Officer Tokens with the "Paladin" sub-type.
+Call of the Amber Guard	paladin		Spell		5			Summon X 1/2 Officer Tokens with the "Paladin" sub-type, X being the number of monsters with the "Paladin" sub-type in play before the cast of this spell.
+Barrack of the Amber Guard	paladin		Artifact		6			While this artifact is in play, at the start of each of your turns, summon 2 1/2 Officer Tokens with the "Paladin" sub-type.
+General of the Amber Guard	paladin		Monster	Paladin	6	1	1	Gain +1/+1 for each 1/2 Officer Token with the "Paladin" sub-type in play.
+Amber Guard Rally Banner	paladin		Artifact		4			Give +1/+0 to every Officer Token.
+Reversal	paladin		Spell	Trap	4			When an enemy monster attack an allied monster, switch the attack and the HPs of the two monsters.
+Lieutenant of the Amber Guard	paladin		Monster	Paladin	5	3	4	Search in your deck for a card with "Amber Guard" in his name, show it to your enemy and put it into your hand, then shuffle your deck.
+Knight of the Amber Guard	paladin		Monster	Paladin	6	4	6	Celerity. (Can attack the turn this card is played)
+Soldier of the Amber Guard	paladin		Monster	Paladin	1	1	1	Celerity. (Can attack the turn this card is played)
+Amber Guard Armor	paladin		Spell		3			Give +1/+2 to the target.
+Ambush of the Amber Guard	paladin		Spell	Trap	3			When an enemy monster attack, summon 4 1/2 Officer Tokens with the "Paladin" sub-type.
+Taxman of the Amber Guard	paladin		Monster	Paladin	8	X	4	X is equal to the biggest number of HP among every monsters in play. Celerity. (Can attack the turn this card is played)
+Amber Guard's Recruit	paladin		Monster	Paladin	1	1	1	Search in your deck for a card with the "Paladin" sub-type show it to your enemy and put it into your hand, then shuffle your deck.
+Understaffed	paladin		Spell		4			Choose a card in your hand : it cost 2 less to play. Summon 1 1/2 Officer Tokens with the "Paladin" sub-type.
+Blitzkrieg	paladin		Spell		17			Give Celerity to the targeted monster. (Can attack the turn this card is played) Cost 1 less to play for each card in play.
