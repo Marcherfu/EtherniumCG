@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfubeta FR</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Geomancien</name><set>mage</set></card>
+		<card><name id="">Geomancien</name><set>mage</set></card>
+		<card><name id="">Geomancien</name><set>mage</set></card>
+		<card><name id="">Geomancien</name><set>mage</set></card>
+		<card><name id="">Invocation Tellurique</name><set>mage</set></card>
+		<card><name id="">Invocation Tellurique</name><set>mage</set></card>
+		<card><name id="">Invocation Tellurique</name><set>mage</set></card>
+		<card><name id="">Invocation Tellurique</name><set>mage</set></card>
+		<card><name id="">Mur d&apos;Argile</name><set>mage</set></card>
+		<card><name id="">Mur d&apos;Argile</name><set>mage</set></card>
+		<card><name id="">Mur d&apos;Argile</name><set>mage</set></card>
+		<card><name id="">Recherche Arcanique</name><set>mage</set></card>
+		<card><name id="">Recherche Arcanique</name><set>mage</set></card>
+		<card><name id="">Recherche Arcanique</name><set>mage</set></card>
+		<card><name id="">Recherche Arcanique</name><set>mage</set></card>
+		<card><name id="">Invocation de Golem d&apos;Argile</name><set>mage</set></card>
+		<card><name id="">Invocation de Golem d&apos;Argile</name><set>mage</set></card>
+		<card><name id="">Invocation de Golem d&apos;Argile</name><set>mage</set></card>
+		<card><name id="">Invocation de Golem d&apos;Argile</name><set>mage</set></card>
+		<card><name id="">Piege de Givre</name><set>mage</set></card>
+		<card><name id="">Piege de Givre</name><set>mage</set></card>
+		<card><name id="">Piege de Givre</name><set>mage</set></card>
+		<card><name id="">Piege de Givre</name><set>mage</set></card>
+		<card><name id="">Seisme</name><set>mage</set></card>
+		<card><name id="">Seisme</name><set>mage</set></card>
+		<card><name id="">Seisme</name><set>mage</set></card>
+		<card><name id="">Seisme</name><set>mage</set></card>
+		<card><name id="">Invocation Givree</name><set>mage</set></card>
+		<card><name id="">Invocation Givree</name><set>mage</set></card>
+		<card><name id="">Invocation Givree</name><set>mage</set></card>
+		<card><name id="">Invocation Givree</name><set>mage</set></card>
+		<card><name id="">Stratege Gobelin</name><set>neutre</set></card>
+		<card><name id="">Stratege Gobelin</name><set>neutre</set></card>
+		<card><name id="">Stratege Gobelin</name><set>neutre</set></card>
+		<card><name id="">Stratege Gobelin</name><set>neutre</set></card>
+		<card><name id="">Transformation en Oie</name><set>mage</set></card>
+		<card><name id="">Transformation en Oie</name><set>mage</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Choc Mental</name><set>mage</set></card>
+		<card><name id="">Choc Mental</name><set>mage</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Coulee de Lave</name><set>mage</set></card>
+		<card><name id="">Coulee de Lave</name><set>mage</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfubeta FR</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Protecteur de Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Protecteur de Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Protecteur de Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Protecteur de Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chaman Gobelin</name><set>neutre</set></card>
+		<card><name id="">Invocation de Chauve-Souris</name><set>vampire</set></card>
+		<card><name id="">Invocation de Chauve-Souris</name><set>vampire</set></card>
+		<card><name id="">Invocation de Chauve-Souris</name><set>vampire</set></card>
+		<card><name id="">Invocation de Chauve-Souris</name><set>vampire</set></card>
+		<card><name id="">Traitrise</name><set>vampire</set></card>
+		<card><name id="">Traitrise</name><set>vampire</set></card>
+		<card><name id="">Traitrise</name><set>vampire</set></card>
+		<card><name id="">Traitrise</name><set>vampire</set></card>
+		<card><name id="">Pacte de Sang</name><set>vampire</set></card>
+		<card><name id="">Pacte de Sang</name><set>vampire</set></card>
+		<card><name id="">Pacte de Sang</name><set>vampire</set></card>
+		<card><name id="">Pacte de Sang</name><set>vampire</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Appel des Chauve-Souris</name><set>vampire</set></card>
+		<card><name id="">Appel des Chauve-Souris</name><set>vampire</set></card>
+		<card><name id="">Appel des Chauve-Souris</name><set>vampire</set></card>
+		<card><name id="">Appel des Chauve-Souris</name><set>vampire</set></card>
+		<card><name id="">Sucage de Sang</name><set>vampire</set></card>
+		<card><name id="">Sucage de Sang</name><set>vampire</set></card>
+		<card><name id="">Sucage de Sang</name><set>vampire</set></card>
+		<card><name id="">Sucage de Sang</name><set>vampire</set></card>
+		<card><name id="">Medecine Gobeline</name><set>neutre</set></card>
+		<card><name id="">Medecine Gobeline</name><set>neutre</set></card>
+		<card><name id="">Medecine Gobeline</name><set>neutre</set></card>
+		<card><name id="">Medecine Gobeline</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Dracula, Roi des Chauves-Souris</name><set>vampire</set></card>
+		<card><name id="">Dracula, Roi des Chauves-Souris</name><set>vampire</set></card>
+		<card><name id="">Dracula, Roi des Chauves-Souris</name><set>vampire</set></card>
+		<card><name id="">Dracula, Roi des Chauves-Souris</name><set>vampire</set></card>
+		<card><name id="">Pacte avec Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Pacte avec Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Pacte avec Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Pacte avec Cthulhu</name><set>vampire</set></card>
+	</superzone>
+</deck>

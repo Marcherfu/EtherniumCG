@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfubeta FR</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Recrue de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Recrue de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Recrue de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Recrue de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Soldat de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Soldat de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Soldat de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Soldat de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Escrimeur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Escrimeur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Escrimeur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Escrimeur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Commandant de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Commandant de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Commandant de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Commandant de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Embuscade de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Embuscade de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Embuscade de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Embuscade de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Banniere de Ralliement de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Banniere de Ralliement de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Banniere de Ralliement de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Banniere de Ralliement de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Sous-Effectif</name><set>paladin</set></card>
+		<card><name id="">Sous-Effectif</name><set>paladin</set></card>
+		<card><name id="">Sous-Effectif</name><set>paladin</set></card>
+		<card><name id="">Sous-Effectif</name><set>paladin</set></card>
+		<card><name id="">Cadet Impatient</name><set>paladin</set></card>
+		<card><name id="">Cadet Impatient</name><set>paladin</set></card>
+		<card><name id="">Cadet Impatient</name><set>paladin</set></card>
+		<card><name id="">Cadet Impatient</name><set>paladin</set></card>
+		<card><name id="">Chef de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Chef de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Chef de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Chef de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Appel de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Appel de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Appel de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Appel de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Lieutenant de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Lieutenant de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Lieutenant de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Lieutenant de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Caserne de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Caserne de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Caserne de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Caserne de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Chevalier de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Chevalier de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Chevalier de la Garde Ambree</name><set>paladin</set></card>
+		<card><name id="">Chevalier de la Garde Ambree</name><set>paladin</set></card>
+	</superzone>
+</deck>

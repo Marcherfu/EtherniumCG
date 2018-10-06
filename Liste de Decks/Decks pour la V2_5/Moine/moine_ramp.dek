@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfubeta FR</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Concentration</name><set>moine</set></card>
+		<card><name id="">Concentration</name><set>moine</set></card>
+		<card><name id="">Concentration</name><set>moine</set></card>
+		<card><name id="">Concentration</name><set>moine</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Apprenti Samurai</name><set>moine</set></card>
+		<card><name id="">Apprenti Samurai</name><set>moine</set></card>
+		<card><name id="">Apprenti Samurai</name><set>moine</set></card>
+		<card><name id="">Apprenti Samurai</name><set>moine</set></card>
+		<card><name id="">Recherche Spirituelle</name><set>moine</set></card>
+		<card><name id="">Recherche Spirituelle</name><set>moine</set></card>
+		<card><name id="">Recherche Spirituelle</name><set>moine</set></card>
+		<card><name id="">Recherche Spirituelle</name><set>moine</set></card>
+		<card><name id="">Acceleration</name><set>moine</set></card>
+		<card><name id="">Acceleration</name><set>moine</set></card>
+		<card><name id="">Acceleration</name><set>moine</set></card>
+		<card><name id="">Acceleration</name><set>moine</set></card>
+		<card><name id="">Meditation</name><set>moine</set></card>
+		<card><name id="">Meditation</name><set>moine</set></card>
+		<card><name id="">Meditation</name><set>moine</set></card>
+		<card><name id="">Meditation</name><set>moine</set></card>
+		<card><name id="">Tempete de Sable</name><set>moine</set></card>
+		<card><name id="">Tempete de Sable</name><set>moine</set></card>
+		<card><name id="">Tempete de Sable</name><set>moine</set></card>
+		<card><name id="">Tempete de Sable</name><set>moine</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Prince du Temps</name><set>moine</set></card>
+		<card><name id="">Prince du Temps</name><set>moine</set></card>
+		<card><name id="">Prince du Temps</name><set>moine</set></card>
+		<card><name id="">Prince du Temps</name><set>moine</set></card>
+		<card><name id="">Verethragna</name><set>moine</set></card>
+		<card><name id="">Verethragna</name><set>moine</set></card>
+		<card><name id="">Verethragna</name><set>moine</set></card>
+		<card><name id="">Verethragna</name><set>moine</set></card>
+		<card><name id="">Al, le Voleur d&apos;Enfants</name><set>moine</set></card>
+		<card><name id="">Al, le Voleur d&apos;Enfants</name><set>moine</set></card>
+		<card><name id="">Al, le Voleur d&apos;Enfants</name><set>moine</set></card>
+		<card><name id="">Al, le Voleur d&apos;Enfants</name><set>moine</set></card>
+		<card><name id="">Manipulateur du Temps</name><set>moine</set></card>
+		<card><name id="">Manipulateur du Temps</name><set>moine</set></card>
+		<card><name id="">Manipulateur du Temps</name><set>moine</set></card>
+		<card><name id="">Manipulateur du Temps</name><set>moine</set></card>
+		<card><name id="">Bandit des Sables</name><set>moine</set></card>
+		<card><name id="">Bandit des Sables</name><set>moine</set></card>
+		<card><name id="">Bandit des Sables</name><set>moine</set></card>
+		<card><name id="">Bandit des Sables</name><set>moine</set></card>
+		<card><name id="">Shadhahvar, la Licorne Carnivore</name><set>moine</set></card>
+		<card><name id="">Shadhahvar, la Licorne Carnivore</name><set>moine</set></card>
+		<card><name id="">Shadhahvar, la Licorne Carnivore</name><set>moine</set></card>
+		<card><name id="">Shadhahvar, la Licorne Carnivore</name><set>moine</set></card>
+	</superzone>
+</deck>

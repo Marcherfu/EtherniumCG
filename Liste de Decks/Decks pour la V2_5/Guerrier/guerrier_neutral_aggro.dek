@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfubeta FR</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chercheur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Assassin</name><set>guerrier</set></card>
+		<card><name id="">Assassin</name><set>guerrier</set></card>
+		<card><name id="">Assassin</name><set>guerrier</set></card>
+		<card><name id="">Assassin</name><set>guerrier</set></card>
+		<card><name id="">Escrimeur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Escrimeur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Escrimeur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Escrimeur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chasseur Gobelin</name><set>neutre</set></card>
+		<card><name id="">Bourreau</name><set>guerrier</set></card>
+		<card><name id="">Bourreau</name><set>guerrier</set></card>
+		<card><name id="">Bourreau</name><set>guerrier</set></card>
+		<card><name id="">Bourreau</name><set>guerrier</set></card>
+		<card><name id="">Brigandin</name><set>guerrier</set></card>
+		<card><name id="">Brigandin</name><set>guerrier</set></card>
+		<card><name id="">Brigandin</name><set>guerrier</set></card>
+		<card><name id="">Brigandin</name><set>guerrier</set></card>
+		<card><name id="">Gauvain</name><set>guerrier</set></card>
+		<card><name id="">Gauvain</name><set>guerrier</set></card>
+		<card><name id="">Gauvain</name><set>guerrier</set></card>
+		<card><name id="">Gauvain</name><set>guerrier</set></card>
+		<card><name id="">Bohort</name><set>guerrier</set></card>
+		<card><name id="">Bohort</name><set>guerrier</set></card>
+		<card><name id="">Bohort</name><set>guerrier</set></card>
+		<card><name id="">Bohort</name><set>guerrier</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Roi des Gobelins</name><set>neutre</set></card>
+		<card><name id="">Chevalier au Cygne</name><set>guerrier</set></card>
+		<card><name id="">Chevalier au Cygne</name><set>guerrier</set></card>
+		<card><name id="">Chevalier au Cygne</name><set>guerrier</set></card>
+		<card><name id="">Chevalier au Cygne</name><set>guerrier</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Princesse Gobeline</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Chef de Guerre Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Architecte Gobelin</name><set>neutre</set></card>
+		<card><name id="">Keu</name><set>guerrier</set></card>
+		<card><name id="">Keu</name><set>guerrier</set></card>
+		<card><name id="">Keu</name><set>guerrier</set></card>
+		<card><name id="">Keu</name><set>guerrier</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+		<card><name id="">Scout Gobelin</name><set>neutre</set></card>
+	</superzone>
+</deck>
