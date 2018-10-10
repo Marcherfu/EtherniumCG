@@ -1,4 +1,4 @@
-Voici la Tier-List Officielle du Plugin Lackey. **(V2 bis, pas la V2.5 !)**   
+Voici la Tier-List Officielle du Plugin Lackey V2 bis. **(Pas la V2.5 !)**   
 **Veuillez bien prendre en compte que la nature de ces winrates n'est que le fruit de recherches stratégiques réalisées seul et qu'ils ne sont peut-être, voir pas du tout, véridiques. Je n'ai pu faire que de cette manière là du au manque d'activitée sur le jeu.**   
    
 **Tier 1** - Les meilleures classes du jeu, dominants la meta.   
@@ -18,7 +18,7 @@ Nécromancien - 18,75% Winrate.
    
 =============================================================================   
    
-Here's the Official Tier-List of the Lackey Plugin. **(V2 bis, not the V2.5 !)**   
+Here's the Official Tier-List of the Lackey Plugin V2 bis. **(Not the V2.5 !)**   
 **Take in consideration that the nature of those winrates is only coming from my strategic researchs being alone and they're, probably, not exactly true. I coudln't do it in another way due to lack of activity on the game.**   
    
 **Tier 1** - The best classes of the game, dominating the meta.   
