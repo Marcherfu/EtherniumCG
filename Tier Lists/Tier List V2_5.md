@@ -9,11 +9,11 @@ Voici la Tier-List Officielle du Plugin Lackey V2.5.
    
 **Tier Non-Définit** - Nous travaillons actuellement dans le but de voir où les placer dans la Tier List.   
 Archer - ?% Winrate.   
-Guerrier - % Winrate.   
+Guerrier - ?% Winrate.   
 Mage - ?% Winrate.   
 Moine - ?% Winrate.   
-Nécromancien - % Winrate.   
-Paladin - % Winrate.   
+Nécromancien - ?% Winrate.   
+Paladin - ?% Winrate.   
 Prêtre - ?% Winrate.   
 Vampire - ?% Winrate.   
 Voleur - ?% Winrate.   
