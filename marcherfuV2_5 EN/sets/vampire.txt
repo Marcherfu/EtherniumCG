@@ -9,7 +9,7 @@ Grouping	vampire		Spell		7			Every Bat Tokens in play gain +2/+0 until end of tu
 Demon of the Abyss	vampire		Monster		8	X	6	The attack of this monster is equal to the number of Bat Tokens in play. Rush. (Can attack a monster the turn this card is played) Cost 1 less to play for each Bat Token in play.
 Bat Transformation	vampire		Spell		3			The targeted monster become until the end of this turn a Bat Token 1/1 with Drain. (Half of the damage (rounded down) that this monster inflicts, whether it is attacking or blocking, is returned to you in HPs.)
 Blood Blade	vampire		Spell		3			The targeted monster gain +2/+0.
-Dracula, King of the Bats	vampire		Monster		6	6	3	Summon 2 Bat Token 1/1 with Drain. (Half of the damage (rounded down) that this monster inflicts, whether it is attacking or blocking, is returned to you in HPs.) If you have 10HPs or less Si vous avez moins de 10PVs, invoquez en 5 au lieu de 2.
+Dracula, King of the Bats	vampire		Monster		6	6	3	Summon 2 Bat Token 1/1 with Drain. (Half of the damage (rounded down) that this monster inflicts, whether it is attacking or blocking, is returned to you in HPs.) If you have 10HPs or less, summon 5 Bat Tokens instead of 2.
 Vampire Apprentice	vampire		Monster		3	2	2	Bloodsucking 2 : Gain +2/+0 until the end of this turn. (Pay 2HPs to activate this effect.)
 Alucard	vampire		Monster		6	6	6	Bloodsucking 4 : Give Celerity (Can attack the turn this card is played) to the monster of your choice. (Pay 4HPs to activate this effect.)
 Bloody Temple	vampire		Artifact		5			Each time you use a Bloodsucking capacity, deal 1 damage to the target of your choice.
