@@ -1,5 +1,5 @@
 Voici la Tier-List Officielle du Plugin Lackey. **(V2 bis, pas la V2.5 !)**   
-**Veuillez bien prendre en compte que la nature de ces winrates n'est que le fruit de recherches stratégiques réalisées seul et qu'ils ne sont peut-être, voir pas du tout, véridiques. Je n'ai pu faire que de cette manière là du au manque d'activitée sur le jeu.   
+**Veuillez bien prendre en compte que la nature de ces winrates n'est que le fruit de recherches stratégiques réalisées seul et qu'ils ne sont peut-être, voir pas du tout, véridiques. Je n'ai pu faire que de cette manière là du au manque d'activitée sur le jeu.**   
    
 **Tier 1** - Les meilleures classes du jeu, dominants la meta.   
 Mage - 75% Winrate.   
