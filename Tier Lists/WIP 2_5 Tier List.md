@@ -3,20 +3,20 @@ Voici la Tier-List Work in Progress du Plugin Lackey V2.5.
    
 **Tier 1** - Les meilleures classes du jeu, dominants la meta.   
 Voleur - ?% Winrate.   
+Moine - ?% Winrate.   
 Nécromancien - ?% Winrate.   
+Prêtre - ?% Winrate.   
    
 **Tier 2** - Des classes correctes, jouables dans la meta mais nécessitant un minimum de connaissance de la classe.   
-Archer - ?% Winrate.   
 Mage - ?% Winrate.   
+Paladin - ?% Winrate.   
+Archer - ?% Winrate.   
+Vampire - ?% Winrate.   
+Guerrier - ?% Winrate.   
    
 **Tier 3** - Les pires classes du jeu, difficiles à jouer dans la meta.   
    
 **Tier Non-Définit** - Nous travaillons actuellement dans le but de voir où les placer dans la Tier List.   
-Guerrier - ?% Winrate.   
-Moine - ?% Winrate.   
-Paladin - ?% Winrate.   
-Prêtre - ?% Winrate.   
-Vampire - ?% Winrate.   
 
 =============================================================================   
    
@@ -25,17 +25,17 @@ Here's the Work in Progress Tier-List of the Lackey Plugin v2.5.
    
 **Tier 1** - The best classes of the game, dominating the meta.   
 Thief - ?% Winrate.   
+Monk - ?% Winrate.   
 Necromancer - ?% Winrate.   
+Priest - ?% Winrate.   
    
 **Tier 2** - Correct classes, playables in the meta but needing some knowledge of the class.   
-Marksman - ?% Winrate.   
 Mage - ?% Winrate.   
+Paladin - ?% Winrate.   
+Marksman - ?% Winrate.   
+Vampire - ?% Winrate.   
+Warrior - ?% Winrate.   
    
 **Tier 3** - The worst classes in the game, hard to play in the actual meta.   
    
 **Undefined Tier** - We're currently working to see where to put them in the Tier List.   
-Monk - ?% Winrate.   
-Paladin - ?% Winrate.   
-Priest - ?% Winrate.   
-Vampire - ?% Winrate.   
-Warrior - ?% Winrate.   
