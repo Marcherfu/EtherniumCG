@@ -19,7 +19,7 @@ Nécromancien - 18,75% Winrate.
 =============================================================================   
    
 Here's the Official Tier-List of the Lackey Plugin V2 bis. **(Not the V2.5 !)**   
-**Take in consideration that the nature of those winrates is only coming from my strategic researchs being alone and they're, probably, not exactly true. I coudln't do it in another way due to lack of activity on the game.**   
+**Take in consideration that the nature of those winrates is only coming from my strategic researchs being alone and they're, probably, not exactly true. I couldn't do it in another way due to lack of activity on the game.**   
    
 **Tier 1** - The best classes of the game, dominating the meta.   
 Mage - 75% Winrate.   
