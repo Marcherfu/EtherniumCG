@@ -21,7 +21,7 @@ Guerrier - ?% Winrate.
 =============================================================================   
    
 Here's the Work in Progress Tier-List of the Lackey Plugin v2.5.   
-**Take in consideration that the nature of those winrates is only coming from my strategic researchs being alone and they're, probably, not exactly true. I coudln't do it in another way due to lack of activity on the game.**   
+**Take in consideration that the nature of those winrates is only coming from my strategic researchs being alone and they're, probably, not exactly true. I couldn't do it in another way due to lack of activity on the game.**   
    
 **Tier 1** - The best classes of the game, dominating the meta.   
 Thief - ?% Winrate.   
