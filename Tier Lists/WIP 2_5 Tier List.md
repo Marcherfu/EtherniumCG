@@ -1,4 +1,4 @@
-Voici la Tier-List Work in Progress du Plugin Lackey V2.5.   
+Voici la Tier-List Work in Progress d'Ethernium V2.5.   
 **Veuillez bien prendre en compte que la nature de ces winrates n'est que le fruit de recherches stratégiques réalisées seul et qu'ils ne sont peut-être, voir pas du tout, véridiques. Je n'ai pu faire que de cette manière là du au manque d'activitée sur le jeu.**   
    
 **Tier 1** - Les meilleures classes du jeu, dominants la meta.   
@@ -20,7 +20,7 @@ Guerrier - ?% Winrate.
 
 =============================================================================   
    
-Here's the Work in Progress Tier-List of the Lackey Plugin v2.5.   
+Here's the Work in Progress Tier-List of Ethernium v2.5.   
 **Take in consideration that the nature of those winrates is only coming from my strategic researchs being alone and they're, probably, not exactly true. I couldn't do it in another way due to lack of activity on the game.**   
    
 **Tier 1** - The best classes of the game, dominating the meta.   
