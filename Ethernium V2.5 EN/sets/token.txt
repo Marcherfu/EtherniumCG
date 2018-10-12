@@ -10,6 +10,6 @@ Snake Token	token		Monster		1	1	1	Can't be returned to the hand. Deadly Poison. 
 Elvish Bomb Token	token		Monster	Elvish	1	0	1	Can't be returned to the hand. When this Token die, deal 1 damage to the target of your choice.
 Road to the Holy Grail Token	token		Artifact		10			Can't be returned to the hand. At the start of your turn, discard this token and summon a Holy Grail Token if you don't already have one.
 Holy Grail Token	token		Artifact		10			Can't be returned to the hand. At the start of your turn, you can chose to discard this token and the player of your choice instantly lose the game.
-Officer Token	token		Monster	Paladin	1	1	2	Can't be returned to the hand.
-Rock Engeance	token		Creature	Earth 1	1	1	Can't be returned to the hand. While this monster is in play, reduce the recieved damages by 1.
+Officer Token	token		Monster	Paladin 1 1 2	Can't be returned to the hand.
+Rock Engeance	token		Creature	Earth 1  1	1	Can't be returned to the hand. While this monster is in play, reduce the recieved damages by 1.
 Clay Golem Token	token		Monster	Earth	1	X	X	Can't be returned to the hand. X is equal to the number of times you casted "Clay Golem Summon" in this game. Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)
