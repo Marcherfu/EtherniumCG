@@ -1,0 +1,23 @@
+Name	Set	ImageFile	Type	Sub-Type	Cost	Attack	HPs	Text
+Absorption	vampire		Spell		1			Give Drain to the target monster. (Half of the damage (rounded down) that this monster inflicts, whether it is attacking or blocking, is returned to you in HPs.)
+Noble Vampire	vampire		Monster		2	2	3	Each time this monster attack, you can perform Bloodsucking 2 : this monster gain Taunt until the start of your next turn. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before, pay 2 HPs to activate this effect.)
+Bat Summoning	vampire		Spell		3			Summon 1 Bat Token 1/1 with Drain. (Half of the damage (rounded down) that this monster inflicts, whether it is attacking or blocking, is returned to you in HPs.)
+Blood Pact	vampire		Spell		4			Deal 4 damage to the target. You gain 2HPs. If you have 10HP or less you also recover 3 Mana Points.
+Vampire Lord	vampire		Monster		5	4	2	Summon 2 Bat Token 1/1 with Drain (Half of the damage (rounded down) that this monster inflicts, whether it is attacking or blocking, is returned to you in HPs.) Celerity. (Can attack the turn this card is played)
+Vampire Scribe	vampire		Monster		6	2	2	Draw X cards, X being the number of Bat Tokens in play.
+Grouping	vampire		Spell		7			Every Bat Tokens in play gain +2/+0 until end of turn.
+Demon of the Abyss	vampire		Monster		8	X	1	The attack of this monster is equal to the number of Bat Tokens in play.
+Bat Transformation	vampire		Spell		3			The targeted monster become until the end of this turn a Bat Token 1/1 with Drain. (Half of the damage (rounded down) that this monster inflicts, whether it is attacking or blocking, is returned to you in HPs.)
+Blood Blade	vampire		Spell		3			The targeted monster gain +2/+0.
+Dracula, King of the Bats	vampire		Monster		6	6	3	Summon 2 Bat Token 1/1 with Drain. (Half of the damage (rounded down) that this monster inflicts, whether it is attacking or blocking, is returned to you in HPs.) If you have 10HPs or less Si vous avez moins de 10PVs, invoquez en 5 au lieu de 2.
+Vampire Apprentice	vampire		Monster		4	2	2	Bloodsucking 2 : Gain +2/+0 until the end of this turn. (Pay 2HPs to activate this effect.)
+Alucard	vampire		Monster		6	6	6	Bloodsucking 4 : Give Celerity (Can attack the turn this card is played) to the monster of your choice. (Pay 4HPs to activate this effect.)
+Bloody Temple	vampire		Artifact		4			Each time you use a Bloodsucking capacity, deal 1 damage to the target of your choice.
+Nosferatu	vampire		Monster		5	3	3	Bloodsucking 3 : the targeted player draw a card. (Pay 3HPs to activate this effect.)
+Treachery	vampire		Spell		3			Sacrifice an allied monster : the target of your choice recover 3HPs.
+Abraham Van Helsing, Vampire Hunter	vampire		Monster		7	3	3	Gain +0/+1 for each neutral card in play and +1/+0 for each vampire card in play. Rush. (Can attack a monster the turn this card is played)
+Bloody Chalice	vampire		Artifact		8			While this card is in play, each time you use a Bloodsucking capacity, you gain as many life as HPs used to activate this capacity and you can chose to pay them again to deal X damage to all enemy monsters and to the enemy player, X being the cost of the Bloodsucking capacity.
+Vampire Sentinel	vampire		Monster		1	1	1	While this card is in play, each time you use a Bloodsucking capacity, the target of your choice recover 1HP.
+Behemoth	vampire		Monster		9	7	5	Bloodsucking 5 : deal 5 damage to the target. (Pay 5HPs tu activate this effect.) Rush. (Can attack a monster the turn this card is played)
+Vengeance	vampire		Spell		6			Destroy the card of your choice, if you have 10HPs or less this card cost 3 less to play and you can put it into your hand instead of put it into your discard pile.
+Carmilla	vampire		Monster		3	1	3	While this card is in play, each time a monster, a spell or an artifact is played, deal 1 damage to the player of your choice.
