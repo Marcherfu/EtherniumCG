@@ -2,12 +2,12 @@
 https://github.com/Marcherfu/EtherniumCG/blob/master/README.md   
 **Lien de téléchargement de Lackey :**   
 http://lackeyccg.com/downloads.html   
-**Lien de téléchargement du plugin :**   
-https://github.com/Marcherfu/EtherniumCG/releases (6 Octobre 2018)   
+**Lien de téléchargement d'Ethernium :**   
+https://github.com/Marcherfu/EtherniumCG/releases (12 Octobre 2018)   
 **Méthode d'Installation :**   
 Installez Lackey.   
-Téléchargez les fichiers de la version que vous souhaitez.   
-Foutez le dossier du plugin dans le dossier plugins de lackey (LackeyCCG/plugins)   
+Téléchargez les fichiers d'Ethernium.   
+Mettez le dossier de la version d'Ethernium que vous souhaitez dans le dossier plugins de Lackey. (LackeyCCG/plugins)   
 Lancez Lackey, allez dans plugin.   
 Cliquez sur "Browse installed plugins to load one".   
 Sélectionnez Ethernium v? FR ou Ethernium v? EN et faites choose, il vous redirigera sur la zone de fight en offline contre un dummy. (il suffit juste d'aller en haut sur deck editor et voilà vous pouvez éditer les decks et dans Server pour se connecter aux serveurs de Lackey)   
@@ -25,12 +25,12 @@ Lien : https://github.com/Marcherfu/EtherniumCG/tree/master/Tier%20Lists
 https://github.com/Marcherfu/EtherniumCG/blob/master/README.md   
 **Download link of Lackey :**   
 http://lackeyccg.com/downloads.html   
-**Download link of the plugin :**   
-https://github.com/Marcherfu/EtherniumCG/releases (6 October 2018)   
+**Download link of Ethernium :**   
+https://github.com/Marcherfu/EtherniumCG/releases (12 October 2018)   
 **How to Install it :**   
 Install Lackey.   
-Download the files of the version you want.   
-Put the folder of the plugin in the plugin folder of Lackey (LackeyCCG/plugins)   
+Download the files of Ethernium.   
+Put the folder of the version of Ethernium you want in the plugin folder of Lackey. (LackeyCCG/plugins)   
 Launch Lackey, go in plugin.   
 Click on "Browse installed plugins to load one".   
 Select Ethernium v? FR or Ethernium v? EN and click on "Choose", it gonna redirect you on the fighting zone in offline against a dummy. (you just need to click on deck editor to edit decks and click on Server to connect on the Lackey servers)   
