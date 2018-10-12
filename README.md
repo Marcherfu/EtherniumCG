@@ -27,7 +27,7 @@ Nombres de copies de la même carte dans un deck : 4 maximum, pas de minimum. (e
 Nombre de PVs : 20PVs au départ, le montant maximum de PVs est infini.  
 Nombre de Mana : 1 Point de Mana au départ, le montant maximum de Mana est de 10 Points.  
 Cartes restreintes en tournoi :  
-°Archer :  
+Archer :  
   -Symbiose est restreinte à 2 lancez par tour.  
   
 Number of players : from 2 to any amount you want.  
@@ -37,7 +37,7 @@ Number of copy of the same card in a deck : 4 max, no min. (Of course it's not l
 Number of HPs : 20HPs at the start of a game, otherwise it can goes up infinitely.  
 Number of Mana Points : 1 Mana Point at the start of a game, the max amount is 10 Points.  
 Restricted Cards in tournaments :  
-°Marksman :
+Marksman :  
   -Symbiosis is restricted to 2 casts per turn.  
   
 ### Changelog V1
