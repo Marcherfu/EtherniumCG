@@ -1,6 +1,6 @@
 # Ethernium CG
-Bienvenue sur le github d'Ethernium CG, le plugin LackeyCCG que j'ai crée ! Voici une brève présentation :  
-Welcome on the github of Ethernium CG, the LackeyCCG plugin i made ! Here's a short introduction :
+Bienvenue sur le github d'Ethernium CG, le plugin LackeyCCG que j'ai crée !
+Welcome on the github of Ethernium CG, the LackeyCCG plugin i made !
 
 ### Règles du Jeu | Rules
 Vous n'avez le droit qu'à une seule classe par deck, la classe neutre n'étant pas considéré comme une vraie classe.  
@@ -26,7 +26,9 @@ Nombre de cartes dans un deck : 60 cartes par deck minimum, pas de maximum. (pou
 Nombres de copies de la même carte dans un deck : 4 maximum, pas de minimum. (en même temps c'est pas logique d'avoir un minimum)  
 Nombre de PVs : 20PVs au départ, le montant maximum de PVs est infini.  
 Nombre de Mana : 1 Point de Mana au départ, le montant maximum de Mana est de 10 Points.  
-Cartes restreintes en tournoi : Symbiose est restreinte à 2 lancez par tour.  
+Cartes restreintes en tournoi :  
+°Archer :  
+  -Symbiose est restreinte à 2 lancez par tour.  
   
 Number of players : from 2 to any amount you want.  
 Time needed for a game : from 5 min to 1 hour depending on the match-ups.  
@@ -34,7 +36,9 @@ Number of cards in a deck : 60 cards per deck min, no max. (No max to counter th
 Number of copy of the same card in a deck : 4 max, no min. (Of course it's not logic to have a min amount)  
 Number of HPs : 20HPs at the start of a game, otherwise it can goes up infinitely.  
 Number of Mana Points : 1 Mana Point at the start of a game, the max amount is 10 Points.  
-Restricted Cards in tournaments : Symbiosis is restricted to 2 casts per turn.  
+Restricted Cards in tournaments :  
+°Marksman :
+  -Symbiosis is restricted to 2 casts per turn.  
   
 ### Changelog V1
 Création du jeu et de ses 113 premières cartes.  
