@@ -1,6 +1,6 @@
-# PluginMarcherfu
-Bienvenue sur le github du Plugin LackeyCCG que je fais ! Voici une brève présentation :  
-Welcome into the github of the LackeyCCG Plugin i made ! Here's a short introduction :
+# Ethernium CG
+Bienvenue sur le github d'Ethernium CG, le plugin LackeyCCG que j'ai crée ! Voici une brève présentation :  
+Welcome on the github of Ethernium CG, the LackeyCCG plugin i made ! Here's a short introduction :
 
 ### Règles du Jeu | Rules
 Vous n'avez le droit qu'à une seule classe par deck, la classe neutre n'étant pas considéré comme une vraie classe.  
@@ -62,11 +62,11 @@ English version added ! Every French versions of the plugin need to be renamed t
 ### Changelog Actuel | Actual Changelog (V2.5)
 52 nouvelles cartes rajoutées.  
 Équilibrage en profondeur expliqué ici :  
-https://raw.githubusercontent.com/Marcherfu/PluginMarcherfu/master/Changelog%20v2.5%20FR.txt  
+https://raw.githubusercontent.com/Marcherfu/EtherniumCG/master/Changelog%20v2.5%20FR.txt  
   
 52 new cards added.  
 In depth balance changes explained here :  
-https://raw.githubusercontent.com/Marcherfu/PluginMarcherfu/master/Changelog%20v2.5%20EN.txt  
+https://raw.githubusercontent.com/Marcherfu/EtherniumCG/master/Changelog%20v2.5%20EN.txt  
   
 ### Contact
 Vous pouvez me contacter sur le discord du jeu qui est le suivant : https://discord.gg/fT4MBJ9. J'y organise de temps à autre des matchs de rating pour créer une sorte de ladder ainsi que des tournois en Bo3 3 Decks/1 Ban.  
