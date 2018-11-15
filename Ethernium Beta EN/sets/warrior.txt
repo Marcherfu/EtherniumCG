@@ -19,7 +19,7 @@ Excalibur, the Legendary Sword	warrior		Artifact		4			While this artifact is in 
 Bait	warrior		Spell		3			The targeted enemy monster is forced to attack the targeted allied monster on the next turn of your opponent.
 Hole	warrior		Spell	Trap	2			When an enemy monster attack a target, destroy the monster of your choice.
 Kay	warrior		Monster		4	1	2	Gain +1/+1 for every artifact in play.
-Gawain	warrior		Monster		6	5	7 Celerity. (Can attack the turn this card is played)
+Gawain	warrior		Monster		6	5	7	Celerity. (Can attack the turn this card is played)
 Karadoc	warrior		Monster		4	4	4	Each time this monster take damages it gain +1/+1. Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)
 Merlin	warrior		Monster		1	1	1	Search in your deck for a card with the "Grail" sub-type show it to your enemy and put it into your hand, then shuffle your deck.
 Assault	warrior		Spell		3			Deal 2 damages to the targeted monster.
