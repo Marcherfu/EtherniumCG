@@ -1,0 +1,64 @@
+<packdefinitions version="1.0">
+	<pack>
+		<packtitle>Mage Aggro Yggdrasil Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Mage</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Midgard Researcher</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Pyromancer</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Seeker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Yggdrasil, the World Tree</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Spark</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Arcanic Research</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Fireball</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Stalagmite</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Lava Flow</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Yggdrasil's Fruits</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Yggdrasil's Leaves</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Yggdrasil's Roots</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Yggdrasil's Sap</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Yggdrasil's Trunk</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Mage Midrange Earth Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Mage</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Geomancer</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Seeker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Scout</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Clay Wall</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Hunter</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Arcanic Research</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Clay Golem Summon</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Goose Transformation</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Frost Trap</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Lava Flow</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Earthquake</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Mage Tempo Fire&Earth Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Mage</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Geomancer</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Pyromancer</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Seeker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Magic Student</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Spark</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Shot</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Clay Golem Summon</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Fireball</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Lava Flow</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Arcanic Research</data></crit></kind>
+		</chance>
+	</pack>
+</packdefinitions>
