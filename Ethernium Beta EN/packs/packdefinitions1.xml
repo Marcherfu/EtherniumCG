@@ -11,10 +11,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Marksman Drafting Booster</packtitle>
+		<packtitle>Marksman Draft Pack</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Marksman</packformat>
-		<packkind>Drafting Booster</packkind>
+		<packkind>Draft Pack</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Marksman</data></crit></kind>
