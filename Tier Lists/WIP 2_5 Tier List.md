@@ -3,15 +3,15 @@ Voici la Tier-List Work in Progress d'Ethernium V2.5.
    
 **Tier 1** - Les meilleures classes du jeu, dominants la meta.   
 Voleur - ?% Winrate.   
-Moine - ?% Winrate.   
-Nécromancien - ?% Winrate.   
 Prêtre - ?% Winrate.   
+Mage - ?% Winrate.   
+Moine - ?% Winrate.   
    
 **Tier 2** - Des classes correctes, jouables dans la meta mais nécessitant un minimum de connaissance de la classe.   
-Mage - ?% Winrate.   
-Paladin - ?% Winrate.   
 Archer - ?% Winrate.   
 Vampire - ?% Winrate.   
+Nécromancien - ?% Winrate.   
+Paladin - ?% Winrate.   
 Guerrier - ?% Winrate.   
    
 **Tier 3** - Les pires classes du jeu, difficiles à jouer dans la meta.   
@@ -25,15 +25,15 @@ Here's the Work in Progress Tier-List of Ethernium v2.5.
    
 **Tier 1** - The best classes of the game, dominating the meta.   
 Thief - ?% Winrate.   
-Monk - ?% Winrate.   
-Necromancer - ?% Winrate.   
 Priest - ?% Winrate.   
+Mage - ?% Winrate.   
+Monk - ?% Winrate.   
    
 **Tier 2** - Correct classes, playables in the meta but needing some knowledge of the class.   
-Mage - ?% Winrate.   
-Paladin - ?% Winrate.   
 Marksman - ?% Winrate.   
 Vampire - ?% Winrate.   
+Necromancer - ?% Winrate.   
+Paladin - ?% Winrate.   
 Warrior - ?% Winrate.   
    
 **Tier 3** - The worst classes in the game, hard to play in the actual meta.   
