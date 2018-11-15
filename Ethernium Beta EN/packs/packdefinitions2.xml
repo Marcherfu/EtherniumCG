@@ -61,4 +61,266 @@
 			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Arcanic Research</data></crit></kind>
 		</chance>
 	</pack>
+	<pack>
+		<packtitle>Marksman Beast Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Marksman</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Seeker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Wild Hunter</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Proud Tracker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Sentry Wolf</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Wolf Leader</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Bestial Summon</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Paths of Nature</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Elvish Marksman Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Marksman</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Elf Archeologist</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Seeker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Elvish Guardian</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Elvish Fireworker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Elf Sage</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Dark Elf</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Elvish Barrage</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Elvish Sacrifice</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Elf's Firework Factory</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Marksman Neutral Discard Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Marksman</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Seeker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Strategist</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Architect</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Princess</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>King of Goblins</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Forest's Abomination</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Bestial Summon</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Growth</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Call</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Monk Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Monk</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Monk Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Monk</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Monk Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Monk</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Necromancer Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Necromancer</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Necromancer Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Necromancer</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Necromancer Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Necromancer</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Paladin Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Paladin</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Paladin Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Paladin</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Paladin Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Paladin</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Priest Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Priest</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Priest Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Priest</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Priest Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Priest</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Thief Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Thief</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Thief Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Thief</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Thief Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Thief</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Vampire Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Vampire</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Vampire Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Vampire</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Vampire Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Vampire</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Warrior Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Warrior</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Warrior Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Warrior</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Warrior Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Warrior</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
 </packdefinitions>

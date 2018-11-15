@@ -1,9 +1,9 @@
 <packdefinitions version="1.0">
 	<pack>
-		<packtitle>Warrior Drafting Booster</packtitle>
+		<packtitle>Warrior Draft Pack</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Warrior</packformat>
-		<packkind>Drafting Booster</packkind>
+		<packkind>Draft Pack</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Warrior</data></crit></kind>
@@ -22,10 +22,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Mage Drafting Booster</packtitle>
+		<packtitle>Mage Draft Pack</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Mage</packformat>
-		<packkind>Drafting Booster</packkind>
+		<packkind>Draft Pack</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Mage</data></crit></kind>
@@ -33,10 +33,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Necromancer Drafting Booster</packtitle>
+		<packtitle>Necromancer Draft Pack</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Necromancer</packformat>
-		<packkind>Drafting Booster</packkind>
+		<packkind>Draft Pack</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Necromancer</data></crit></kind>
@@ -44,10 +44,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Vampire Drafting Booster</packtitle>
+		<packtitle>Vampire Draft Pack</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Vampire</packformat>
-		<packkind>Drafting Booster</packkind>
+		<packkind>Draft Pack</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Vampire</data></crit></kind>
@@ -55,10 +55,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Thief Drafting Booster</packtitle>
+		<packtitle>Thief Draft Pack</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Thief</packformat>
-		<packkind>Drafting Booster</packkind>
+		<packkind>Draft Pack</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Thief</data></crit></kind>
@@ -66,10 +66,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Monk Drafting Booster</packtitle>
+		<packtitle>Monk Draft Pack</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Monk</packformat>
-		<packkind>Drafting Booster</packkind>
+		<packkind>Draft Pack</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Monk</data></crit></kind>
@@ -77,10 +77,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Priest Drafting Booster</packtitle>
+		<packtitle>Priest Draft Pack</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Priest</packformat>
-		<packkind>Drafting Booster</packkind>
+		<packkind>Draft Pack</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Priest</data></crit></kind>
@@ -88,10 +88,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Paladin Drafting Booster</packtitle>
+		<packtitle>Paladin Draft Pack</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Paladin</packformat>
-		<packkind>Drafting Booster</packkind>
+		<packkind>Draft Pack</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Paladin</data></crit></kind>
