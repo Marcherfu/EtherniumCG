@@ -1,0 +1,106 @@
+<packdefinitions version="1.0">
+	<pack>
+		<packtitle>Prebuilt Mage - Beginner</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Mage</packformat>
+		<packkind>Prebuilt Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Pyromancer</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Strategist</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Seeker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Scout</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Magic Student</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Hunter</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Architect</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>War Chief Goblin</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Spark</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Shot</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Arcanic Research</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Fireball</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Mental Shock</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Stalagmite</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Lava Flow</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Prebuilt Marksman - Beginner</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Marksman</packformat>
+		<packkind>Prebuilt Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Prebuilt Monk - Beginner</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Monk</packformat>
+		<packkind>Prebuilt Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Prebuilt Necromancer - Beginner</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Necromancer</packformat>
+		<packkind>Prebuilt Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Prebuilt Paladin - Beginner</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Paladin</packformat>
+		<packkind>Prebuilt Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Prebuilt Priest - Beginner</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Priest</packformat>
+		<packkind>Prebuilt Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Prebuilt Thief - Beginner</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Thief</packformat>
+		<packkind>Prebuilt Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Prebuilt Vampire - Beginner</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Vampire</packformat>
+		<packkind>Prebuilt Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Prebuilt Warrior - Beginner</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Warrior</packformat>
+		<packkind>Prebuilt Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+		</chance>
+	</pack>
+</packdefinitions>

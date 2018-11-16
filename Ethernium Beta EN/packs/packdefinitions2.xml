@@ -114,7 +114,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Monk Skeleton</packtitle>
+		<packtitle>Ramp Monk Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Monk</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -124,7 +124,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Monk Skeleton</packtitle>
+		<packtitle>Mightyness Monk Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Monk</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -134,7 +134,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Monk Skeleton</packtitle>
+		<packtitle>Aggro Monk Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Monk</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -144,7 +144,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Necromancer Skeleton</packtitle>
+		<packtitle>Mill Necromancer Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Necromancer</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -154,7 +154,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Necromancer Skeleton</packtitle>
+		<packtitle>Aggro Necromancer Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Necromancer</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -164,7 +164,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Necromancer Skeleton</packtitle>
+		<packtitle>Reanimator Necromancer Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Necromancer</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -174,7 +174,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Paladin Skeleton</packtitle>
+		<packtitle>Control Paladin Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Paladin</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -184,7 +184,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Paladin Skeleton</packtitle>
+		<packtitle>Aggro Paladin Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Paladin</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -194,7 +194,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Paladin Skeleton</packtitle>
+		<packtitle>White Knight Paladin Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Paladin</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -204,7 +204,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Priest Skeleton</packtitle>
+		<packtitle>Control Priest Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Priest</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -214,7 +214,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Priest Skeleton</packtitle>
+		<packtitle>Destruction Priest Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Priest</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -224,7 +224,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Priest Skeleton</packtitle>
+		<packtitle>Calamity Priest Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Priest</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -234,7 +234,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Thief Skeleton</packtitle>
+		<packtitle>Aggro Thief Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Thief</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -244,7 +244,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Thief Skeleton</packtitle>
+		<packtitle>Minesweeper Thief Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Thief</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -254,7 +254,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Thief Skeleton</packtitle>
+		<packtitle>Ali Baba Thief Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Thief</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -264,7 +264,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Vampire Skeleton</packtitle>
+		<packtitle>Control Vampire Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Vampire</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -274,7 +274,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Vampire Skeleton</packtitle>
+		<packtitle>Bloodsucking OTK Vampire Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Vampire</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -284,7 +284,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Vampire Skeleton</packtitle>
+		<packtitle>Aggro Vampire Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Vampire</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -294,7 +294,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Warrior Skeleton</packtitle>
+		<packtitle>Aggro Warrior Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Warrior</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -304,7 +304,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Warrior Skeleton</packtitle>
+		<packtitle>Holy Grail Warrior Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Warrior</packformat>
 		<packkind>Skeleton Deck</packkind>
@@ -314,7 +314,7 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Warrior Skeleton</packtitle>
+		<packtitle>Control Warrior Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Warrior</packformat>
 		<packkind>Skeleton Deck</packkind>
