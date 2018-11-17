@@ -120,7 +120,13 @@
 		<packkind>Skeleton Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Seeker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Focusing</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Samurai Apprentice</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Spiritual Research</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Acceleration</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Meditation</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Prince of Time</data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
@@ -130,7 +136,15 @@
 		<packkind>Skeleton Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Protector of the Temple</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Seeker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Shot</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Monk Purifier</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Focusing</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Shaolin Apprentice</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Shaolin Warrior</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Shaolin Temple</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Shaolin Master</data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
@@ -140,7 +154,14 @@
 		<packkind>Skeleton Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Seeker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Shot</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Focusing</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Master Samurai</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Spiritual Research</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Shaolin Warrior</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Sandstorm</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Prince of Time</data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
@@ -150,7 +171,16 @@
 		<packkind>Skeleton Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Degeneration</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Putrefaction</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>To the Other Side</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Abomination</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Working Ghoul</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Zombie Horde</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Seeker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Life Reaper</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Zombie</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Cerberus Rider</data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
@@ -160,17 +190,30 @@
 		<packkind>Skeleton Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Mortuary Explosion</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Seeker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Zombie</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Putrefaction</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>To the Other Side</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Scavenger Crow</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Cannibal Zombie</data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Reanimator Necromancer Skeleton</packtitle>
+		<packtitle>Banish'n'Rally Necromancer Skeleton</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Necromancer</packformat>
 		<packkind>Skeleton Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Seeker</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Zombie</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Comeback from Oblivion</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Putrefaction</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Goblin Demon</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Cannibal Zombie</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Master of Oblivion</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Mass Extinction</data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
