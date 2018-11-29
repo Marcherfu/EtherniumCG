@@ -1,9 +1,9 @@
 <packdefinitions version="1.0">
 	<pack>
-		<packtitle>Mage Aggro Yggdrasil Skeleton</packtitle>
+		<packtitle>Mage Aggro Yggdrasil</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Mage</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-02-01</data></crit></kind>
@@ -23,10 +23,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Mage Midrange Earth Skeleton</packtitle>
+		<packtitle>Mage Midrange Terre</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Mage</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-03-02</data></crit></kind>
@@ -43,10 +43,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Mage Tempo Fire&Earth Skeleton</packtitle>
+		<packtitle>Mage Tempo Terre&Feu</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Mage</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-03-02</data></crit></kind>
@@ -62,10 +62,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Marksman Beast Skeleton</packtitle>
+		<packtitle>Archer Bete</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Marksman</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Archer</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
@@ -78,10 +78,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Elvish Marksman Skeleton</packtitle>
+		<packtitle>Archer Elfique</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Marksman</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Archer</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-02-06</data></crit></kind>
@@ -96,10 +96,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Marksman Neutral Discard Skeleton</packtitle>
+		<packtitle>Archer Neutre Defausse</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Marksman</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Archer</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
@@ -114,10 +114,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Ramp Monk Skeleton</packtitle>
+		<packtitle>Moine Ramp</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Monk</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Moine</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
@@ -130,10 +130,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Mightyness Monk Skeleton</packtitle>
+		<packtitle>Moine Grandeur</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Monk</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Moine</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-02-02</data></crit></kind>
@@ -148,10 +148,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Aggro Monk Skeleton</packtitle>
+		<packtitle>Moine Aggro</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Monk</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Moine</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
@@ -165,10 +165,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Mill Necromancer Skeleton</packtitle>
+		<packtitle>Necromancien Meule</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Necromancer</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Necromancien</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-02-11</data></crit></kind>
@@ -184,10 +184,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Aggro Necromancer Skeleton</packtitle>
+		<packtitle>Necromancien Aggro</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Necromancer</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Necromancien</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-03-05</data></crit></kind>
@@ -200,10 +200,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Banish&Rally Necromancer Skeleton</packtitle>
+		<packtitle>Necromancien Banissement&Ralliement</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Necromancer</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Necromancien</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
@@ -217,10 +217,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Control Paladin Skeleton</packtitle>
+		<packtitle>Paladin Control</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Paladin</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-11</data></crit></kind>
@@ -235,10 +235,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Aggro Paladin Skeleton</packtitle>
+		<packtitle>Paladin Aggro</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Paladin</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-10</data></crit></kind>
@@ -252,10 +252,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>White Knight Paladin Skeleton</packtitle>
+		<packtitle>Paladin Chevalier Blanc</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Paladin</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-10</data></crit></kind>
@@ -271,10 +271,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Control Priest Skeleton</packtitle>
+		<packtitle>Pretre Control</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Priest</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Pretre</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
@@ -288,10 +288,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Destruction Priest Skeleton</packtitle>
+		<packtitle>Pretre Destruction</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Priest</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Pretre</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-03-01</data></crit></kind>
@@ -304,10 +304,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Calamity Priest Skeleton</packtitle>
+		<packtitle>Pretre Calamite</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Priest</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Pretre</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
@@ -319,10 +319,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Aggro Thief Skeleton</packtitle>
+		<packtitle>Aggro Voleur</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Thief</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Voleur</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-03-04</data></crit></kind>
@@ -337,10 +337,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Minesweeper Thief Skeleton</packtitle>
+		<packtitle>Voleur Demineur</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Thief</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Voleur</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-06</data></crit></kind>
@@ -356,10 +356,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Ali Baba Thief Skeleton</packtitle>
+		<packtitle>Voleur Ali Baba</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Thief</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Voleur</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-06</data></crit></kind>
@@ -374,10 +374,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Control Vampire Skeleton</packtitle>
+		<packtitle>Vampire Control</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Vampire</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
@@ -392,10 +392,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Bloodsucking OTK Vampire Skeleton</packtitle>
+		<packtitle>Vampire OTK Succion</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Vampire</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
@@ -408,10 +408,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Aggro Vampire Skeleton</packtitle>
+		<packtitle>Aggro Vampire</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Vampire</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
@@ -424,10 +424,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Aggro Warrior Skeleton</packtitle>
+		<packtitle>Aggro Guerrier</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Warrior</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Guerrier</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
@@ -441,10 +441,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Holy Grail Warrior Skeleton</packtitle>
+		<packtitle>Guerrier Saint Graal</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Warrior</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Guerrier</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-05</data></crit></kind>
@@ -460,10 +460,10 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Control Warrior Skeleton</packtitle>
+		<packtitle>Guerrier Control</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Warrior</packformat>
-		<packkind>Skeleton Deck</packkind>
+		<packformat>Guerrier</packformat>
+		<packkind>Squelette de Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-06</data></crit></kind>

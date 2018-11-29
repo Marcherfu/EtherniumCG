@@ -1,23 +1,23 @@
-Name	Set	ImageFile	Type	Sub-Type	Cost	Attack	HPs	Text
-Goblin Seeker	neutral		Monster	Goblin	1	1	2	Draw a card.
-Goblin Scout	neutral		Monster	Goblin	2	2	1	While this card is in play, give Rush to every monsters with the "Goblin" sub-type that came in play and which is in play. Rush. (Can attack a monster the turn this card is played)
-Goblin Shaman	neutral		Monster	Goblin	3	1	3	While this card is in play, the controler of this card recover 1HP each time a monster with the "Goblin" sub-type came into play.
-War Chief Goblin	neutral		Monster	Goblin	4	2	3	While this card is in play, give +1/+0 to every monsters with the "Goblin" sub-type that came in play and which is in play.
-Goblin Princess	neutral		Monster	Goblin	5	2	2	Summon 1 Goblin Token 1/1 with the "Goblin" sub-type and Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)
-King of Goblins	neutral		Monster	Goblin	6	3	3	Summon 2 Goblin Tokens 1/1 with the "Goblin" sub-type and Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)
-Goblin Architect	neutral		Monster	Goblin	4	1	1	Draw a card for each monster with the "Goblin" sub-type in play.
-Goblin Ambush	neutral		Spell	Trap	3			If a monster attack a monster with the "Goblin" sub-type, deal to the attacking monster X damages, X being the number of monsters with the "Goblin" sub-type in play.
-Devoted Goblin	neutral		Monster	Goblin	4	1	3	While this card is in play, each time you use a Devotion capacity you recover 1 Mana point.
-Goblin Mage	neutral		Monster	Goblin	5	1	3	Gain +1/+1 for this turn for each card you play with the Combo capacity.
-Minesweeper Goblin	neutral		Monster	Goblin	3	1	3	While this card is in play, each time you use a Minesweeping capacity, search in your deck for a card with the "Trap" sub-type, show it to your enemy and put it into your hand then shuffle your deck.
-Goblin Attack	neutral		Spell		10			Deal X damage to the target, X being the number of monsters with the "Goblin" sub-type in play.
-Goblin Medicine	neutral		Spell		6			The target recover X HPs, X being the number of monsters with the "Goblin" sub-type in play.
-Bloodsucker Goblin	neutral		Monster	Goblin	4	1	3	Gain +1/+1 for this turn each time you use a Bloodsucking capacity.
-Knife Throwing	neutral		Spell		4			Deal 1 damage 3 times, distributed as you wish between 1, 2 or 3 targets.
-Goblin Strategist	neutral		Monster	Goblin	1	1	1	Search in your deck for a card with the "Goblin" sub-type, show it to your enemy and put it into your hand then shuffle your deck.
-Goblin Hunter	neutral		Monster	Goblin	3	2	2	Deal 2 damage to the target.
-Goblin Demon	neutral		Monster	Goblin	4	1	3	Gain +2/+0 for this turn each time you use a Banishment or a Rally capacity.
-Goblin Call	neutral		Spell		14			Summon X Goblin Tokens 1/1 with the "Goblin" sub-type and Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.) X is equal to the number of monsters with the "Goblin" sub-type in play. Cost 1 less to play for each neutral card in your hand, discard zone and in play.
-Goblin Fencer	neutral		Monster	Goblin	2	1	1	While this card is in play, give Celerity to every monsters with the "Goblin" sub-type that came in play and which is in play. Celerity. (Can attack the turn this card is played)
-Goblin Wall	neutral		Artifact	Goblin	20			While this artifact is in play, each time you play a Neutral card or each time a Token come into play, deal 1 damage to the target of your choice. Cost 1 less to play for each neutral card in your hand, discard zone and in play.
-Goblin Shot	neutral		Spell		1			Deal 1 damage to the target.
+Name	Set	ImageFile	Type	Sub-Type	Cost	Attack	HPs	Text	ID
+Goblin Seeker	neutral		Monster	Goblin	1	1	2	Draw a card.	10-01-01
+Goblin Scout	neutral		Monster	Goblin	2	2	1	While this card is in play, give Rush to every monsters with the "Goblin" sub-type that came in play and which is in play. Rush. (Can attack a monster the turn this card is played)	10-01-02
+Goblin Shaman	neutral		Monster	Goblin	3	1	3	While this card is in play, the controler of this card recover 1HP each time a monster with the "Goblin" sub-type came into play.	10-01-03
+War Chief Goblin	neutral		Monster	Goblin	4	2	3	While this card is in play, give +1/+0 to every monsters with the "Goblin" sub-type that came in play and which is in play.	10-01-04
+Goblin Princess	neutral		Monster	Goblin	5	2	2	Summon 1 Goblin Token 1/1 with the "Goblin" sub-type and Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)	10-01-05
+King of Goblins	neutral		Monster	Goblin	6	3	3	Summon 2 Goblin Tokens 1/1 with the "Goblin" sub-type and Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)	10-01-06
+Goblin Architect	neutral		Monster	Goblin	4	1	1	Draw a card for each monster with the "Goblin" sub-type in play.	10-01-07
+Goblin Ambush	neutral		Spell	Trap	3			If a monster attack a monster with the "Goblin" sub-type, deal to the attacking monster X damages, X being the number of monsters with the "Goblin" sub-type in play.	10-01-08
+Devoted Goblin	neutral		Monster	Goblin	4	1	3	While this card is in play, each time you use a Devotion capacity you recover 1 Mana point.	10-02-01
+Goblin Mage	neutral		Monster	Goblin	5	1	3	Gain +1/+1 for this turn for each card you play with the Combo capacity.	10-02-02
+Minesweeper Goblin	neutral		Monster	Goblin	3	1	3	While this card is in play, each time you use a Minesweeping capacity, search in your deck for a card with the "Trap" sub-type, show it to your enemy and put it into your hand then shuffle your deck.	10-02-03
+Goblin Attack	neutral		Spell		10			Deal X damage to the target, X being the number of monsters with the "Goblin" sub-type in play.	10-02-04
+Goblin Medicine	neutral		Spell		6			The target recover X HPs, X being the number of monsters with the "Goblin" sub-type in play.	10-02-05
+Bloodsucker Goblin	neutral		Monster	Goblin	4	1	3	Gain +1/+1 for this turn each time you use a Bloodsucking capacity.	10-02-06
+Knife Throwing	neutral		Spell		4			Deal 1 damage 3 times, distributed as you wish between 1, 2 or 3 targets.	10-02-07
+Goblin Strategist	neutral		Monster	Goblin	1	1	1	Search in your deck for a card with the "Goblin" sub-type, show it to your enemy and put it into your hand then shuffle your deck.	10-02-08
+Goblin Hunter	neutral		Monster	Goblin	3	2	2	Deal 2 damage to the target.	10-02-09
+Goblin Demon	neutral		Monster	Goblin	4	1	3	Gain +2/+0 for this turn each time you use a Banishment or a Rally capacity.	10-03-01
+Goblin Call	neutral		Spell		14			Summon X Goblin Tokens 1/1 with the "Goblin" sub-type and Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.) X is equal to the number of monsters with the "Goblin" sub-type in play. Cost 1 less to play for each neutral card in your hand, discard zone and in play.	10-03-02
+Goblin Fencer	neutral		Monster	Goblin	2	1	1	While this card is in play, give Celerity to every monsters with the "Goblin" sub-type that came in play and which is in play. Celerity. (Can attack the turn this card is played)	10-03-03
+Goblin Wall	neutral		Artifact	Goblin	20			While this artifact is in play, each time you play a Neutral card or each time a Token come into play, deal 1 damage to the target of your choice. Cost 1 less to play for each neutral card in your hand, discard zone and in play.	10-03-04
+Goblin Shot	neutral		Spell		1			Deal 1 damage to the target.	10-03-05

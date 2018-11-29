@@ -1,9 +1,9 @@
 <packdefinitions version="1.0">
 	<pack>
-		<packtitle>Prebuilt Mage - Beginner</packtitle>
+		<packtitle>Deck Preconstruit Mage - Debutant</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Mage</packformat>
-		<packkind>Prebuilt Deck</packkind>
+		<packkind>Deck Preconstruit</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-02-03</data></crit></kind>
@@ -24,80 +24,80 @@
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Prebuilt Marksman - Beginner</packtitle>
+		<packtitle>Deck Preconstruit Archer - Debutant</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Marksman</packformat>
-		<packkind>Prebuilt Deck</packkind>
+		<packformat>Archer</packformat>
+		<packkind>Deck Preconstruit</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Prebuilt Monk - Beginner</packtitle>
+		<packtitle>Deck Preconstruit Moine - Debutant</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Monk</packformat>
-		<packkind>Prebuilt Deck</packkind>
+		<packformat>Moine</packformat>
+		<packkind>Deck Preconstruit</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Prebuilt Necromancer - Beginner</packtitle>
+		<packtitle>Deck Preconstruit Necromancien - Debutant</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Necromancer</packformat>
-		<packkind>Prebuilt Deck</packkind>
+		<packformat>Necromancien</packformat>
+		<packkind>Deck Preconstruit</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Prebuilt Paladin - Beginner</packtitle>
+		<packtitle>Deck Preconstruit Paladin - Debutant</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Paladin</packformat>
-		<packkind>Prebuilt Deck</packkind>
+		<packkind>Deck Preconstruit</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Prebuilt Priest - Beginner</packtitle>
+		<packtitle>Deck Preconstruit Pretre - Debutant</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Priest</packformat>
-		<packkind>Prebuilt Deck</packkind>
+		<packformat>Pretre</packformat>
+		<packkind>Deck Preconstruit</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Prebuilt Thief - Beginner</packtitle>
+		<packtitle>Deck Preconstruit Voleur - Debutant</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Thief</packformat>
-		<packkind>Prebuilt Deck</packkind>
+		<packformat>Voleur</packformat>
+		<packkind>Deck Preconstruit</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Prebuilt Vampire - Beginner</packtitle>
+		<packtitle>Deck Preconstruit Vampire - Debutant</packtitle>
 		<packimage>cardback</packimage>
 		<packformat>Vampire</packformat>
-		<packkind>Prebuilt Deck</packkind>
+		<packkind>Deck Preconstruit</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
-		<packtitle>Prebuilt Warrior - Beginner</packtitle>
+		<packtitle>Deck Preconstruit Guerrier - Debutant</packtitle>
 		<packimage>cardback</packimage>
-		<packformat>Warrior</packformat>
-		<packkind>Prebuilt Deck</packkind>
+		<packformat>Guerrier</packformat>
+		<packkind>Deck Preconstruit</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>

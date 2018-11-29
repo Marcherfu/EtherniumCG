@@ -8,24 +8,24 @@
 <recentskins>Desert</recentskins>
 <canned>/clear</canned>
 <canned>/ping</canned>
-<canned>!Melanger!/shuffle Deck</canned>
-<canned>!Passer!/nextturn</canned>
-<canned>!Screener!/screenshot</canned>
-<canned>!Jeton Loup!/spawn Jeton Loup</canned>
-<canned>!Jeton Durandal, Epee Sacree!/spawn Jeton Durandal, Epee Sacree</canned>
-<canned>!Jeton Engeance de Flamme!/spawn Jeton Engeance de Flamme</canned>
-<canned>!Jeton Engeance de Givre!/spawn Jeton Engeance de Givre</canned>
-<canned>!Jeton Engeance de Roche!/spawn Jeton Engeance de Roche</canned>
-<canned>!Jeton Golem d'Argile!/spawn Jeton Golem d'Argile</canned>
-<canned>!Jeton Zombie!/spawn Jeton Zombie</canned>
-<canned>!Jeton Gobelin!/spawn Jeton Gobelin</canned>
-<canned>!Jeton Chauve-Souris!/spawn Jeton Chauve-Souris</canned>
-<canned>!Jeton Serpent!/spawn Jeton Serpent</canned>
-<canned>!Jeton Bombe Elfique!/spawn Jeton Bombe Elfique</canned>
-<canned>!Jeton Route vers le Saint Graal!/spawn Jeton Route vers le Saint Graal</canned>
-<canned>!Jeton Saint Graal!/spawn Jeton Saint Graal</canned>
-<canned>!Jeton Officier!/spawn Jeton Officier</canned>
-<canned>!Changer l'Inclinaison!/tilt 0</canned>
+<canned>!Shuffle!/shuffle Deck</canned>
+<canned>!Pass!/nextturn</canned>
+<canned>!Screen!/screenshot</canned>
+<canned>!Wolf Token!/spawn Wolf Token</canned>
+<canned>!Durandal, Sacred Sword Token!/spawn Durandal, Sacred Sword Token</canned>
+<canned>!Flamme Engeance Token!/spawn Flamme Engeance Token</canned>
+<canned>!Frost Engeance Token!/spawn Frost Engeance Token</canned>
+<canned>!Zombie Token!/spawn Zombie Token</canned>
+<canned>!Goblin Token!/spawn Goblin Token</canned>
+<canned>!Bat Token!/spawn Bat Token</canned>
+<canned>!Snake Token!/spawn Snake Token</canned>
+<canned>!Elvish Bomb Token!/spawn Elvish Bomb Token</canned>
+<canned>!Road to the Holy Grail Token!/spawn Road to the Holy Grail Token</canned>
+<canned>!Holy Grail Token!/spawn Holy Grail Token</canned>
+<canned>!Officer Token!/spawn Officer Token</canned>
+<canned>!Change Tilt!/tilt 0</canned>
+<canned>Coming...</canned>
+<canned>Coming...</canned>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>times.ttf</fontkind0pos1>
 <fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
@@ -55,7 +55,8 @@
 <bindingcanned6>CTRL+7</bindingcanned6>
 <bindingcanned7>CTRL+8</bindingcanned7>
 <bindingcanned8>CTRL+9</bindingcanned8>
-<recentformat>-1</recentformat>
+<recentformat>1</recentformat>
+<deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
 <scalefactor>0.690000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
