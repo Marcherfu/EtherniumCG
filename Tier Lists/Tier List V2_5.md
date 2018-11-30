@@ -15,8 +15,7 @@ Paladin - 12/20.
 Guerrier - 12/20.   
    
 **Tier 3** - Les pires classes du jeu, difficiles à jouer dans la meta.   
-   
-**Tier Non-Définit** - Nous travaillons actuellement dans le but de voir où les placer dans la Tier List.   
+Personne.   
    
 =============================================================================   
    
@@ -37,5 +36,4 @@ Paladin - 12/20.
 Warrior - 12/20.   
    
 **Tier 3** - The worst classes in the game, hard to play in the actual meta.   
-   
-**Undefined Tier** - We're currently working to see where to put them in the Tier List.   
+Nobody.   
