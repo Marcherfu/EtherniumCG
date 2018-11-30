@@ -30,7 +30,23 @@
 		<packkind>Prebuilt Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-02-01</data></crit></kind>
+			<kind><qty>2</qty><crit><field>ID</field><eval>IS</eval><data>02-03-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-10</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-02-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-02-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-04</data></crit></kind>
+			<kind><qty>1</qty><crit><field>ID</field><eval>IS</eval><data>02-03-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-07</data></crit></kind>
+			<kind><qty>1</qty><crit><field>ID</field><eval>IS</eval><data>02-03-03</data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
@@ -40,7 +56,21 @@
 		<packkind>Prebuilt Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-03-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-03-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-03-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-02-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-02-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-01-08</data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
@@ -50,7 +80,21 @@
 		<packkind>Prebuilt Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-02-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-02-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-08</data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
@@ -60,7 +104,21 @@
 		<packkind>Prebuilt Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-03-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-10</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-03-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-01-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-08</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-09</data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
@@ -70,7 +128,21 @@
 		<packkind>Prebuilt Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-03-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-02-10</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-03-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-02-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-02-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-02-08</data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
@@ -80,7 +152,21 @@
 		<packkind>Prebuilt Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-03-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-03-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-03-02</data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
@@ -90,7 +176,21 @@
 		<packkind>Prebuilt Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-08</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-03-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-01-10</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-01-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-09</data></crit></kind>
 		</chance>
 	</pack>
 	<pack>
@@ -100,7 +200,21 @@
 		<packkind>Prebuilt Deck</packkind>
 		<packdoubles>yes</packdoubles>
 		<chance>
-			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data></data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-08</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-03-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-03-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-10</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-03</data></crit></kind>
 		</chance>
 	</pack>
 </packdefinitions>

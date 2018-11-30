@@ -55,7 +55,7 @@
 <bindingcanned6>CTRL+7</bindingcanned6>
 <bindingcanned7>CTRL+8</bindingcanned7>
 <bindingcanned8>CTRL+9</bindingcanned8>
-<recentformat>1</recentformat>
+<recentformat>4</recentformat>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
 <scalefactor>0.690000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
