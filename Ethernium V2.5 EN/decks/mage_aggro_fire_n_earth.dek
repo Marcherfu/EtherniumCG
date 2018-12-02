@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2_5 EN</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Pyromancer</name><set>mage</set></card>
+		<card><name id="">Pyromancer</name><set>mage</set></card>
+		<card><name id="">Pyromancer</name><set>mage</set></card>
+		<card><name id="">Pyromancer</name><set>mage</set></card>
+		<card><name id="">Spark</name><set>mage</set></card>
+		<card><name id="">Spark</name><set>mage</set></card>
+		<card><name id="">Spark</name><set>mage</set></card>
+		<card><name id="">Spark</name><set>mage</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Arcanic Research</name><set>mage</set></card>
+		<card><name id="">Arcanic Research</name><set>mage</set></card>
+		<card><name id="">Arcanic Research</name><set>mage</set></card>
+		<card><name id="">Arcanic Research</name><set>mage</set></card>
+		<card><name id="">Magic Student</name><set>mage</set></card>
+		<card><name id="">Magic Student</name><set>mage</set></card>
+		<card><name id="">Magic Student</name><set>mage</set></card>
+		<card><name id="">Magic Student</name><set>mage</set></card>
+		<card><name id="">Goblin Shot</name><set>neutral</set></card>
+		<card><name id="">Goblin Shot</name><set>neutral</set></card>
+		<card><name id="">Goblin Shot</name><set>neutral</set></card>
+		<card><name id="">Goblin Shot</name><set>neutral</set></card>
+		<card><name id="">Fireball</name><set>mage</set></card>
+		<card><name id="">Fireball</name><set>mage</set></card>
+		<card><name id="">Fireball</name><set>mage</set></card>
+		<card><name id="">Fireball</name><set>mage</set></card>
+		<card><name id="">Stalagmite</name><set>mage</set></card>
+		<card><name id="">Stalagmite</name><set>mage</set></card>
+		<card><name id="">Stalagmite</name><set>mage</set></card>
+		<card><name id="">Stalagmite</name><set>mage</set></card>
+		<card><name id="">Lava Flow</name><set>mage</set></card>
+		<card><name id="">Lava Flow</name><set>mage</set></card>
+		<card><name id="">Lava Flow</name><set>mage</set></card>
+		<card><name id="">Lava Flow</name><set>mage</set></card>
+		<card><name id="">Blazing Summon</name><set>mage</set></card>
+		<card><name id="">Blazing Summon</name><set>mage</set></card>
+		<card><name id="">Blazing Summon</name><set>mage</set></card>
+		<card><name id="">Blazing Summon</name><set>mage</set></card>
+		<card><name id="">Clay Golem Summon</name><set>mage</set></card>
+		<card><name id="">Clay Golem Summon</name><set>mage</set></card>
+		<card><name id="">Clay Golem Summon</name><set>mage</set></card>
+		<card><name id="">Clay Golem Summon</name><set>mage</set></card>
+		<card><name id="">Geomancer</name><set>mage</set></card>
+		<card><name id="">Geomancer</name><set>mage</set></card>
+		<card><name id="">Geomancer</name><set>mage</set></card>
+		<card><name id="">Geomancer</name><set>mage</set></card>
+		<card><name id="">Goose Transformation</name><set>mage</set></card>
+		<card><name id="">Goose Transformation</name><set>mage</set></card>
+		<card><name id="">Goose Transformation</name><set>mage</set></card>
+		<card><name id="">Goose Transformation</name><set>mage</set></card>
+		<card><name id="">Mental Shock</name><set>mage</set></card>
+		<card><name id="">Mental Shock</name><set>mage</set></card>
+		<card><name id="">Mental Shock</name><set>mage</set></card>
+		<card><name id="">Mental Shock</name><set>mage</set></card>
+		<card><name id="">Arcane Professor</name><set>mage</set></card>
+		<card><name id="">Arcane Professor</name><set>mage</set></card>
+		<card><name id="">Arcane Professor</name><set>mage</set></card>
+		<card><name id="">Arcane Professor</name><set>mage</set></card>
+	</superzone>
+</deck>

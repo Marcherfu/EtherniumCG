@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2_5 EN</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Cthulhu Protector</name><set>vampire</set></card>
+		<card><name id="">Cthulhu Protector</name><set>vampire</set></card>
+		<card><name id="">Cthulhu Protector</name><set>vampire</set></card>
+		<card><name id="">Cthulhu Protector</name><set>vampire</set></card>
+		<card><name id="">Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Pact with Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Pact with Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Pact with Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Pact with Cthulhu</name><set>vampire</set></card>
+		<card><name id="">Bat Transformation</name><set>vampire</set></card>
+		<card><name id="">Bat Transformation</name><set>vampire</set></card>
+		<card><name id="">Bat Transformation</name><set>vampire</set></card>
+		<card><name id="">Bat Transformation</name><set>vampire</set></card>
+		<card><name id="">Treachery</name><set>vampire</set></card>
+		<card><name id="">Treachery</name><set>vampire</set></card>
+		<card><name id="">Treachery</name><set>vampire</set></card>
+		<card><name id="">Treachery</name><set>vampire</set></card>
+		<card><name id="">Blood Pact</name><set>vampire</set></card>
+		<card><name id="">Blood Pact</name><set>vampire</set></card>
+		<card><name id="">Blood Pact</name><set>vampire</set></card>
+		<card><name id="">Blood Pact</name><set>vampire</set></card>
+		<card><name id="">Blood Sucking</name><set>vampire</set></card>
+		<card><name id="">Blood Sucking</name><set>vampire</set></card>
+		<card><name id="">Blood Sucking</name><set>vampire</set></card>
+		<card><name id="">Blood Sucking</name><set>vampire</set></card>
+		<card><name id="">Vampire Lord</name><set>vampire</set></card>
+		<card><name id="">Vampire Lord</name><set>vampire</set></card>
+		<card><name id="">Vampire Lord</name><set>vampire</set></card>
+		<card><name id="">Vampire Lord</name><set>vampire</set></card>
+		<card><name id="">Dracula, King of the Bats</name><set>vampire</set></card>
+		<card><name id="">Dracula, King of the Bats</name><set>vampire</set></card>
+		<card><name id="">Dracula, King of the Bats</name><set>vampire</set></card>
+		<card><name id="">Dracula, King of the Bats</name><set>vampire</set></card>
+		<card><name id="">Vengeance</name><set>vampire</set></card>
+		<card><name id="">Vengeance</name><set>vampire</set></card>
+		<card><name id="">Vengeance</name><set>vampire</set></card>
+		<card><name id="">Vengeance</name><set>vampire</set></card>
+		<card><name id="">Grouping</name><set>vampire</set></card>
+		<card><name id="">Grouping</name><set>vampire</set></card>
+		<card><name id="">Grouping</name><set>vampire</set></card>
+		<card><name id="">Grouping</name><set>vampire</set></card>
+		<card><name id="">Call of the Bats</name><set>vampire</set></card>
+		<card><name id="">Call of the Bats</name><set>vampire</set></card>
+		<card><name id="">Call of the Bats</name><set>vampire</set></card>
+		<card><name id="">Call of the Bats</name><set>vampire</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+	</superzone>
+</deck>

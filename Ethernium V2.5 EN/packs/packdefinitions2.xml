@@ -1,0 +1,479 @@
+<packdefinitions version="1.0">
+	<pack>
+		<packtitle>Mage Aggro Yggdrasil Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Mage</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-02-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-02-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-01-08</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-01-11</data></crit></kind>
+			<kind><qty>2</qty><crit><field>ID</field><eval>IS</eval><data>01-02-07</data></crit></kind>
+			<kind><qty>2</qty><crit><field>ID</field><eval>IS</eval><data>01-02-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-01-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-01-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-01-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-01-05</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Mage Midrange Earth Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Mage</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-03-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-03-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-03-03</data></crit></kind>
+			<kind><qty>2</qty><crit><field>ID</field><eval>IS</eval><data>01-02-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-02-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-02-05</data></crit></kind>
+			<kind><qty>3</qty><crit><field>ID</field><eval>IS</eval><data>01-03-05</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Mage Tempo Fire&Earth Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Mage</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-03-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-02-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-03-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-01-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-02-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>01-02-09</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Marksman Beast Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Marksman</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-06</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Elvish Marksman Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Marksman</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-02-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-02-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-02-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-02-08</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-02-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-02-10</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Marksman Neutral Discard Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Marksman</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-08</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>02-03-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-03-02</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Ramp Monk Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Monk</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-03-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-01-08</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Mightyness Monk Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Monk</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-02-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-02-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-02-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-02-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-02-08</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-01-07</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Aggro Monk Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Monk</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-03-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-02-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-02-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>03-01-08</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Mill Necromancer Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Necromancer</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-02-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-02-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-02-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-02-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-06</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Aggro Necromancer Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Necromancer</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-02-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-03-01</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Banish&Rally Necromancer Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Necromancer</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-03-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-02-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-03-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>04-03-04</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Control Paladin Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Paladin</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-01-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-01-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-01-08</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Aggro Paladin Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Paladin</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-10</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-03-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-01-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-09</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>White Knight Paladin Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Paladin</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-10</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-03-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-01-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-03-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>05-02-03</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Control Priest Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Priest</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-03-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-08</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-10</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Destruction Priest Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Priest</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-10</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Calamity Priest Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Priest</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-02-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-02-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>06-02-08</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Aggro Thief Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Thief</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-03-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-03-02</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Minesweeper Thief Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Thief</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-02-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-08</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Ali Baba Thief Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Thief</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-01-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>07-02-01</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Control Vampire Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Vampire</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-01-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-01-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-03-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-03-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-03-04</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Bloodsucking OTK Vampire Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Vampire</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-08</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-01-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-03</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Aggro Vampire Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Vampire</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-01-10</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-01-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-02</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>08-02-09</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Aggro Warrior Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Warrior</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-03-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-03-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-01-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-10</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-01-08</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-01-09</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Holy Grail Warrior Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Warrior</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-05</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-03-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-08</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-03-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-04</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-01-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-03</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-02</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Control Warrior Skeleton</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Warrior</packformat>
+		<packkind>Skeleton Deck</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-06</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>10-01-01</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-11</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-10</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-01-09</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-08</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-02-07</data></crit></kind>
+			<kind><qty>4</qty><crit><field>ID</field><eval>IS</eval><data>09-03-03</data></crit></kind>
+		</chance>
+	</pack>
+</packdefinitions>

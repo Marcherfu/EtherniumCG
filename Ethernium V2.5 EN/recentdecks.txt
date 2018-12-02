@@ -1,0 +1,11 @@
+RECENTDECK0:archer_beast.dek
+RECENTDECK1:vampire_cthulhu.dek
+RECENTDECK2:moine_ramp.dek
+RECENTDECK3:necro_aggro_reanimate.dek
+RECENTDECK4:priest_burn_heal.dek
+RECENTDECK5:mage_aggro_fire_n_earth.dek
+RECENTDECK6:aggro_thief.dek
+RECENTDECK7:paladin_white_knight_wheenie.dek
+RECENTDECK8:priest_combo_control_healing.dek
+RECENTDECK9:full_neutral.dek
+RECENTDECK10:war_aggro.dek

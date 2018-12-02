@@ -1,28 +1,28 @@
-Name	Set	ImageFile	Type	Sub-Type	Cost	Attack	HPs	Text
-Spark	mage		Spell	Fire	1			Deal 2 damage to the target.
-Magic Student	mage		Monster		2	2	3	While this monster is in play, your spells deal 1 more damage.
-Yggdrasil's Roots	mage		Artifact	Yggdrasil	2			
-Yggdrasil's Leaves	mage		Artifact	Yggdrasil	2			
-Yggdrasil's Trunk	mage		Artifact	Yggdrasil	2			
-Yggdrasil's Sap	mage		Artifact	Yggdrasil	2			
-Yggdrasil's Fruits	mage		Artifact	Yggdrasil	2			
-Yggdrasil, the World Tree	mage		Spell	Yggdrasil	0			If you have 5 differents Artifacts with the "Yggdrasil" sub-type in play, discard them : the enemy player skip his next turn and all your spells that deal damages deals 2 more damages.
-Mental Shock	mage		Spell		3			Take the control of the targeted monster for this turn, you can attack with it.
-Arcane Professor	mage		Monster		4	3	4	Put the two spells of your choice from your discard to your hand.
-Fireball	mage		Spell	Fire	3			Deal 3 damage to the target.
-Midgard Researcher	mage		Monster		1	1	1	Search in your deck for a card with the "Yggdrasil" sub-type show it to your enemy and put it into your hand, then shuffle your deck.
-Goose Transformation	mage		Spell		2			Transform the targeted card into a 0/1 Goose Token. Flash. (Can be played from your hand at any time, as long as it's cost is paid)
-Pyromancer	mage		Monster	Fire	1	1	1	Search in your deck for a card with the "Fire" sub-type show it to your enemy and put it into your hand, then shuffle your deck.
-Cryomancer	mage		Monster	Ice	1	1	1	Search in your deck for a card with the "Ice" sub-type show it to your enemy and put it into your hand, then shuffle your deck.
-Lava Flow	mage		Spell	Fire	4			Deal 2 damage to all enemy monsters and their owners.
-Frost Trap	mage		Spell	Trap and Ice	3			At the moment an enney monster attack a target, you can cancel his attack and froze it. (A frozen monster can't attack on the next turn of his owner.)
-Stalagmite	mage		Spell	Ice	3			Deal 2 damage to a target and froze it if it's a monster. (A frozen monster can't attack on the next turn of his owner.)
-Frost Golem	mage		Monster	Ice	20	20	20	Cost 1 less to play for each card in play and each card with the "Ice" sub-type in your hand.
-Arcanic Research	mage		Spell		10			Draw 2 cards. Cost 1 less to play for each card in play.
-Blazing Summon	mage		Spell	Fire	9			Summon as many 1/1 Flamme Engeance Tokens with "Can't be returned to the hand. While this monster is in play, your spells deal 1 more damage." as number of cards with the "Fire" sub-type in your hand and in play. Cost 1 less to play for each card with the "Fire" sub-type in your hand.
-Icy Summon	mage		Spell	Ice	9			Summon as many 1/1 Frost Engeance Tokens with "Can't be returned to the hand. While this monster is in play, at the end of your turn you can target an opponent monster and freeze it. If there is no target avaliable for freezing, then destroy an opponent monster instead." as number of cards with the "Ice" sub-type in your hand and in play. Cost 1 less to play for each card with the "Ice" sub-type in your hand.
-Earth Summon	mage		Spell	Earth	9			Summon as many 1/1 Rock Engeance Tokens with "Can't be returned to the hand. While this monster is in play, reduce the recieved damages by 1." as number of cards with the "Earth" sub-type in your hand and in play. Cost 1 less to play for each card with the "Earth" sub-type in your hand.
-Geomancer	mage		Monster	Earth	1	1	1	Search in your deck for a card with the "Earth" sub-type show it to your enemy and put it into your hand, then shuffle your deck.
-Clay Golem Summon	mage		Spell	Earth	2			Summon 1 X/X Clay Golem Token with "Can't be returned to the hand. X is equal to the number of times you casted "Clay Golem Summon" in this game. Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)" Upgrade 5 : replace this spell in your hand. (You can pay the Upgrade cost instead of the original cost to benefits of the specified effect.) The original cost and upgrade cost 1 less to play for each card with the "Earth" sub-type in your hand and in play. The Upgrade cost can't be lower than 3.
-Clay Wall	mage		Monster	Earth	20	5	15	Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.) Cost 1 less to play for each card in your hand and each card with the "Earth" sub-type in play.
-Earthquake	mage		Spell	Earth	8			Deal X damages to all enemy monsters and their owners, X being equal to the number of times you casted the spell "Clay Golem Summon" in this game.
+Name	Set	ImageFile	Type	Sub-Type	Cost	Attack	HPs	Text	ID
+Spark	mage		Spell	Fire	1			Deal 2 damage to the target.	01-01-01
+Magic Student	mage		Monster		2	2	3	While this monster is in play, your spells deal 1 more damage.	01-01-02
+Yggdrasil's Roots	mage		Artifact	Yggdrasil	2				01-01-03
+Yggdrasil's Leaves	mage		Artifact	Yggdrasil	2				01-01-04
+Yggdrasil's Trunk	mage		Artifact	Yggdrasil	2				01-01-05
+Yggdrasil's Sap	mage		Artifact	Yggdrasil	2				01-01-06
+Yggdrasil's Fruits	mage		Artifact	Yggdrasil	2				01-01-07
+Yggdrasil, the World Tree	mage		Spell	Yggdrasil	0			If you have 5 differents Artifacts with the "Yggdrasil" sub-type in play, discard them : the enemy player skip his next turn and all your spells that deal damages deals 2 more damages.	01-01-08
+Mental Shock	mage		Spell		3			Take the control of the targeted monster for this turn, you can attack with it.	01-01-09
+Arcane Professor	mage		Monster		4	3	4	Put the two spells of your choice from your discard to your hand.	01-01-10
+Fireball	mage		Spell	Fire	3			Deal 3 damage to the target.	01-01-11
+Midgard Researcher	mage		Monster		1	1	1	Search in your deck for a card with the "Yggdrasil" sub-type show it to your enemy and put it into your hand, then shuffle your deck.	01-02-01
+Goose Transformation	mage		Spell		2			Transform the targeted card into a 0/1 Goose Token. Flash. (Can be played from your hand at any time, as long as it's cost is paid)	01-02-02
+Pyromancer	mage		Monster	Fire	1	1	1	Search in your deck for a card with the "Fire" sub-type show it to your enemy and put it into your hand, then shuffle your deck.	01-02-03
+Cryomancer	mage		Monster	Ice	1	1	1	Search in your deck for a card with the "Ice" sub-type show it to your enemy and put it into your hand, then shuffle your deck.	01-02-04
+Lava Flow	mage		Spell	Fire	4			Deal 2 damage to all enemy monsters and their owners.	01-02-05
+Frost Trap	mage		Spell	Trap and Ice	3			At the moment an enney monster attack a target, you can cancel his attack and froze it. (A frozen monster can't attack on the next turn of his owner.)	01-02-06
+Stalagmite	mage		Spell	Ice	3			Deal 2 damage to a target and froze it if it's a monster. (A frozen monster can't attack on the next turn of his owner.)	01-02-07
+Frost Golem	mage		Monster	Ice	20	20	20	Cost 1 less to play for each card in play and each card in your hand.	01-02-08
+Arcanic Research	mage		Spell		10			Draw 2 cards. Cost 1 less to play for each card in play.	01-02-09
+Blazing Summon	mage		Spell	Fire	7			Summon as many 1/1 Flamme Engeance Tokens with "Can't be returned to the hand. While this monster is in play, your spells deal 1 more damage." as number of cards with the "Fire" sub-type in your hand and in play. Cost 1 less to play for each card with the "Fire" sub-type in your hand.	01-02-10
+Icy Summon	mage		Spell	Ice	7			Summon as many 1/1 Frost Engeance Tokens with "Can't be returned to the hand. While this monster is in play, at the end of your turn you can target an opponent monster and freeze it. If there is no target avaliable for freezing, then destroy an opponent monster instead." as number of cards with the "Ice" sub-type in your hand and in play. Cost 1 less to play for each card with the "Ice" sub-type in your hand.	01-02-11
+Earth Summon	mage		Spell	Earth	7			Summon as many 1/1 Rock Engeance Tokens with "Can't be returned to the hand. While this monster is in play, reduce the recieved damages by 1." as number of cards with the "Earth" sub-type in your hand and in play. Cost 1 less to play for each card with the "Earth" sub-type in your hand.	01-03-01
+Geomancer	mage		Monster	Earth	1	1	1	Search in your deck for a card with the "Earth" sub-type show it to your enemy and put it into your hand, then shuffle your deck.	01-03-02
+Clay Golem Summon	mage		Spell	Earth	2			Summon 1 X/X Clay Golem Token with "Can't be returned to the hand. X is equal to the number of times you casted "Clay Golem Summon" in this game. Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.)" Upgrade 6 : replace this spell in your hand. (You can pay the Upgrade cost instead of the original cost to benefits of the specified effect.) The original cost and upgrade cost 1 less to play for each card with the "Earth" sub-type in your hand and in play. The Upgrade cost can't be lower than 4.	01-03-03
+Clay Wall	mage		Monster	Earth	10	5	5	Taunt. (If you want to attack the enemy player or another monster without taunt, you need to kill this one before.) Cost 1 less to play for each card in your hand and each card with the "Earth" sub-type in play.	01-03-04
+Earthquake	mage		Spell	Earth	13			Deal X damages to all enemy monsters and their owners, X being equal to the number of times you casted the spell "Clay Golem Summon" in this game. Cost 1 less to play for each time you casted the spell "Clay Golem Summon" in this game.	01-03-05

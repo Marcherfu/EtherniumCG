@@ -1,0 +1,101 @@
+<packdefinitions version="1.0">
+	<pack>
+		<packtitle>Warrior Draft Pack</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Warrior</packformat>
+		<packkind>Draft Pack</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Warrior</data></crit></kind>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Neutral</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Marksman Draft Pack</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Marksman</packformat>
+		<packkind>Draft Pack</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Marksman</data></crit></kind>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Neutral</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Mage Draft Pack</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Mage</packformat>
+		<packkind>Draft Pack</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Mage</data></crit></kind>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Neutral</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Necromancer Draft Pack</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Necromancer</packformat>
+		<packkind>Draft Pack</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Necromancer</data></crit></kind>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Neutral</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Vampire Draft Pack</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Vampire</packformat>
+		<packkind>Draft Pack</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Vampire</data></crit></kind>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Neutral</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Thief Draft Pack</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Thief</packformat>
+		<packkind>Draft Pack</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Thief</data></crit></kind>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Neutral</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Monk Draft Pack</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Monk</packformat>
+		<packkind>Draft Pack</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Monk</data></crit></kind>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Neutral</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Priest Draft Pack</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Priest</packformat>
+		<packkind>Draft Pack</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Priest</data></crit></kind>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Neutral</data></crit></kind>
+		</chance>
+	</pack>
+	<pack>
+		<packtitle>Paladin Draft Pack</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Paladin</packformat>
+		<packkind>Draft Pack</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Paladin</data></crit></kind>
+			<kind><qty>40</qty><crit><field>Set</field><eval>IS</eval><data>Neutral</data></crit></kind>
+		</chance>
+	</pack>
+</packdefinitions>

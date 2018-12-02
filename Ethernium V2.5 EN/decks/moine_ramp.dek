@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2_5 EN</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Acceleration</name><set>monk</set></card>
+		<card><name id="">Acceleration</name><set>monk</set></card>
+		<card><name id="">Acceleration</name><set>monk</set></card>
+		<card><name id="">Acceleration</name><set>monk</set></card>
+		<card><name id="">Focusing</name><set>monk</set></card>
+		<card><name id="">Focusing</name><set>monk</set></card>
+		<card><name id="">Focusing</name><set>monk</set></card>
+		<card><name id="">Focusing</name><set>monk</set></card>
+		<card><name id="">Meditation</name><set>monk</set></card>
+		<card><name id="">Meditation</name><set>monk</set></card>
+		<card><name id="">Meditation</name><set>monk</set></card>
+		<card><name id="">Meditation</name><set>monk</set></card>
+		<card><name id="">Spiritual Research</name><set>monk</set></card>
+		<card><name id="">Spiritual Research</name><set>monk</set></card>
+		<card><name id="">Spiritual Research</name><set>monk</set></card>
+		<card><name id="">Spiritual Research</name><set>monk</set></card>
+		<card><name id="">Bandit of the Sands</name><set>monk</set></card>
+		<card><name id="">Bandit of the Sands</name><set>monk</set></card>
+		<card><name id="">Bandit of the Sands</name><set>monk</set></card>
+		<card><name id="">Bandit of the Sands</name><set>monk</set></card>
+		<card><name id="">Time Manipulator</name><set>monk</set></card>
+		<card><name id="">Time Manipulator</name><set>monk</set></card>
+		<card><name id="">Time Manipulator</name><set>monk</set></card>
+		<card><name id="">Time Manipulator</name><set>monk</set></card>
+		<card><name id="">Prince of Time</name><set>monk</set></card>
+		<card><name id="">Prince of Time</name><set>monk</set></card>
+		<card><name id="">Prince of Time</name><set>monk</set></card>
+		<card><name id="">Prince of Time</name><set>monk</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Samurai Apprentice</name><set>monk</set></card>
+		<card><name id="">Samurai Apprentice</name><set>monk</set></card>
+		<card><name id="">Samurai Apprentice</name><set>monk</set></card>
+		<card><name id="">Samurai Apprentice</name><set>monk</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Master Samurai</name><set>monk</set></card>
+		<card><name id="">Master Samurai</name><set>monk</set></card>
+		<card><name id="">Master Samurai</name><set>monk</set></card>
+		<card><name id="">Master Samurai</name><set>monk</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">Verethragna</name><set>monk</set></card>
+		<card><name id="">Verethragna</name><set>monk</set></card>
+		<card><name id="">Verethragna</name><set>monk</set></card>
+		<card><name id="">Verethragna</name><set>monk</set></card>
+	</superzone>
+</deck>

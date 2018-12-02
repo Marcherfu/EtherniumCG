@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2_5 EN</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Strategist</name><set>neutral</set></card>
+		<card><name id="">Goblin Call</name><set>neutral</set></card>
+		<card><name id="">Goblin Call</name><set>neutral</set></card>
+		<card><name id="">Goblin Call</name><set>neutral</set></card>
+		<card><name id="">Goblin Call</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Wall</name><set>neutral</set></card>
+		<card><name id="">Goblin Wall</name><set>neutral</set></card>
+		<card><name id="">Goblin Wall</name><set>neutral</set></card>
+		<card><name id="">Goblin Wall</name><set>neutral</set></card>
+		<card><name id="">Goblin Shaman</name><set>neutral</set></card>
+		<card><name id="">Goblin Shaman</name><set>neutral</set></card>
+		<card><name id="">Goblin Shaman</name><set>neutral</set></card>
+		<card><name id="">Goblin Shaman</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Shot</name><set>neutral</set></card>
+		<card><name id="">Goblin Shot</name><set>neutral</set></card>
+		<card><name id="">Goblin Shot</name><set>neutral</set></card>
+		<card><name id="">Goblin Shot</name><set>neutral</set></card>
+		<card><name id="">Goblin Ambush</name><set>neutral</set></card>
+		<card><name id="">Goblin Ambush</name><set>neutral</set></card>
+		<card><name id="">Goblin Ambush</name><set>neutral</set></card>
+		<card><name id="">Goblin Ambush</name><set>neutral</set></card>
+		<card><name id="">Goblin Architect</name><set>neutral</set></card>
+		<card><name id="">Goblin Architect</name><set>neutral</set></card>
+		<card><name id="">Goblin Architect</name><set>neutral</set></card>
+		<card><name id="">Goblin Architect</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">War Chief Goblin</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">Goblin Princess</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">King of Goblins</name><set>neutral</set></card>
+		<card><name id="">Goblin Attack</name><set>neutral</set></card>
+		<card><name id="">Goblin Attack</name><set>neutral</set></card>
+		<card><name id="">Goblin Attack</name><set>neutral</set></card>
+		<card><name id="">Goblin Attack</name><set>neutral</set></card>
+	</superzone>
+</deck>

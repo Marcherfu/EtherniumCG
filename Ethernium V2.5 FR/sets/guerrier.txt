@@ -1,28 +1,28 @@
-Name	Set	ImageFile	Type	Sous-Type	Cout	Attaque	PVs	Texte
-Porte-Etendard	guerrier		Creature		1	2	1	Gagne +0/+1 si cette creature se fait attaquer par une creature adverse avec 1 d'attaque ou moins.
-Escrimeur	guerrier		Creature		2	3	1	Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)
-Lancier	guerrier		Creature		3	2	3	Provocation. (Si vous voulez attaquer le joueur adverse ou une creature sans provocation, vous devez en premier lieu vaincre cette creature)
-Garde Royal	guerrier		Creature		4	3	3	Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)
-Brigandin	guerrier		Creature		5	3	5	Celerite. (Peux attaquer des le tour ou cette carte est jouee)
-Plan B	guerrier		Sort		6			Piochez X cartes, X etant le nombre de creatures adverses en jeu. X ne peux pas etre en dessous de 1.
-Assaut Fatal	guerrier		Sort		7			Infligez X points de degats a la creature ciblee et recuperez XPVs, X etant le nombre de creatures alliees en jeu moins le nombre de creatures adverses en jeu. X ne peux pas etre en dessous de 1.
-Danse des Lames	guerrier		Sort		8			Toutes les creatures alliees en jeu gagnent +2/+0 jusqu'a la fin du tour. Coute 1 de moins a jouer pour chaque creature en jeu que vous controlez.
-Chevalier au Cygne	guerrier		Creature		9	6	7	Celerite. (Peux attaquer des le tour ou cette carte est jouee)
-Roland l'Immortel	guerrier		Creature		10	8	10	Si vous n'avez pas deja un Jeton Durandal, Epee Sacree en jeu, invoquez un Jeton Durandal, Epee Sacree. Dans le cas contraire, piochez deux cartes. Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)
-Vengeance Masquee	guerrier		Sort	Piege	5			Au moment ou une creature adverse attaque une cible, vous pouvez jouer gratuitement depuis votre main la creature de votre choix, la faire combattre a la place de la creature attaquee et la remettre dans votre main si elle ne meurt pas.
-Lancelot	guerrier		Creature		9	5	7	Sur le tour ou cette creature arrive en jeu, elle ne peux pas recevoir de degats et peux attaquer deux fois par tour. Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)
-Perceval	guerrier		Creature	Graal	8	1	6	Provocation. (Si vous voulez attaquer le joueur adverse ou une creature sans provocation, vous devez en premier lieu vaincre cette creature)
-Bohort	guerrier		Creature	Graal	7	4	4	Celerite. (Peux attaquer des le tour ou cette carte est jouee)
-Galahad	guerrier		Creature	Graal	6	5	7	Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)
-Quete du Saint Graal	guerrier		Sort		0			Si vous avez 3 creatures differentes en jeu avec le sous-type "Graal", invoquez un Jeton Route vers le Saint Graal si vous n'en avez pas deja un.
-Excalibur, l'Epee Legendaire	guerrier		Artefact		4			Tant que cet artefact est en jeu, inversez l'attaque et les PVs de toutes les creatures. Sacrifiez cet artefact au bout de 5 tours.
-Appat	guerrier		Sort		3			La creature adverse ciblee est obligee d'attaquer l'allie cible au prochain tour de l'adversaire.
-Trou	guerrier		Sort	Piege	2			Au moment ou une creature adverse attaque une cible, detruisez la creature adverse de votre choix.
-Keu	guerrier		Creature		4	1	2	Gagne +1/+1 pour chaque artefact en jeu.
-Gauvain	guerrier		Creature		6	5	7	Celerite. (Peux attaquer des le tour ou cette carte est jouee)
-Caradoc	guerrier		Creature		4	4	4	A chaque fois que cette creature recois des dommages elle gagne +1/+1. Provocation. (Si vous voulez attaquer le joueur adverse ou une creature sans provocation, vous devez en premier lieu vaincre cette creature)
-Merlin	guerrier		Creature		1	1	1	Cherchez dans votre deck une carte ayant le sous-type "Graal", montrez-la a votre adversaire et mettez-la dans votre main, melangez ensuite votre deck.
-Assaut	guerrier		Sort		3			Infligez 2 points de degats a la creature ciblee.
-Pluies de Fleches	guerrier		Sort	Piege	4			Au moment ou une creature adverse attaque une cible, infligez 3 points de degats a toutes les creatures adverses.
-Assassin	guerrier		Creature		2	2	1	Celerite. (Peux attaquer des le tour ou cette carte est jouee)
-Bourreau	guerrier		Creature		4	2	3	Celerite. (Peux attaquer des le tour ou cette carte est jouee)
+Name	Set	ImageFile	Type	Sous-Type	Cout	Attaque	PVs	Texte	ID
+Porte-Etendard	guerrier		Creature		1	2	1	Gagne +0/+1 si cette creature se fait attaquer par une creature adverse avec 1 d'attaque ou moins.	09-01-01
+Escrimeur	guerrier		Creature		2	3	1	Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)	09-01-02
+Lancier	guerrier		Creature		3	2	3	Provocation. (Si vous voulez attaquer le joueur adverse ou une creature sans provocation, vous devez en premier lieu vaincre cette creature)	09-01-03
+Garde Royal	guerrier		Creature		4	3	3	Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)	09-01-04
+Brigandin	guerrier		Creature		5	3	5	Celerite. (Peux attaquer des le tour ou cette carte est jouee)	09-01-05
+Plan B	guerrier		Sort		6			Piochez X cartes, X etant le nombre de creatures adverses en jeu. X ne peux pas etre en dessous de 1.	09-01-06
+Assaut Fatal	guerrier		Sort		7			Infligez X points de degats a la creature ciblee et recuperez XPVs, X etant le nombre de creatures alliees en jeu moins le nombre de creatures adverses en jeu. X ne peux pas etre en dessous de 1.	09-01-07
+Danse des Lames	guerrier		Sort		8			Toutes les creatures alliees en jeu gagnent +2/+0 jusqu'a la fin du tour. Coute 1 de moins a jouer pour chaque creature en jeu que vous controlez.	09-01-08
+Chevalier au Cygne	guerrier		Creature		9	6	7	Celerite. (Peux attaquer des le tour ou cette carte est jouee)	09-01-09
+Roland l'Immortel	guerrier		Creature		10	8	10	Si vous n'avez pas deja un Jeton Durandal, Epee Sacree en jeu, invoquez un Jeton Durandal, Epee Sacree. Dans le cas contraire, piochez deux cartes. Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)	09-01-10
+Vengeance Masquee	guerrier		Sort	Piege	5			Au moment ou une creature adverse attaque une cible, vous pouvez jouer gratuitement depuis votre main la creature de votre choix, la faire combattre a la place de la creature attaquee et la remettre dans votre main si elle ne meurt pas.	09-01-11
+Lancelot	guerrier		Creature		9	5	7	Sur le tour ou cette creature arrive en jeu, elle ne peux pas recevoir de degats et peux attaquer deux fois par tour. Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)	09-02-01
+Perceval	guerrier		Creature	Graal	8	1	6	Provocation. (Si vous voulez attaquer le joueur adverse ou une creature sans provocation, vous devez en premier lieu vaincre cette creature)	09-02-02
+Bohort	guerrier		Creature	Graal	7	4	4	Celerite. (Peux attaquer des le tour ou cette carte est jouee)	09-02-03
+Galahad	guerrier		Creature	Graal	6	5	7	Charge. (Peux attaquer une creature des le tour ou cette carte est jouee)	09-02-04
+Quete du Saint Graal	guerrier		Sort		0			Si vous avez 3 creatures differentes en jeu avec le sous-type "Graal", invoquez un Jeton Route vers le Saint Graal si vous n'en avez pas deja un.	09-02-05
+Excalibur, l'Epee Legendaire	guerrier		Artefact		4			Tant que cet artefact est en jeu, inversez l'attaque et les PVs de toutes les creatures. Sacrifiez cet artefact au bout de 5 tours.	09-02-06
+Appat	guerrier		Sort		3			La creature adverse ciblee est obligee d'attaquer l'allie cible au prochain tour de l'adversaire.	09-02-07
+Trou	guerrier		Sort	Piege	2			Au moment ou une creature adverse attaque une cible, detruisez la creature adverse de votre choix.	09-02-08
+Keu	guerrier		Creature		4	1	2	Gagne +1/+1 pour chaque artefact en jeu.	09-02-09
+Gauvain	guerrier		Creature		6	5	7	Celerite. (Peux attaquer des le tour ou cette carte est jouee)	09-02-10
+Caradoc	guerrier		Creature		4	4	4	A chaque fois que cette creature recois des dommages elle gagne +1/+1. Provocation. (Si vous voulez attaquer le joueur adverse ou une creature sans provocation, vous devez en premier lieu vaincre cette creature)	09-02-11
+Merlin	guerrier		Creature		1	1	1	Cherchez dans votre deck une carte ayant le sous-type "Graal", montrez-la a votre adversaire et mettez-la dans votre main, melangez ensuite votre deck.	09-03-01
+Assaut	guerrier		Sort		3			Infligez 2 points de degats a la creature ciblee.	09-03-02
+Pluies de Fleches	guerrier		Sort	Piege	4			Au moment ou une creature adverse attaque une cible, infligez 3 points de degats a toutes les creatures adverses.	09-03-03
+Assassin	guerrier		Creature		2	2	1	Celerite. (Peux attaquer des le tour ou cette carte est jouee)	09-03-04
+Bourreau	guerrier		Creature		4	2	3	Celerite. (Peux attaquer des le tour ou cette carte est jouee)	09-03-05

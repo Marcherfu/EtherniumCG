@@ -1,0 +1,12 @@
+<packdefinitions version="1.0">
+	<pack>
+		<packtitle>Booster</packtitle>
+		<packimage>cardback</packimage>
+		<packformat>Any</packformat>
+		<packkind>Booster Pack</packkind>
+		<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>10</qty><crit><field>Set</field><eval>DOESNTCONTAIN</eval><data>Token</data></crit></kind>
+		</chance>
+	</pack>
+</packdefinitions>

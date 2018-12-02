@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>marcherfuV2_5 EN</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Goblin Seeker</name><set>neutral</set></card>
+		<card><name id="">Pugilist</name><set>thief</set></card>
+		<card><name id="">Pugilist</name><set>thief</set></card>
+		<card><name id="">Pugilist</name><set>thief</set></card>
+		<card><name id="">Pugilist</name><set>thief</set></card>
+		<card><name id="">Pilferer</name><set>thief</set></card>
+		<card><name id="">Pilferer</name><set>thief</set></card>
+		<card><name id="">Pilferer</name><set>thief</set></card>
+		<card><name id="">Pilferer</name><set>thief</set></card>
+		<card><name id="">Poison Flask</name><set>thief</set></card>
+		<card><name id="">Poison Flask</name><set>thief</set></card>
+		<card><name id="">Poison Flask</name><set>thief</set></card>
+		<card><name id="">Poison Flask</name><set>thief</set></card>
+		<card><name id="">Mad Scientist</name><set>thief</set></card>
+		<card><name id="">Mad Scientist</name><set>thief</set></card>
+		<card><name id="">Mad Scientist</name><set>thief</set></card>
+		<card><name id="">Mad Scientist</name><set>thief</set></card>
+		<card><name id="">Laboratory Rat</name><set>thief</set></card>
+		<card><name id="">Laboratory Rat</name><set>thief</set></card>
+		<card><name id="">Laboratory Rat</name><set>thief</set></card>
+		<card><name id="">Laboratory Rat</name><set>thief</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Scout</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Hunter</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Goblin Fencer</name><set>neutral</set></card>
+		<card><name id="">Snake Trap</name><set>thief</set></card>
+		<card><name id="">Snake Trap</name><set>thief</set></card>
+		<card><name id="">Snake Trap</name><set>thief</set></card>
+		<card><name id="">Snake Trap</name><set>thief</set></card>
+		<card><name id="">Joker Copycat</name><set>thief</set></card>
+		<card><name id="">Joker Copycat</name><set>thief</set></card>
+		<card><name id="">Joker Copycat</name><set>thief</set></card>
+		<card><name id="">Joker Copycat</name><set>thief</set></card>
+		<card><name id="">Magic Mirror</name><set>thief</set></card>
+		<card><name id="">Magic Mirror</name><set>thief</set></card>
+		<card><name id="">Magic Mirror</name><set>thief</set></card>
+		<card><name id="">Magic Mirror</name><set>thief</set></card>
+		<card><name id="">Miscreant</name><set>thief</set></card>
+		<card><name id="">Miscreant</name><set>thief</set></card>
+		<card><name id="">Miscreant</name><set>thief</set></card>
+		<card><name id="">Miscreant</name><set>thief</set></card>
+		<card><name id="">On the run</name><set>thief</set></card>
+		<card><name id="">On the run</name><set>thief</set></card>
+		<card><name id="">On the run</name><set>thief</set></card>
+		<card><name id="">On the run</name><set>thief</set></card>
+		<card><name id="">Ambush</name><set>thief</set></card>
+		<card><name id="">Ambush</name><set>thief</set></card>
+		<card><name id="">Ambush</name><set>thief</set></card>
+		<card><name id="">Ambush</name><set>thief</set></card>
+	</superzone>
+</deck>

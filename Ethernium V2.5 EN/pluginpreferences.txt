@@ -15,6 +15,8 @@
 <canned>!Durandal, Sacred Sword Token!/spawn Durandal, Sacred Sword Token</canned>
 <canned>!Flamme Engeance Token!/spawn Flamme Engeance Token</canned>
 <canned>!Frost Engeance Token!/spawn Frost Engeance Token</canned>
+<canned>!Rock Engeance Token!/spawn Rock Engeance Token</canned>
+<canned>!Clay Golem Token!/spawn Clay Golem Token</canned>
 <canned>!Zombie Token!/spawn Zombie Token</canned>
 <canned>!Goblin Token!/spawn Goblin Token</canned>
 <canned>!Bat Token!/spawn Bat Token</canned>
@@ -24,8 +26,6 @@
 <canned>!Holy Grail Token!/spawn Holy Grail Token</canned>
 <canned>!Officer Token!/spawn Officer Token</canned>
 <canned>!Change Tilt!/tilt 0</canned>
-<canned>Coming...</canned>
-<canned>Coming...</canned>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>times.ttf</fontkind0pos1>
 <fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
@@ -55,7 +55,8 @@
 <bindingcanned6>CTRL+7</bindingcanned6>
 <bindingcanned7>CTRL+8</bindingcanned7>
 <bindingcanned8>CTRL+9</bindingcanned8>
-<recentformat>8</recentformat>
+<recentformat>-1</recentformat>
+<deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
 <scalefactor>0.690000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
