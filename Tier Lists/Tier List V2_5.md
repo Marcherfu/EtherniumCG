@@ -5,17 +5,16 @@ Voici la Tier-List Officielle d'Ethernium V2.5.
 Voleur - 19.5/20.   
 Prêtre - 19/20.   
 Mage - 19/20.   
-Moine - 15/20.   
    
 **Tier 2** - Des classes correctes, jouables dans la meta mais nécessitant un minimum de connaissance de la classe.   
+Moine - 15/20.   
 Archer - 14.5/20.   
 Vampire - 14.5/20.   
 Nécromancien - 14/20.   
-Paladin - 12/20.   
-Guerrier - 12/20.   
    
 **Tier 3** - Les pires classes du jeu, difficiles à jouer dans la meta.   
-Personne.   
+Paladin - 12/20.   
+Guerrier - 12/20.   
    
 =============================================================================   
    
@@ -26,14 +25,13 @@ Here's the Official Tier-List of Ethernium v2.5.
 Thief - 19.5/20.   
 Priest - 19/20.   
 Mage - 19/20.   
-Monk - 15/20.   
    
 **Tier 2** - Correct classes, playables in the meta but needing some knowledge of the class.   
+Monk - 15/20.   
 Marksman - 14.5/20.   
 Vampire - 14.5/20.   
 Necromancer - 14/20.   
-Paladin - 12/20.   
-Warrior - 12/20.   
    
 **Tier 3** - The worst classes in the game, hard to play in the actual meta.   
-Nobody.   
+Paladin - 12/20.   
+Warrior - 12/20.   
