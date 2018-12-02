@@ -1,2 +1,0 @@
-RECENTDECK0:moine_ramp.dek
-RECENTDECK1:archer_beast.dek
