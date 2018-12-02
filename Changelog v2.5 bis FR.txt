@@ -1,0 +1,32 @@
+Mage :
+	Buffs
+-Le Mur d'Argile coûte désormais 10 de moins à jouer.
+-Le Séisme coûte désormais 1 de moins à jouer pour chaque fois où vous avez lancé le sort "Invocation de Golem d'Argile" pendant la partie.
+-Les 3 sorts d'Invocations (Invocation Enflammée, Invocation Givrée et Invocation Tellurique) coûtent désormais 2 de moins à jouer.
+-Le Golem de Givre coûte désormais 1 de moins à jouer pour chaque carte dans votre main et chaque carte en jeu au lieu de chaque carte avec le sous-type Glace dans votre main et chaque carte en jeu.
+	Nerfs
+-Le Coût d'Amélioration du sort Invocation de Golem d'Argile passe à 6 (au lieu de 5) et ne peux pas être inférieur à 4. (au lieu de 3)
+-Le Mur d'Argile perds 10PVs.
+-Le Séisme coûte 5 de plus à jouer.
+	Explications
+Je vais être honnête : le Mage est une classe difficile à équilibrer. J'espère que cette fois elle sera juste "bien" et pas à nouveau une classe top tier dominant la meta (comme elle l'a été depuis la première version du jeu...) ; donc ce que j'ai fais simplement c'est rajouter du soutien à des mauvaises cartes et nerf l'Amélioration d'une carte bien trop puissante : l'Invocation de Golem d'Argile. Lui permettre d'être lancé et remis en main dès le Tour 3 était bien trop puissant donc je l'ai nerfé pour le retarder d'un tour, offrant plus d'options de counterplay à ça en early game.
+
+Prêtre :
+	Buffs
+-Le sort Régénération fait désormais piocher 2 cartes si vous le lancez sur une créature au lieu de 1 ; il coûte également 1 de moins à jouer.
+-Le sort Reconsitution inflige désormais également la moitié des dégâts (arrondi à l'inférieur) au propriétaire de la créature Zombie si une créature avec le sous-type Zombie est ciblée.
+	Nerfs
+-Le Dieu de la Dévotion coûte désormais 5 de plus à jouer et peux désormais être Transformé et Détruit directement. (il ne peux toujours pas être blessé)
+-Le sort Régénération donne désormais à un joueur pas 3 Marqueurs Régénération mais 2.
+-Le X dans le sort Reconsitution est désormais égal au nombre de créatures en jeu et non pas au nombre de cartes en jeu.
+	Explications
+Un Prêtre qui a une bonne pioche ne peux pas perdre, donc il ne peux que gagner la plupart du temps. J'aime bien le fait que ce soit un point important du Prêtre mais c'est un peu trop broken actuellement. Donc désormais le Dieu de la Dévotion aura besoin de plus de soins et le soin est un peu nerfé pour forcer le Prêtre à prendre un peu plus de temps et pas à juste faire du Turbo-soin into un Dieu de la Dévotion très early. J'ai aussi rajouté un peu plus de counterplay au Dieu, permettant à plus de classes de l'éliminer et pas seulement les classes ayant quelques effets de banissement.
+
+Voleur :
+	Buffs
+-Le Chapardeur possède désormais Combo 2. (En jouant cette carte vous pouvez jouer un nombre infini de cartes supplementaires sans payer leur cout en mana tant que le cout total en mana de toutes ces cartes ne depasse pas 2.) au lieu de Combo 1 et inflige 2 dégâts au lieu d'un quand il est joué pendant une capacité de Combo.
+	Nerfs
+-Le Chapardeur coûte désormais 1 de plus à jouer.
+-Le Copieur Farceur invoque désormais 1 seule copie au lieu de 2 quand il est joué depuis une capacité de Combo.
+	Explications
+Les decks Voleurs étaient des decks étranges avant la v2.5, portés uniquement par un archétype très dépendant de la pioche. (Voleur Déminage) Donc la dernière fois que j'ai rajouté des cartes et que j'ai effectué un changement sur l'équilibrage, j'ai réfléchis au sujet d'Aggro Voleur et j'ai fais quelques trucs pour aider cet archétype à briller. Quelle grosse erreur... Le résultat fut que Aggro Voleur est persque devenu un potentiel deck Tier 0. (bien entendu il n'était pas réellement un Vrai T0 mais il était quand même bien trop puissant pour le metagame) Donc maintenant, je règle tout ça : avoir l'option de flood le terrain avec 8 1/1 + une 1/2 tout en mettant 4 de dégâts dans la face + en piochant 5 cartes et tout ça au Tour 1 était juste ridiculement broken. J'ai réglé ça en rendant injouable au Tour 1 le Chapardeur, le rendant également un peu plus tricky à utiliser dans une capacité de Combo.
