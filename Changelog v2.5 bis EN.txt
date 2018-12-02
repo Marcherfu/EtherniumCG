@@ -17,7 +17,7 @@ Priest :
 -The Reconstitution spell now also deal half the damages (rounded down) to the owner of the Zombie monster if a Zombie monster is targeted with this effect.
 	Nerfs
 -God of Devotion now cost 5 more to play and he can be Transformed & directly Destroyed. (still can't be Injured)
--The Recovery spell now gives to a played not 3 Recovery Counters but 2.
+-The Recovery spell now gives to a player not 3 Recovery Counters but 2.
 -The X in the Reconstitution spell is now equal to the number of monsters in play and not the number of cards in play.
 	Explanations
 A Priest who have a good draw can't lose, so he can only win most of the time. I like this being a thing in Priest but it's a little bit too much broken actually. So now the God of Devotion need more healing and the healing is nerfed down to force the Priest to take some time and not just do some Turbo-healing into a very early God of Devotion. I also added more counterplay to the God, allowing more classes to shut him down and not only classes who had some Banish effect.
