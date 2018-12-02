@@ -3,12 +3,12 @@ Heal	priest		Spell		1			Recover 1HP to the target. If the target have the "Zombi
 High Priest	priest		Monster		2	1	2	Recover 2HPs to the target. If the target have the "Zombie" sub-type, banish it instead.	06-01-02
 Temple of Calamity	priest		Artifact		3			While it's your turn and this card is in play, every monster in play deal damages equal to their HPs instead of their Attack. This card stay in play 3 turns.	06-01-03
 Crazy Priest	priest		Monster		4	3	4	Banish a monster with 2HPs or less.	06-01-04
-Recovery	priest		Spell		5			If the target of this spell is a player, give it 3 Recovery Counters. (At the start of the turn of this player, he gain as many HPs as the number of Recovery Counter he have then lose one.) If the target of this spell is a monster without the "Zombie" sub-type, fully recover his HPs and draw a card. If the target of this spell is a monster with the "Zombie" sub-type, banish it and draw a card.	06-01-05
+Recovery	priest		Spell		4			If the target of this spell is a player, give it 2 Recovery Counters. (At the start of the turn of this player, he gain as many HPs as the number of Recovery Counter he have then lose one.) If the target of this spell is a monster without the "Zombie" sub-type, fully recover his HPs and draw 2 cards. If the target of this spell is a monster with the "Zombie" sub-type, banish it and draw 2 cards.	06-01-05
 Bad Eye	priest		Spell		6			Draw 3 cards then discard 3 cards of your hand.	06-01-06
 Priest of the Destruction	priest		Monster		2	0	1	Each time you recover any amount of HP, deal X damages to the enemy player, X being the number of HP recovered.	06-01-07
 Wrath of God	priest		Spell		8			Banish all monsters and all artifacts in play. This spell can't be countered.	06-01-08
 Zeus' Lightning	priest		Spell		4			Deal 2 damages to the targeted monster and each copy of this monster in play. If it's sub-type is the "Zombie" sub-type, banish it and each copy of it in play instead.	06-01-09
-Reconstitution	priest		Spell		8			Recover X HPs to the target, X being the number of cards in play. If it's sub-type is the "Zombie" sub-type, deal X damages instead.	06-01-10
+Reconstitution	priest		Spell		8			Recover X HPs to the target, X being the number of monsters in play. If it's sub-type is the "Zombie" sub-type, deal X damages to hit and half (rounded down) to his owner instead.	06-01-10
 Choral Child	priest		Monster		3	2	4	Deal X damage to the target, X being the number of enemy's cards in his banned pile.	06-01-11
 Templar	priest		Monster		2	1	3	Celerity. (Can attack the turn this card is played)	06-02-01
 Devoted Fanatic	priest		Monster		5	0	1	Devotion 2 : Deal 1 damage to the target. (Pay 2 Mana Points and discard 2 cards from your hand to activate this effect.)	06-02-02
@@ -24,5 +24,5 @@ Temple of Devotion	priest		Artifact		5			Devotion 5 : Destroy targeted artifact.
 Devoted Doctor	priest		Monster		1	1	1	Search in your deck for a card who heal, give HPs or give Recovery Counters, show it to your enemy and put it into your hand, then shuffle your deck.	06-03-01
 Disease	priest		Spell		5			Put 3 cards of your hand at the top of your deck then shuffle your deck, deal yourself 3 damages, then draw 4 cards.	06-03-02
 Unhealthy Draw	priest		Spell		4			Choose one : Draw 3 cards and deal yourself 2 damages or deal 3 damages to the player of your choice and he draw 2 cards.	06-03-03
-God of Devotion	priest		Monster		35	10	10	Banish X enemy cards in play of your choice, X being the number of HPs you have. Can't be injured, destroyed or transformed. Cost 1 less to play for each HP you have.	06-03-04
+God of Devotion	priest		Monster		40	10	10	Banish X enemy cards in play of your choice, X being the number of HPs you have. Can't be injured. Cost 1 less to play for each HP you have.	06-03-04
 Banishment	priest		Spell		3			Banish the monster of your choice with 2HPs or less.	06-03-05

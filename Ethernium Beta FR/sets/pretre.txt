@@ -3,12 +3,12 @@ Soin	pretre		Sort		1			Rends 1PV a la cible. Si son sous-type est le sous-type Z
 Pretre de la Cour	pretre		Creature		2	1	2	Rends 2PVs a la cible. Si son sous-type est le sous-type Zombie, bannissez-la a la place.	06-01-02
 Temple de la Calamite	pretre		Artefact		3			Tant que c'est votre tour, toutes les creatures en jeu infligent des degats en fonction de leurs PVs. Cette carte reste en jeu pendant 3 tours.	06-01-03
 Cure Cingle	pretre		Creature		4	3	4	Bannis une creature avec 2 PVs ou moins.	06-01-04
-Regeneration	pretre		Sort		5			Si la cible du sort est un joueur, lui donne 3 Marqueurs Regeneration. (Au debut du tour de ce joueur, il gagne autant de PVs que de marqueurs regeneration qu'il possede et en perds un.) Si la cible du sort est une creature n'ayant pas le sous-type "Zombie", lui rends tout ses PVs et piochez une carte. Si la cible du sort est une creature ayant le sous-type "Zombie", bannissez-la et piochez une carte.	06-01-05
+Regeneration	pretre		Sort		4			Si la cible du sort est un joueur, lui donne 2 Marqueurs Regeneration. (Au debut du tour de ce joueur, il gagne autant de PVs que de marqueurs regeneration qu'il possede et en perds un.) Si la cible du sort est une creature n'ayant pas le sous-type "Zombie", lui rends tout ses PVs et piochez 2 cartes. Si la cible du sort est une creature ayant le sous-type "Zombie", bannissez-la et piochez 2 cartes.	06-01-05
 Mauvais Oeil	pretre		Sort		6			Piochez 3 cartes, defaussez-vous ensuite de 3 cartes.	06-01-06
 Pretre de la Destruction	pretre		Creature		2	0	1	A chaque fois que vous recuperez des points de vie, infligez autant de degats au joueur adverse que de PVs soignes.	06-01-07
 Colere de Dieu	pretre		Sort		8			Bannissez toutes les creatures et tout les artefacts en jeu. Ce sort ne peux pas etre contre-carre.	06-01-08
 Eclair de Zeus	pretre		Sort		4			Infligez 2 points de degats a la creature ciblee et a chaque copie de cette creature en jeu. Si son sous-type est le sous-type Zombie, bannissez-les a la place.	06-01-09
-Reconstitution	pretre		Sort		8			Rends X PVs a la cible, X etant le nombre de cartes en jeu. Si son sous-type est le sous-type Zombie, lui inflige X degats a la place.	06-01-10
+Reconstitution	pretre		Sort		8			Rends X PVs a la cible, X etant le nombre de creatures en jeu. Si son sous-type est le sous-type Zombie, lui inflige X degats a la place et inflige egalement au proprietaire de la creature la moitiee des degats subits. (arrondis a l'inferieur)	06-01-10
 Enfant de Choeur	pretre		Creature		3	2	4	Inflige X points de degats a la cible, X etant le nombre de cartes adverses bannies.	06-01-11
 Templier	pretre		Creature		2	1	3	Celerite. (Peux attaquer des le tour ou cette carte est jouee)	06-02-01
 Fanatique Devoue	pretre		Creature		5	0	1	Devotion 2 : Infligez 1 point de degat a la cible. (Payez 2 Points de Mana et defaussez-vous de 2 cartes de votre main pour activer cet effet.)	06-02-02
@@ -24,5 +24,5 @@ Temple de la Devotion	 pretre		Artefact		5			Devotion 5 : Detruisez l'artefact c
 Medecin Devoue	pretre		Creature		1	1	1	Cherchez dans votre deck une carte effectuant un effet de gain de PV, de recuperation de PV ou de gain de Marqueur Regeneration, montrez-la a votre adversaire et mettez-la dans votre main, melangez ensuite votre deck.	06-03-01
 Maladie	pretre		Sort		5			Mettez 3 cartes de votre main au dessus de votre deck puis melangez votre deck, infligez vous 3 points de degats, puis piochez 4 cartes.	06-03-02
 Pioche Malsaine	pretre		Sort		4			Choisissez l'un : Piochez 3 cartes et infligez vous 2 points de degats ou infligez 3 points de degats au joueur de votre choix et il pioche 2 cartes.	06-03-03
-Dieu de la Devotion	pretre		Creature		35	10	10	Banissez X cartes adverses en jeu au choix, X etant le nombre de PVs que vous possedez. Ne peux etre blessee, detruite ou transformee. Coute 1 de moins a jouer pour chaque PV que vous possedez.	06-03-04
+Dieu de la Devotion	pretre		Creature		40	10	10	Banissez X cartes adverses en jeu au choix, X etant le nombre de PVs que vous possedez. Ne peux etre blesse. Coute 1 de moins a jouer pour chaque PV que vous possedez.	06-03-04
 Banissement	pretre		Sort		3			Banissez la creature de votre choix avec 2 PVs ou moins.	06-03-05
