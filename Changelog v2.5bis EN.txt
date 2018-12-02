@@ -1,4 +1,4 @@
-Mage :
+Mage:
 	Buffs
 -The Clay Wall now cost 10 less to play.
 -The Earthquake now cost 1 less to play for each time you casted the "Clay Golem Summon" spell during the game.
