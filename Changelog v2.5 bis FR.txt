@@ -1,32 +1,32 @@
-Mage :
+Mage:
 	Buffs
--Le Mur d'Argile coûte désormais 10 de moins à jouer.
--Le Séisme coûte désormais 1 de moins à jouer pour chaque fois où vous avez lancé le sort "Invocation de Golem d'Argile" pendant la partie.
--Les 3 sorts d'Invocations (Invocation Enflammée, Invocation Givrée et Invocation Tellurique) coûtent désormais 2 de moins à jouer.
--Le Golem de Givre coûte désormais 1 de moins à jouer pour chaque carte dans votre main et chaque carte en jeu au lieu de chaque carte avec le sous-type Glace dans votre main et chaque carte en jeu.
+-Le Mur d'Argile coÃ»te dÃ©sormais 10 de moins Ã  jouer.
+-Le SÃ©isme coÃ»te dÃ©sormais 1 de moins Ã  jouer pour chaque fois oÃ¹ vous avez lancÃ© le sort "Invocation de Golem d'Argile" pendant la partie.
+-Les 3 sorts d'Invocations (Invocation EnflammÃ©e, Invocation GivrÃ©e et Invocation Tellurique) coÃ»tent dÃ©sormais 2 de moins Ã  jouer.
+-Le Golem de Givre coÃ»te dÃ©sormais 1 de moins Ã  jouer pour chaque carte dans votre main et chaque carte en jeu au lieu de chaque carte avec le sous-type Glace dans votre main et chaque carte en jeu.
 	Nerfs
--Le Coût d'Amélioration du sort Invocation de Golem d'Argile passe à 6 (au lieu de 5) et ne peux pas être inférieur à 4. (au lieu de 3)
+-Le CoÃ»t d'AmÃ©lioration du sort Invocation de Golem d'Argile passe Ã  6 (au lieu de 5) et ne peux pas Ãªtre infÃ©rieur Ã  4. (au lieu de 3)
 -Le Mur d'Argile perds 10PVs.
--Le Séisme coûte 5 de plus à jouer.
+-Le SÃ©isme coÃ»te 5 de plus Ã  jouer.
 	Explications
-Je vais être honnête : le Mage est une classe difficile à équilibrer. J'espère que cette fois elle sera juste "bien" et pas à nouveau une classe top tier dominant la meta (comme elle l'a été depuis la première version du jeu...) ; donc ce que j'ai fais simplement c'est rajouter du soutien à des mauvaises cartes et nerf l'Amélioration d'une carte bien trop puissante : l'Invocation de Golem d'Argile. Lui permettre d'être lancé et remis en main dès le Tour 3 était bien trop puissant donc je l'ai nerfé pour le retarder d'un tour, offrant plus d'options de counterplay à ça en early game.
+Je vais Ãªtre honnÃªte : le Mage est une classe difficile Ã  Ã©quilibrer. J'espÃ¨re que cette fois elle sera juste "bien" et pas Ã  nouveau une classe top tier dominant la meta (comme elle l'a Ã©tÃ© depuis la premiÃ¨re version du jeu...) ; donc ce que j'ai fais simplement c'est rajouter du soutien Ã  des mauvaises cartes et nerf l'AmÃ©lioration d'une carte bien trop puissante : l'Invocation de Golem d'Argile. Lui permettre d'Ãªtre lancÃ© et remis en main dÃ¨s le Tour 3 Ã©tait bien trop puissant donc je l'ai nerfÃ© pour le retarder d'un tour, offrant plus d'options de counterplay Ã  Ã§a en early game.
 
-Prêtre :
+PrÃªtre :
 	Buffs
--Le sort Régénération fait désormais piocher 2 cartes si vous le lancez sur une créature au lieu de 1 ; il coûte également 1 de moins à jouer.
--Le sort Reconsitution inflige désormais également la moitié des dégâts (arrondi à l'inférieur) au propriétaire de la créature Zombie si une créature avec le sous-type Zombie est ciblée.
+-Le sort RÃ©gÃ©nÃ©ration fait dÃ©sormais piocher 2 cartes si vous le lancez sur une crÃ©ature au lieu de 1 ; il coÃ»te Ã©galement 1 de moins Ã  jouer.
+-Le sort Reconsitution inflige dÃ©sormais Ã©galement la moitiÃ© des dÃ©gÃ¢ts (arrondi Ã  l'infÃ©rieur) au propriÃ©taire de la crÃ©ature Zombie si une crÃ©ature avec le sous-type Zombie est ciblÃ©e.
 	Nerfs
--Le Dieu de la Dévotion coûte désormais 5 de plus à jouer et peux désormais être Transformé et Détruit directement. (il ne peux toujours pas être blessé)
--Le sort Régénération donne désormais à un joueur pas 3 Marqueurs Régénération mais 2.
--Le X dans le sort Reconsitution est désormais égal au nombre de créatures en jeu et non pas au nombre de cartes en jeu.
+-Le Dieu de la DÃ©votion coÃ»te dÃ©sormais 5 de plus Ã  jouer et peux dÃ©sormais Ãªtre TransformÃ© et DÃ©truit directement. (il ne peux toujours pas Ãªtre blessÃ©)
+-Le sort RÃ©gÃ©nÃ©ration donne dÃ©sormais Ã  un joueur pas 3 Marqueurs RÃ©gÃ©nÃ©ration mais 2.
+-Le X dans le sort Reconsitution est dÃ©sormais Ã©gal au nombre de crÃ©atures en jeu et non pas au nombre de cartes en jeu.
 	Explications
-Un Prêtre qui a une bonne pioche ne peux pas perdre, donc il ne peux que gagner la plupart du temps. J'aime bien le fait que ce soit un point important du Prêtre mais c'est un peu trop broken actuellement. Donc désormais le Dieu de la Dévotion aura besoin de plus de soins et le soin est un peu nerfé pour forcer le Prêtre à prendre un peu plus de temps et pas à juste faire du Turbo-soin into un Dieu de la Dévotion très early. J'ai aussi rajouté un peu plus de counterplay au Dieu, permettant à plus de classes de l'éliminer et pas seulement les classes ayant quelques effets de banissement.
+Un PrÃªtre qui a une bonne pioche ne peux pas perdre, donc il ne peux que gagner la plupart du temps. J'aime bien le fait que ce soit un point important du PrÃªtre mais c'est un peu trop broken actuellement. Donc dÃ©sormais le Dieu de la DÃ©votion aura besoin de plus de soins et le soin est un peu nerfÃ© pour forcer le PrÃªtre Ã  prendre un peu plus de temps et pas Ã  juste faire du Turbo-soin into un Dieu de la DÃ©votion trÃ¨s early. J'ai aussi rajoutÃ© un peu plus de counterplay au Dieu, permettant Ã  plus de classes de l'Ã©liminer et pas seulement les classes ayant quelques effets de banissement.
 
 Voleur :
 	Buffs
--Le Chapardeur possède désormais Combo 2. (En jouant cette carte vous pouvez jouer un nombre infini de cartes supplementaires sans payer leur cout en mana tant que le cout total en mana de toutes ces cartes ne depasse pas 2.) au lieu de Combo 1 et inflige 2 dégâts au lieu d'un quand il est joué pendant une capacité de Combo.
+-Le Chapardeur possÃ¨de dÃ©sormais Combo 2. (En jouant cette carte vous pouvez jouer un nombre infini de cartes supplementaires sans payer leur cout en mana tant que le cout total en mana de toutes ces cartes ne depasse pas 2.) au lieu de Combo 1 et inflige 2 dÃ©gÃ¢ts au lieu d'un quand il est jouÃ© pendant une capacitÃ© de Combo.
 	Nerfs
--Le Chapardeur coûte désormais 1 de plus à jouer.
--Le Copieur Farceur invoque désormais 1 seule copie au lieu de 2 quand il est joué depuis une capacité de Combo.
+-Le Chapardeur coÃ»te dÃ©sormais 1 de plus Ã  jouer.
+-Le Copieur Farceur invoque dÃ©sormais 1 seule copie au lieu de 2 quand il est jouÃ© depuis une capacitÃ© de Combo.
 	Explications
-Les decks Voleurs étaient des decks étranges avant la v2.5, portés uniquement par un archétype très dépendant de la pioche. (Voleur Déminage) Donc la dernière fois que j'ai rajouté des cartes et que j'ai effectué un changement sur l'équilibrage, j'ai réfléchis au sujet d'Aggro Voleur et j'ai fais quelques trucs pour aider cet archétype à briller. Quelle grosse erreur... Le résultat fut que Aggro Voleur est persque devenu un potentiel deck Tier 0. (bien entendu il n'était pas réellement un Vrai T0 mais il était quand même bien trop puissant pour le metagame) Donc maintenant, je règle tout ça : avoir l'option de flood le terrain avec 8 1/1 + une 1/2 tout en mettant 4 de dégâts dans la face + en piochant 5 cartes et tout ça au Tour 1 était juste ridiculement broken. J'ai réglé ça en rendant injouable au Tour 1 le Chapardeur, le rendant également un peu plus tricky à utiliser dans une capacité de Combo.
+Les decks Voleurs Ã©taient des decks Ã©tranges avant la v2.5, portÃ©s uniquement par un archÃ©type trÃ¨s dÃ©pendant de la pioche. (Voleur DÃ©minage) Donc la derniÃ¨re fois que j'ai rajoutÃ© des cartes et que j'ai effectuÃ© un changement sur l'Ã©quilibrage, j'ai rÃ©flÃ©chis au sujet d'Aggro Voleur et j'ai fais quelques trucs pour aider cet archÃ©type Ã  briller. Quelle grosse erreur... Le rÃ©sultat fut que Aggro Voleur est persque devenu un potentiel deck Tier 0. (bien entendu il n'Ã©tait pas rÃ©ellement un Vrai T0 mais il Ã©tait quand mÃªme bien trop puissant pour le metagame) Donc maintenant, je rÃ¨gle tout Ã§a : avoir l'option de flood le terrain avec 8 1/1 + une 1/2 tout en mettant 4 de dÃ©gÃ¢ts dans la face + en piochant 5 cartes et tout Ã§a au Tour 1 Ã©tait juste ridiculement broken. J'ai rÃ©glÃ© Ã§a en rendant injouable au Tour 1 le Chapardeur, le rendant Ã©galement un peu plus tricky Ã  utiliser dans une capacitÃ© de Combo.
