@@ -1,4 +1,4 @@
-Mage:
+Mage :
 	Buffs
 -Le Mur d'Argile coûte désormais 10 de moins à jouer.
 -Le Séisme coûte désormais 1 de moins à jouer pour chaque fois où vous avez lancé le sort "Invocation de Golem d'Argile" pendant la partie.
