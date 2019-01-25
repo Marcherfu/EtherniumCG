@@ -59,9 +59,9 @@ New type of Counter : the Recover Counters, they're the exact opposite of the Po
 114 new cards added.  
   
 ### Changelog V2 Bis
-Rajout de la version Anglaise ! Toutes les V2 Françaises du plugin doivent être renommées "Ethernium V2 FR". La version FR et la version EN ne sont malheureusement pas compatibles.  
+Rajout de la version Anglaise ! Toutes les versions V2 Françaises du plugin doivent être renommées "Ethernium V2 FR". La version FR et la version EN ne sont malheureusement pas compatibles.  
   
-English version added ! Every French V2 of the plugin need to be renamed to "Ethernium V2 FR". The FR and the EN versions aren't compatible sadly.  
+English version added ! Every French V2 version of the plugin need to be renamed to "Ethernium V2 FR". The FR and the EN versions aren't compatible sadly.  
   
 ### Changelog V2.5
 52 nouvelles cartes rajoutées.  
