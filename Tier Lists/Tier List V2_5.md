@@ -1,4 +1,4 @@
-Voici la Tier-List Officielle d'Ethernium V2.5.   
+Voici la Tier-List Officielle d'Ethernium V2.5. (pas la V2.5 bis, la TL pour la V2.5 bis arrive bientôt)   
 **Veuillez bien prendre en compte que la nature de cette Tier List n'est que le fruit de recherches stratégiques réalisées seul et qu'elle n'est peut-être, voir pas du tout, véridique. Je n'ai pu faire que de cette manière là du au manque d'activitée sur le jeu.**   
    
 **Tier 1** - Les meilleures classes du jeu, dominants la meta.   
@@ -18,7 +18,7 @@ Guerrier - 12/20.
    
 =============================================================================   
    
-Here's the Official Tier-List of Ethernium v2.5.   
+Here's the Official Tier-List of Ethernium v2.5. (not the V2.5 bis one, the TL for the V2.5 bis is coming soon)   
 **Take in consideration that the nature of this Tier List is only coming from my strategic researchs being alone and this Tier List is, probably, not exactly true. I couldn't do it in another way due to lack of activity on the game.**   
    
 **Tier 1** - The best classes of the game, dominating the meta.   
