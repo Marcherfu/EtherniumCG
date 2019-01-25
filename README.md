@@ -82,6 +82,6 @@ In depth balance changes explained here :
 https://raw.githubusercontent.com/Marcherfu/EtherniumCG/master/Changelog%20v2.5bisEN.txt  
   
 ### Contact
-Vous pouvez me contacter sur le discord du jeu qui est le suivant : https://discord.gg/fT4MBJ9. Je compte bien y organiser de temps à autre des matchs de rating pour créer une sorte de ladder ainsi que des tournois en Bo3 3 Decks/1 Ban.  
+Vous pouvez me contacter sur le discord du jeu qui est le suivant : https://discordapp.com/invite/fT4MBJ9. Je compte bien y organiser de temps à autre des matchs de rating pour créer une sorte de ladder ainsi que des tournois en Bo3 3 Decks/1 Ban.  
   
-You can contact me on the discord of my game which is the following : https://discord.gg/fT4MBJ9. I will occasionally organize rating matches to create a kind of ladder as well as tournaments in Bo3 3 Decks/1 Ban.
+You can contact me on the discord of my game which is the following : https://discordapp.com/invite/fT4MBJ9. I will occasionally organize rating matches to create a kind of ladder as well as tournaments in Bo3 3 Decks/1 Ban.
