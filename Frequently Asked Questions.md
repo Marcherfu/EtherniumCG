@@ -3,7 +3,7 @@ https://github.com/Marcherfu/EtherniumCG/blob/master/README.md
 **Lien de téléchargement de Lackey :**   
 http://lackeyccg.com/downloads.html   
 **Lien de téléchargement d'Ethernium :**   
-https://github.com/Marcherfu/EtherniumCG/releases (12 Octobre 2018)   
+https://github.com/Marcherfu/EtherniumCG/releases (2 Décembre 2018)   
 **Méthode d'Installation :**   
 Installez Lackey.   
 Téléchargez les fichiers d'Ethernium.   
@@ -26,7 +26,7 @@ https://github.com/Marcherfu/EtherniumCG/blob/master/README.md
 **Download link of Lackey :**   
 http://lackeyccg.com/downloads.html   
 **Download link of Ethernium :**   
-https://github.com/Marcherfu/EtherniumCG/releases (12 October 2018)   
+https://github.com/Marcherfu/EtherniumCG/releases (2 December 2018)   
 **How to Install it :**   
 Install Lackey.   
 Download the files of Ethernium.   
