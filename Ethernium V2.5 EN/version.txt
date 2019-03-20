@@ -1,0 +1,8 @@
+<version>
+
+<lastupdateYYMMDD>190319</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/Marcherfu/EtherniumCG/master/Ethernium%20V2.5%20EN/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/Marcherfu/EtherniumCG/master/Ethernium%20V2.5%20EN/updatelist.txt</updateurl>
+<message>Testing the auto-update and install system.</message>
+
+</version>
