@@ -17,7 +17,7 @@ Putrefaction	necromancer		Spell		2			Search in your deck for two monsters of you
 Abomination	necromancer		Monster	Zombie	5	0	5	While this card is in play, each time a player gain or lose at 1 HPs, the player of your choice discard the 2 cards at the top of his deck.	04-02-05
 Invasion of Zombies	necromancer		Spell		7			Deal X damage to the target, X being the number of monster with the "Zombie" sub-type in play.	04-02-06
 Morbid Duplication	necromancer		Spell		8			Summon X 1/1 Zombie Token with the "Zombie" sub-type, X being the number of monsters with the "Zombie" sub-type in play. All the Tokens generated this way gain Celerity. (Can attack the turn this card is played)	04-02-07
-Taboos search	necromancer		Spell		3			Banish two card from your discard pile, draw two cards.	04-02-08
+Taboos search	necromancer		Spell		3			Banishment 2 : draw two cards. (Banish 2 cards of your choice from your discard zone to activate this effect)	04-02-08
 Contaminated Food	necromancer		Artifact		4			While this card is in play, each time a monster with the "Zombie" sub-type attack another mosnter, if the attacked monster didn't had the "Zombie" sub-type, it gain the "Zombie" sub-type in addition to its other sub-types.	04-02-09
 Trip Beyond the Grave	necromancer		Artifact		6			While this card is in play, each time you play a monster with the "Zombie" sub-type, put in play from your discard pile a monster with the "Zombie" sub-type of your choice.	04-02-10
 Degeneration	necromancer		Spell		13			The targeted player discard the top X cards of his deck, X being the number of monster with the "Zombie" sub-type in play. Cost 1 less to play for each monster with the "Zombie" sub-type in play.	04-02-11
