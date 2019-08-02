@@ -64,7 +64,6 @@ Marksman :
 	Buffs
 -The Elf Archaeologist gain 1 Attack.
 -The Elf's Firework Factory now summon 2 bombs instead of 1.
-La Fabrique d'Artifices invoque désormais deux bombes au lieu d'une.
 -The Boy who cried Wolf gain 4 Attack.
 -The Bestial Summon spell now cost 1 less and gain the "Beast" sub-type.
 -Ganesh, King of the Beasts, X being the same value as his HPs. He also cost 1 less to play.
